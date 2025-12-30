@@ -1,0 +1,1807 @@
+[
+    {
+        "No": "1",
+        "word": "able",
+        "meaning": "【形】〔be able toの形で〕 ～することができる"
+    },
+    {
+        "No": "2",
+        "word": "afraid",
+        "meaning": "【形】1. 〔be afraid of ～ の形で〕 ～をおそれる、こわがる、心配する 2. 〔I am afraid ～の形で〕　残念ですが［すみませんが］ ～（と思います）"
+    },
+    {
+        "No": "3",
+        "word": "African-American",
+        "meaning": "【形】アフリカ系アメリカ人の"
+    },
+    {
+        "No": "4",
+        "word": "all",
+        "meaning": "【形】1. 全～、～全体 2. 全ての、あらゆる"
+    },
+    {
+        "No": "5",
+        "word": "alone",
+        "meaning": "【形】ただ１人の"
+    },
+    {
+        "No": "6",
+        "word": "amazing",
+        "meaning": "【形】驚くべき、目を見張らせる"
+    },
+    {
+        "No": "7",
+        "word": "American",
+        "meaning": "【形】アメリカ人の、アメリカの"
+    },
+    {
+        "No": "8",
+        "word": "ancient",
+        "meaning": "【形】古代の"
+    },
+    {
+        "No": "9",
+        "word": "angry",
+        "meaning": "【形】怒った、腹を立てた"
+    },
+    {
+        "No": "10",
+        "word": "another",
+        "meaning": "【形】1. もう１つの 2. 別の、異なった、ほかの"
+    },
+    {
+        "No": "11",
+        "word": "any",
+        "meaning": "【形】1. 〔疑問文で〕 何か（の）、少しでも 2. 〔肯定文で〕 どのような～でも　　 3. 〔否定文で〕 少しも、だれも、何も（～ない）"
+    },
+    {
+        "No": "12",
+        "word": "artificial",
+        "meaning": "【形】人工の"
+    },
+    {
+        "No": "13",
+        "word": "atomic",
+        "meaning": "【形】原子（力）の　〔atomic bombで〕原子爆弾、原爆"
+    },
+    {
+        "No": "14",
+        "word": "bad",
+        "meaning": "【形】1. 悪い 2. 〔That's too bad. の形で〕 残念だ。お気の毒に。"
+    },
+    {
+        "No": "15",
+        "word": "beautiful",
+        "meaning": "【形】美しい、きれいな、すばらしい"
+    },
+    {
+        "No": "16",
+        "word": "best",
+        "meaning": "【形】1. 〔goodの最上級〕最もよい 2. 〔（With) Best wishesの形で〕"
+    },
+    {
+        "No": "17",
+        "word": "better",
+        "meaning": "【形】〔good"
+    },
+    {
+        "No": "18",
+        "word": "big",
+        "meaning": "【形】1. 大きい 2. （程度が）すごい、大～  〔たとえば a big fan の形で〕 大ファン"
+    },
+    {
+        "No": "19",
+        "word": "billion",
+        "meaning": "【形】10億の"
+    },
+    {
+        "No": "20",
+        "word": "black",
+        "meaning": "【形】黒い、黒人の"
+    },
+    {
+        "No": "21",
+        "word": "blind",
+        "meaning": "【形】目の不自由な"
+    },
+    {
+        "No": "22",
+        "word": "blue",
+        "meaning": "【形】1. 青い 2. 青ざめた、ゆううつな"
+    },
+    {
+        "No": "23",
+        "word": "boring",
+        "meaning": "【形】たいくつな"
+    },
+    {
+        "No": "24",
+        "word": "brave",
+        "meaning": "【形】勇敢な"
+    },
+    {
+        "No": "25",
+        "word": "bright",
+        "meaning": "【形】かがやいている、明るい"
+    },
+    {
+        "No": "26",
+        "word": "British",
+        "meaning": "【形】英国（人）の、イギリス（人）の"
+    },
+    {
+        "No": "27",
+        "word": "brown",
+        "meaning": "【形】茶色の"
+    },
+    {
+        "No": "28",
+        "word": "busy",
+        "meaning": "【形】忙しい"
+    },
+    {
+        "No": "29",
+        "word": "capital",
+        "meaning": "【形】大文字の"
+    },
+    {
+        "No": "30",
+        "word": "careful",
+        "meaning": "【形】注意深い、慎重な"
+    },
+    {
+        "No": "31",
+        "word": "cheap",
+        "meaning": "【形】安い、安っぽい"
+    },
+    {
+        "No": "32",
+        "word": "cheerful",
+        "meaning": "【形】（生活などが）明るい、快活・陽気な"
+    },
+    {
+        "No": "33",
+        "word": "Chinese",
+        "meaning": "【形】中国の、中国人の、中国語の"
+    },
+    {
+        "No": "34",
+        "word": "classic",
+        "meaning": "【形】古典的な、代表的な"
+    },
+    {
+        "No": "35",
+        "word": "clean",
+        "meaning": "【形】きれいな、清潔な、クリーンな"
+    },
+    {
+        "No": "36",
+        "word": "clear",
+        "meaning": "【形】1. 澄んだ、晴れた 2. はっきりした、（話しの内容・事実など）明らかな"
+    },
+    {
+        "No": "37",
+        "word": "clever",
+        "meaning": "【形】りこうな"
+    },
+    {
+        "No": "38",
+        "word": "close",
+        "meaning": "【形】1. 近い、接近した、親密な、親しい 2. 接戦の、互角の"
+    },
+    {
+        "No": "39",
+        "word": "cloudy",
+        "meaning": "【形】曇りの"
+    },
+    {
+        "No": "40",
+        "word": "cold",
+        "meaning": "【形】寒い、冷たい"
+    },
+    {
+        "No": "41",
+        "word": "comic",
+        "meaning": "【形】喜劇の　〔comic storytelling で〕話芸"
+    },
+    {
+        "No": "42",
+        "word": "common",
+        "meaning": "【形】ふつうの、よくある、ありふれた、平凡な"
+    },
+    {
+        "No": "43",
+        "word": "convenient",
+        "meaning": "【形】便利な、使いやすい、好都合な"
+    },
+    {
+        "No": "44",
+        "word": "cool",
+        "meaning": "【形】1. 涼しい 2. かっこいい、すてきな"
+    },
+    {
+        "No": "45",
+        "word": "crowded",
+        "meaning": "【形】混雑した、満員の"
+    },
+    {
+        "No": "46",
+        "word": "cute",
+        "meaning": "【形】かわいい、かわいらしい"
+    },
+    {
+        "No": "47",
+        "word": "daily",
+        "meaning": "【形】毎日の、日々の、日常の"
+    },
+    {
+        "No": "48",
+        "word": "dangerous",
+        "meaning": "【形】危ない、危険な"
+    },
+    {
+        "No": "49",
+        "word": "dark",
+        "meaning": "【形】1. （光がなくて）暗い 2. （色が）濃い"
+    },
+    {
+        "No": "50",
+        "word": "dead",
+        "meaning": "【形】死んだ、死んでいる"
+    },
+    {
+        "No": "51",
+        "word": "dear",
+        "meaning": "【形】《手紙の書き出しとして》 ～様、拝啓、親愛なる"
+    },
+    {
+        "No": "52",
+        "word": "deep",
+        "meaning": "【形】深い"
+    },
+    {
+        "No": "53",
+        "word": "delicious",
+        "meaning": "【形】おいしい"
+    },
+    {
+        "No": "54",
+        "word": "depressed",
+        "meaning": "【形】落胆した、元気をなくした"
+    },
+    {
+        "No": "55",
+        "word": "different",
+        "meaning": "【形】1. さまざまな、いろいろな、別々の 2. ちがった、異なる"
+    },
+    {
+        "No": "56",
+        "word": "difficult",
+        "meaning": "【形】難しい、困難な"
+    },
+    {
+        "No": "57",
+        "word": "displaced",
+        "meaning": "【形】故国を追われた、難民の"
+    },
+    {
+        "No": "58",
+        "word": "down",
+        "meaning": "【形】元気のない"
+    },
+    {
+        "No": "59",
+        "word": "dressed",
+        "meaning": "【形】服を着た　〔get dressed で〕服を着る"
+    },
+    {
+        "No": "60",
+        "word": "each",
+        "meaning": "【形】それぞれの、各～"
+    },
+    {
+        "No": "61",
+        "word": "early",
+        "meaning": "【形】早い"
+    },
+    {
+        "No": "62",
+        "word": "eastern",
+        "meaning": "【形】東の、東部の、東方の"
+    },
+    {
+        "No": "63",
+        "word": "easy",
+        "meaning": "【形】やさしい、簡単な"
+    },
+    {
+        "No": "64",
+        "word": "efficient",
+        "meaning": "【形】効率のよい、能率的な"
+    },
+    {
+        "No": "65",
+        "word": "eight",
+        "meaning": "【形】8つの"
+    },
+    {
+        "No": "66",
+        "word": "eighteen",
+        "meaning": "【形】18の"
+    },
+    {
+        "No": "67",
+        "word": "eighteenth",
+        "meaning": "【形】18番めの"
+    },
+    {
+        "No": "68",
+        "word": "eighth",
+        "meaning": "【形】8番めの"
+    },
+    {
+        "No": "69",
+        "word": "eighty",
+        "meaning": "【形】80の"
+    },
+    {
+        "No": "70",
+        "word": "elderly",
+        "meaning": "【形】年配の、高齢の"
+    },
+    {
+        "No": "71",
+        "word": "elementary",
+        "meaning": "【形】基本の、初級の"
+    },
+    {
+        "No": "72",
+        "word": "eleven",
+        "meaning": "【形】11の"
+    },
+    {
+        "No": "73",
+        "word": "eleventh",
+        "meaning": "【形】11番めの"
+    },
+    {
+        "No": "74",
+        "word": "embarrassed",
+        "meaning": "【形】恥ずかしい、気まずい"
+    },
+    {
+        "No": "75",
+        "word": "empty",
+        "meaning": "【形】からの、からっぽの"
+    },
+    {
+        "No": "76",
+        "word": "English",
+        "meaning": "【形】英語の、英国の、イングランドの"
+    },
+    {
+        "No": "77",
+        "word": "enough",
+        "meaning": "【形】十分な、必要なだけの、ちょうどいい数［量］の"
+    },
+    {
+        "No": "78",
+        "word": "equal",
+        "meaning": "【形】平等な"
+    },
+    {
+        "No": "79",
+        "word": "every",
+        "meaning": "【形】〔名詞の単数形につけて〕 どの～もみな、～ごとに、毎～"
+    },
+    {
+        "No": "80",
+        "word": "excellent",
+        "meaning": "【形】非常に優れた、優秀な"
+    },
+    {
+        "No": "81",
+        "word": "excited",
+        "meaning": "【形】わくわくした、興奮した"
+    },
+    {
+        "No": "82",
+        "word": "exciting",
+        "meaning": "【形】とてもおもしろい、わくわくするような"
+    },
+    {
+        "No": "83",
+        "word": "expensive",
+        "meaning": "【形】高価な"
+    },
+    {
+        "No": "84",
+        "word": "fair",
+        "meaning": "【形】公正な"
+    },
+    {
+        "No": "85",
+        "word": "famous",
+        "meaning": "【形】有名な"
+    },
+    {
+        "No": "86",
+        "word": "fast",
+        "meaning": "【形】(速度が) 速い、短時間で終わる"
+    },
+    {
+        "No": "87",
+        "word": "favorite",
+        "meaning": "【形】いちばん好きな、お気に入りの、大好きな"
+    },
+    {
+        "No": "88",
+        "word": "fifteen",
+        "meaning": "【形】15の"
+    },
+    {
+        "No": "89",
+        "word": "fifteenth",
+        "meaning": "【形】15番目の"
+    },
+    {
+        "No": "90",
+        "word": "fifth",
+        "meaning": "【形】5番目の"
+    },
+    {
+        "No": "91",
+        "word": "fifty",
+        "meaning": "【形】50の"
+    },
+    {
+        "No": "92",
+        "word": "final",
+        "meaning": "【形】最後の、最終の"
+    },
+    {
+        "No": "93",
+        "word": "fine",
+        "meaning": "【形】1. すばらしい 2. 晴れた　  3. 元気な、調子のよい 4. 結構な、構わない"
+    },
+    {
+        "No": "94",
+        "word": "first",
+        "meaning": "【形】1番目の、最初の"
+    },
+    {
+        "No": "95",
+        "word": "five",
+        "meaning": "【形】5つの"
+    },
+    {
+        "No": "96",
+        "word": "fluffy",
+        "meaning": "【形】ふわふわした、柔らかい"
+    },
+    {
+        "No": "97",
+        "word": "foreign",
+        "meaning": "【形】外国の"
+    },
+    {
+        "No": "98",
+        "word": "former",
+        "meaning": "【形】以前の、前の、昔の"
+    },
+    {
+        "No": "99",
+        "word": "forty",
+        "meaning": "【形】40の"
+    },
+    {
+        "No": "100",
+        "word": "four",
+        "meaning": "【形】4つの"
+    },
+    {
+        "No": "101",
+        "word": "fourteen",
+        "meaning": "【形】14の"
+    },
+    {
+        "No": "102",
+        "word": "fourth",
+        "meaning": "【形】4番目の"
+    },
+    {
+        "No": "103",
+        "word": "free",
+        "meaning": "【形】1. 自由な［で］ 2. ひまな［で］、時間がある 3. 無料の［で］"
+    },
+    {
+        "No": "104",
+        "word": "French",
+        "meaning": "【形】フランスの、フランス人の、フランス語の"
+    },
+    {
+        "No": "105",
+        "word": "fresh",
+        "meaning": "【形】新鮮な、新しい"
+    },
+    {
+        "No": "106",
+        "word": "friendly",
+        "meaning": "【形】親しみのある、好意的な、友好的な"
+    },
+    {
+        "No": "107",
+        "word": "full",
+        "meaning": "【形】いっぱいの"
+    },
+    {
+        "No": "108",
+        "word": "funny",
+        "meaning": "【形】面白い、愉快な"
+    },
+    {
+        "No": "109",
+        "word": "future",
+        "meaning": "【形】未来の、将来の"
+    },
+    {
+        "No": "110",
+        "word": "glad",
+        "meaning": "【形】うれしい"
+    },
+    {
+        "No": "111",
+        "word": "global",
+        "meaning": "【形】地球の"
+    },
+    {
+        "No": "112",
+        "word": "gold",
+        "meaning": "【形】金の"
+    },
+    {
+        "No": "113",
+        "word": "good",
+        "meaning": "【形】1. よい、すぐれた 2. 行儀がよい 3. おいしい 4. りっぱな、正しい 5. 十分な 6. 〔Good morning.〕おはようございます 7. 非常に親しい 〔a good friendの形で〕仲良し 8. ためになる、よい 9. 楽しい､愉快な 10. 上手な、うまい、得意な　(特にbe good at ～の形で)"
+    },
+    {
+        "No": "114",
+        "word": "gray",
+        "meaning": "【形】灰色の、ねずみ色の"
+    },
+    {
+        "No": "115",
+        "word": "great",
+        "meaning": "【形】1. すばらしい、みごとな 2. 《程度を示して》多大な、非常な、（びっくりするほど）大きい"
+    },
+    {
+        "No": "116",
+        "word": "green",
+        "meaning": "【形】1. 緑（色）の 2. 植物の生えた"
+    },
+    {
+        "No": "117",
+        "word": "happy",
+        "meaning": "【形】1. 幸せな､うれしい､たのしい 2. おめでとう 〔たとえば Happy New Year! 等の形で〕 新年おめでとう"
+    },
+    {
+        "No": "118",
+        "word": "hard",
+        "meaning": "【形】1. 難しい、骨の折れる、困難だ 2. つらい、耐えがたい、苦しい 3. 一生懸命な 4.固い"
+    },
+    {
+        "No": "119",
+        "word": "Hawaiian",
+        "meaning": "【形】ハワイの"
+    },
+    {
+        "No": "120",
+        "word": "heavy",
+        "meaning": "【形】重い"
+    },
+    {
+        "No": "121",
+        "word": "helpful",
+        "meaning": "【形】役に立つ、助けになる"
+    },
+    {
+        "No": "122",
+        "word": "high",
+        "meaning": "【形】1. （高さ・値段・程度・地位が）高い 2. 高さが～で"
+    },
+    {
+        "No": "123",
+        "word": "home",
+        "meaning": "【形】家庭の、家庭用の"
+    },
+    {
+        "No": "124",
+        "word": "homesick",
+        "meaning": "【形】うちを恋しがる、故郷を慕う、ホームシックの"
+    },
+    {
+        "No": "125",
+        "word": "hopeless",
+        "meaning": "【形】絶望した"
+    },
+    {
+        "No": "126",
+        "word": "hot",
+        "meaning": "【形】1. 熱い 2. 暑い"
+    },
+    {
+        "No": "127",
+        "word": "huge",
+        "meaning": "【形】巨大な"
+    },
+    {
+        "No": "128",
+        "word": "humid",
+        "meaning": "【形】蒸し暑い"
+    },
+    {
+        "No": "129",
+        "word": "hundred",
+        "meaning": "【形】100の"
+    },
+    {
+        "No": "130",
+        "word": "hungry",
+        "meaning": "【形】お腹がすいた、飢えた"
+    },
+    {
+        "No": "131",
+        "word": "iced",
+        "meaning": "【形】〔飲みものが〕(氷で)冷やした"
+    },
+    {
+        "No": "132",
+        "word": "important",
+        "meaning": "【形】重要な、重大な、大切な"
+    },
+    {
+        "No": "133",
+        "word": "impossible",
+        "meaning": "【形】不可能な、ありえない"
+    },
+    {
+        "No": "134",
+        "word": "impressive",
+        "meaning": "【形】印象的な、深い感動を与える"
+    },
+    {
+        "No": "135",
+        "word": "Indian",
+        "meaning": "【形】インド(人）の"
+    },
+    {
+        "No": "136",
+        "word": "industrial",
+        "meaning": "【形】産業の"
+    },
+    {
+        "No": "137",
+        "word": "intense",
+        "meaning": "【形】激しい、厳しい、強烈な"
+    },
+    {
+        "No": "138",
+        "word": "interested",
+        "meaning": "【形】興味をもった､関心がある　〔be interested in～の形で〕 ～に興味がある"
+    },
+    {
+        "No": "139",
+        "word": "interesting",
+        "meaning": "【形】《人に知的な興味をあたえるような意味で》 おもしろい、興味深い"
+    },
+    {
+        "No": "140",
+        "word": "international",
+        "meaning": "【形】国際的な、万国共通の"
+    },
+    {
+        "No": "141",
+        "word": "Italian",
+        "meaning": "【形】イタリアの、イタリア人の"
+    },
+    {
+        "No": "142",
+        "word": "itchy",
+        "meaning": "【形】かゆい"
+    },
+    {
+        "No": "143",
+        "word": "Japanese",
+        "meaning": "【形】日本の、日本人の、日本語の"
+    },
+    {
+        "No": "144",
+        "word": "junior",
+        "meaning": "【形】下級の、年下の"
+    },
+    {
+        "No": "145",
+        "word": "kind",
+        "meaning": "【形】親切な、やさしい"
+    },
+    {
+        "No": "146",
+        "word": "Korean",
+        "meaning": "【形】韓国・朝鮮（人）の、韓国・朝鮮語の"
+    },
+    {
+        "No": "147",
+        "word": "large",
+        "meaning": "【形】（広くて）大きい"
+    },
+    {
+        "No": "148",
+        "word": "last",
+        "meaning": "【形】1. 先～、昨～、（時間的に）この前の 2. 最後の"
+    },
+    {
+        "No": "149",
+        "word": "late",
+        "meaning": "【形】遅れた、遅刻した、遅い、最近の"
+    },
+    {
+        "No": "150",
+        "word": "latest",
+        "meaning": "【形】最新の"
+    },
+    {
+        "No": "151",
+        "word": "least",
+        "meaning": "【形】littleの最上級"
+    },
+    {
+        "No": "152",
+        "word": "left",
+        "meaning": "【形】左の"
+    },
+    {
+        "No": "153",
+        "word": "less",
+        "meaning": "【形】littleの比較級、より少ない"
+    },
+    {
+        "No": "154",
+        "word": "light",
+        "meaning": "【形】1. 明るい 2. 軽い"
+    },
+    {
+        "No": "155",
+        "word": "limited",
+        "meaning": "【形】限られた、有限の"
+    },
+    {
+        "No": "156",
+        "word": "little",
+        "meaning": "【形】1. 〔a little＋数えられない名詞で〕 (量が) 少しの、少量の 2. 〔 a をつけないで〕 ほとんど～ない 3. 小さい、かわいらしい 4. 年少の、幼い 5. ささいな"
+    },
+    {
+        "No": "157",
+        "word": "living",
+        "meaning": "【形】生きている"
+    },
+    {
+        "No": "158",
+        "word": "lonely",
+        "meaning": "【形】孤独な、さびしい"
+    },
+    {
+        "No": "159",
+        "word": "long",
+        "meaning": "【形】1. (時間・長さ・距離が)長い 2. 長さが～で"
+    },
+    {
+        "No": "160",
+        "word": "loud",
+        "meaning": "【形】（声、音などが）大きい"
+    },
+    {
+        "No": "161",
+        "word": "low",
+        "meaning": "【形】低い"
+    },
+    {
+        "No": "162",
+        "word": "lucky",
+        "meaning": "【形】運のいい、ついている"
+    },
+    {
+        "No": "163",
+        "word": "magic",
+        "meaning": "【形】手品の"
+    },
+    {
+        "No": "164",
+        "word": "main",
+        "meaning": "【形】おもな、主要な"
+    },
+    {
+        "No": "165",
+        "word": "majestic",
+        "meaning": "【形】荘厳な、堂々とした"
+    },
+    {
+        "No": "166",
+        "word": "major",
+        "meaning": "【形】(他と比べて)大きな、主要な、重要な"
+    },
+    {
+        "No": "167",
+        "word": "many",
+        "meaning": "【形】多くの、多数の"
+    },
+    {
+        "No": "168",
+        "word": "memorial",
+        "meaning": "【形】記念の"
+    },
+    {
+        "No": "169",
+        "word": "million",
+        "meaning": "【形】百万の"
+    },
+    {
+        "No": "170",
+        "word": "missing",
+        "meaning": "【形】紛失した、行方不明の"
+    },
+    {
+        "No": "171",
+        "word": "model",
+        "meaning": "【形】模型の"
+    },
+    {
+        "No": "172",
+        "word": "more",
+        "meaning": "【形】1. もっと多くの 〔many"
+    },
+    {
+        "No": "173",
+        "word": "most",
+        "meaning": "【形】1. 最も多くの〔many"
+    },
+    {
+        "No": "174",
+        "word": "much",
+        "meaning": "【形】1. (量が)多くの、たくさんの 2. 〔How much～? の形で〕 いくら～か"
+    },
+    {
+        "No": "175",
+        "word": "mysterious",
+        "meaning": "【形】ふしぎな、不可解な"
+    },
+    {
+        "No": "176",
+        "word": "narrow",
+        "meaning": "【形】(幅が)せまい"
+    },
+    {
+        "No": "177",
+        "word": "national",
+        "meaning": "【形】1. 国の、国民の 2. 全国的な"
+    },
+    {
+        "No": "178",
+        "word": "native",
+        "meaning": "【形】(国、言語などが)生まれたときからの"
+    },
+    {
+        "No": "179",
+        "word": "natural",
+        "meaning": "【形】自然な、当然の、普通の"
+    },
+    {
+        "No": "180",
+        "word": "naughty",
+        "meaning": "【形】いたずらな、わんぱくな"
+    },
+    {
+        "No": "181",
+        "word": "necessary",
+        "meaning": "【形】必要な、なくてはならない"
+    },
+    {
+        "No": "182",
+        "word": "nervous",
+        "meaning": "【形】緊張して、神経質な、ドキドキして、臆病な"
+    },
+    {
+        "No": "183",
+        "word": "new",
+        "meaning": "【形】新しい、新任の、見慣れない"
+    },
+    {
+        "No": "184",
+        "word": "next",
+        "meaning": "【形】次の、今度の"
+    },
+    {
+        "No": "185",
+        "word": "nice",
+        "meaning": "【形】1. よい、すてきな 2. 〔Nice to meet you. の形で〕 はじめまして 3. （～に対して）親切な、優しい、思いやりがある"
+    },
+    {
+        "No": "186",
+        "word": "nine",
+        "meaning": "【形】９つの"
+    },
+    {
+        "No": "187",
+        "word": "nineteen",
+        "meaning": "【形】19の"
+    },
+    {
+        "No": "188",
+        "word": "ninety",
+        "meaning": "【形】90の"
+    },
+    {
+        "No": "189",
+        "word": "ninth",
+        "meaning": "【形】9番目の"
+    },
+    {
+        "No": "190",
+        "word": "no",
+        "meaning": "【形】１人［１つ］も～ない、少しの～もない"
+    },
+    {
+        "No": "191",
+        "word": "non-native",
+        "meaning": "【形】(話し手が）母語によらない"
+    },
+    {
+        "No": "192",
+        "word": "northern",
+        "meaning": "【形】北部の"
+    },
+    {
+        "No": "193",
+        "word": "OK",
+        "meaning": "【形】よくて､だいじょうぶで"
+    },
+    {
+        "No": "194",
+        "word": "old",
+        "meaning": "【形】1. 古い､古くからの､昔の 2. ～歳の(years oldの形で）､創立～年の 3. 年をとった、年上の"
+    },
+    {
+        "No": "195",
+        "word": "one",
+        "meaning": "【形】1. １つの､１人の 2. ある～"
+    },
+    {
+        "No": "196",
+        "word": "only",
+        "meaning": "【形】唯一の､ただ１つ［１人］の"
+    },
+    {
+        "No": "197",
+        "word": "open",
+        "meaning": "【形】あいている、（店などが）営業中の［で］"
+    },
+    {
+        "No": "198",
+        "word": "opposite",
+        "meaning": "【形】反対の"
+    },
+    {
+        "No": "199",
+        "word": "ordinary",
+        "meaning": "【形】普通の"
+    },
+    {
+        "No": "200",
+        "word": "original",
+        "meaning": "【形】独自の"
+    },
+    {
+        "No": "201",
+        "word": "other",
+        "meaning": "【形】1. 〔the other～ の形で〕 《２つのものについて》 もう一方の～   《３つ以上のものについて》 残りの～ 2. ほかの、他の"
+    },
+    {
+        "No": "202",
+        "word": "own",
+        "meaning": "【形】～自身の　 〔たとえば my own house の形で〕 私自身の家"
+    },
+    {
+        "No": "203",
+        "word": "pale",
+        "meaning": "【形】顔色の悪い"
+    },
+    {
+        "No": "204",
+        "word": "paralyzed",
+        "meaning": "【形】麻痺した"
+    },
+    {
+        "No": "205",
+        "word": "peaceful",
+        "meaning": "【形】平和な、穏やかな"
+    },
+    {
+        "No": "206",
+        "word": "perfect",
+        "meaning": "【形】完全な、完璧な"
+    },
+    {
+        "No": "207",
+        "word": "personal",
+        "meaning": "【形】個人的な"
+    },
+    {
+        "No": "208",
+        "word": "physically challenged",
+        "meaning": "【形】身体に障害のある"
+    },
+    {
+        "No": "209",
+        "word": "pink",
+        "meaning": "【形】ピンク色（の）、もも色（の）"
+    },
+    {
+        "No": "210",
+        "word": "plastic",
+        "meaning": "【形】プラスチック製の、ビニール製の"
+    },
+    {
+        "No": "211",
+        "word": "playful",
+        "meaning": "【形】楽しげな、陽気な"
+    },
+    {
+        "No": "212",
+        "word": "political",
+        "meaning": "【形】政治の、政治に関する"
+    },
+    {
+        "No": "213",
+        "word": "poor",
+        "meaning": "【形】1. 貧しい 2. かわいそうな、へたな 3. 劣った、優れない"
+    },
+    {
+        "No": "214",
+        "word": "pop",
+        "meaning": "【形】大衆的な"
+    },
+    {
+        "No": "215",
+        "word": "popular",
+        "meaning": "【形】人気がある、流行している､大衆的な"
+    },
+    {
+        "No": "216",
+        "word": "positive",
+        "meaning": "【形】積極的な、肯定的な、前向きな"
+    },
+    {
+        "No": "217",
+        "word": "possible",
+        "meaning": "【形】可能な、実行できる"
+    },
+    {
+        "No": "218",
+        "word": "powerful",
+        "meaning": "【形】力強い、迫力のある"
+    },
+    {
+        "No": "219",
+        "word": "pretty",
+        "meaning": "【形】かわいい、きれいな、感じのよい"
+    },
+    {
+        "No": "220",
+        "word": "professional",
+        "meaning": "【形】専門（職）の、プロの"
+    },
+    {
+        "No": "221",
+        "word": "proud",
+        "meaning": "【形】〔be proud of ～の形で〕～に誇りを持っている"
+    },
+    {
+        "No": "222",
+        "word": "public",
+        "meaning": "【形】公の、公共の"
+    },
+    {
+        "No": "223",
+        "word": "purple",
+        "meaning": "【形】紫色（の）"
+    },
+    {
+        "No": "224",
+        "word": "quick",
+        "meaning": "【形】すばやい、速い"
+    },
+    {
+        "No": "225",
+        "word": "quiet",
+        "meaning": "【形】静かな"
+    },
+    {
+        "No": "226",
+        "word": "rainy",
+        "meaning": "【形】雨の多い、雨降りの"
+    },
+    {
+        "No": "227",
+        "word": "ready",
+        "meaning": "【形】準備ができている"
+    },
+    {
+        "No": "228",
+        "word": "real",
+        "meaning": "【形】本当の、本物の"
+    },
+    {
+        "No": "229",
+        "word": "red",
+        "meaning": "【形】赤い、赤色（の）、赤"
+    },
+    {
+        "No": "230",
+        "word": "regular",
+        "meaning": "【形】正規の、レギュラーの"
+    },
+    {
+        "No": "231",
+        "word": "renewable",
+        "meaning": "【形】〔renewable energy で〕再生可能エネルギー"
+    },
+    {
+        "No": "232",
+        "word": "responsible",
+        "meaning": "【形】責任を負うべき"
+    },
+    {
+        "No": "233",
+        "word": "return",
+        "meaning": "【形】帰りの"
+    },
+    {
+        "No": "234",
+        "word": "rich",
+        "meaning": "【形】豊かな、金持ちの"
+    },
+    {
+        "No": "235",
+        "word": "ridiculous",
+        "meaning": "【形】とんでもない、ばかげた"
+    },
+    {
+        "No": "236",
+        "word": "right",
+        "meaning": "【形】1. 正しい 2. 健康な、正常な 3. 〔All right.の形で〕 よろしい、わかった 4. 右の"
+    },
+    {
+        "No": "237",
+        "word": "roast",
+        "meaning": "【形】焼いた、あぶった"
+    },
+    {
+        "No": "238",
+        "word": "round",
+        "meaning": "【形】丸い"
+    },
+    {
+        "No": "239",
+        "word": "runny",
+        "meaning": "【形】鼻水が出る"
+    },
+    {
+        "No": "240",
+        "word": "sacred",
+        "meaning": "【形】神聖な"
+    },
+    {
+        "No": "241",
+        "word": "sad",
+        "meaning": "【形】悲しい"
+    },
+    {
+        "No": "242",
+        "word": "safe",
+        "meaning": "【形】安全な"
+    },
+    {
+        "No": "243",
+        "word": "same",
+        "meaning": "【形】〔the same の形で〕 同じ、同一の"
+    },
+    {
+        "No": "244",
+        "word": "scared",
+        "meaning": "【形】（～が）こわい　〔be scared of で〕～がこわい"
+    },
+    {
+        "No": "245",
+        "word": "scary",
+        "meaning": "【形】これい"
+    },
+    {
+        "No": "246",
+        "word": "second",
+        "meaning": "【形】第２の、２番めの"
+    },
+    {
+        "No": "247",
+        "word": "senior",
+        "meaning": "【形】年上の、上級の"
+    },
+    {
+        "No": "248",
+        "word": "serious",
+        "meaning": "【形】（病気などが）重い、重大な"
+    },
+    {
+        "No": "249",
+        "word": "seven",
+        "meaning": "【形】7、７つの"
+    },
+    {
+        "No": "250",
+        "word": "seventeen",
+        "meaning": "【形】17の"
+    },
+    {
+        "No": "251",
+        "word": "seventeenth",
+        "meaning": "【形】17の番目の、１７日"
+    },
+    {
+        "No": "252",
+        "word": "seventh",
+        "meaning": "【形】７番めの"
+    },
+    {
+        "No": "253",
+        "word": "seventy",
+        "meaning": "【形】70、70の"
+    },
+    {
+        "No": "254",
+        "word": "several",
+        "meaning": "【形】いくつかの"
+    },
+    {
+        "No": "255",
+        "word": "severe",
+        "meaning": "【形】厳しい"
+    },
+    {
+        "No": "256",
+        "word": "shiny",
+        "meaning": "【形】輝く、光る"
+    },
+    {
+        "No": "257",
+        "word": "short",
+        "meaning": "【形】短い､背が低い"
+    },
+    {
+        "No": "258",
+        "word": "shy",
+        "meaning": "【形】内気な、恥ずかしがりの"
+    },
+    {
+        "No": "259",
+        "word": "sick",
+        "meaning": "【形】病気の［に］、気分が悪い"
+    },
+    {
+        "No": "260",
+        "word": "silent",
+        "meaning": "【形】静かな、沈黙の"
+    },
+    {
+        "No": "261",
+        "word": "similar",
+        "meaning": "【形】似ている"
+    },
+    {
+        "No": "262",
+        "word": "simple",
+        "meaning": "【形】簡単な、わかりやすい"
+    },
+    {
+        "No": "263",
+        "word": "single",
+        "meaning": "【形】たったひとつの"
+    },
+    {
+        "No": "264",
+        "word": "six",
+        "meaning": "【形】6の"
+    },
+    {
+        "No": "265",
+        "word": "sixteen",
+        "meaning": "【形】16の"
+    },
+    {
+        "No": "266",
+        "word": "sixth",
+        "meaning": "【形】6番めの"
+    },
+    {
+        "No": "267",
+        "word": "sixty",
+        "meaning": "【形】60の"
+    },
+    {
+        "No": "268",
+        "word": "skillful",
+        "meaning": "【形】熟練した"
+    },
+    {
+        "No": "269",
+        "word": "sleepy",
+        "meaning": "【形】ねむい、ねむそうな"
+    },
+    {
+        "No": "270",
+        "word": "slow",
+        "meaning": "【形】ゆっくりとした、のろい、遅い"
+    },
+    {
+        "No": "271",
+        "word": "small",
+        "meaning": "【形】小さい、小さな"
+    },
+    {
+        "No": "272",
+        "word": "smart",
+        "meaning": "【形】利口な、賢い"
+    },
+    {
+        "No": "273",
+        "word": "snowy",
+        "meaning": "【形】雪の多い、雪の降っている"
+    },
+    {
+        "No": "274",
+        "word": "soft",
+        "meaning": "【形】柔らかい"
+    },
+    {
+        "No": "275",
+        "word": "solar",
+        "meaning": "【形】太陽の、〔solar power で〕太陽エネルギー"
+    },
+    {
+        "No": "276",
+        "word": "some",
+        "meaning": "【形】1. 一部の、中には～もいる［ある］ 2. いくつかの、いくらかの"
+    },
+    {
+        "No": "277",
+        "word": "sore",
+        "meaning": "【形】痛い、ヒリヒリする"
+    },
+    {
+        "No": "278",
+        "word": "sorry",
+        "meaning": "【形】1. すまなく思って、残念に思って 2. 〔疑問文で〕なんとおっしゃいましたか。"
+    },
+    {
+        "No": "279",
+        "word": "southeastern",
+        "meaning": "【形】南東の、南東地方の"
+    },
+    {
+        "No": "280",
+        "word": "southern",
+        "meaning": "【形】南の"
+    },
+    {
+        "No": "281",
+        "word": "special",
+        "meaning": "【形】特別の、特殊な"
+    },
+    {
+        "No": "282",
+        "word": "sport",
+        "meaning": "【形】スポーツ（用）の"
+    },
+    {
+        "No": "283",
+        "word": "square",
+        "meaning": "【形】四角の、（面積の単位として）…平方"
+    },
+    {
+        "No": "284",
+        "word": "stiff",
+        "meaning": "【形】かたい"
+    },
+    {
+        "No": "285",
+        "word": "straight",
+        "meaning": "【形】まっすぐな"
+    },
+    {
+        "No": "286",
+        "word": "strange",
+        "meaning": "【形】変な、変わった、なじみのない"
+    },
+    {
+        "No": "287",
+        "word": "strong",
+        "meaning": "【形】強い"
+    },
+    {
+        "No": "288",
+        "word": "successful",
+        "meaning": "【形】成功した"
+    },
+    {
+        "No": "289",
+        "word": "such",
+        "meaning": "【形】そのような、このような"
+    },
+    {
+        "No": "290",
+        "word": "sunny",
+        "meaning": "【形】晴れた、天気のよい"
+    },
+    {
+        "No": "291",
+        "word": "sure",
+        "meaning": "【形】2. 確かな   〔I'm sure ～ の形で〕 ～を確信している"
+    },
+    {
+        "No": "292",
+        "word": "surprised",
+        "meaning": "【形】びっくりした、おどろいた"
+    },
+    {
+        "No": "293",
+        "word": "surprising",
+        "meaning": "【形】驚くべき、すばらしい"
+    },
+    {
+        "No": "294",
+        "word": "sweet",
+        "meaning": "【形】1. (味が)甘い 2. (音、香りなどが)美しい、心地よい"
+    },
+    {
+        "No": "295",
+        "word": "tall",
+        "meaning": "【形】1. 高い、背の高い 2. 〔高さを表す表現のあとに置いて〕 身長［高さ］が～で"
+    },
+    {
+        "No": "296",
+        "word": "ten",
+        "meaning": "【形】10の"
+    },
+    {
+        "No": "297",
+        "word": "tender",
+        "meaning": "【形】やさしい"
+    },
+    {
+        "No": "298",
+        "word": "tenth",
+        "meaning": "【形】10番めの"
+    },
+    {
+        "No": "299",
+        "word": "terrible",
+        "meaning": "【形】ひどい、恐ろしい、こわい"
+    },
+    {
+        "No": "300",
+        "word": "Thai",
+        "meaning": "【形】タイの、タイ人の"
+    },
+    {
+        "No": "301",
+        "word": "that",
+        "meaning": "【形】その、あの"
+    },
+    {
+        "No": "302",
+        "word": "these",
+        "meaning": "【形】1. これらの 2. 近頃の、〔these days で〕近頃、最近"
+    },
+    {
+        "No": "303",
+        "word": "thin",
+        "meaning": "【形】やせた"
+    },
+    {
+        "No": "304",
+        "word": "third",
+        "meaning": "【形】３番目の　　　〔third floor で〕３階"
+    },
+    {
+        "No": "305",
+        "word": "thirsty",
+        "meaning": "【形】のどが渇いた"
+    },
+    {
+        "No": "306",
+        "word": "thirteen",
+        "meaning": "【形】13の"
+    },
+    {
+        "No": "307",
+        "word": "thirteenth",
+        "meaning": "【形】13番めの"
+    },
+    {
+        "No": "308",
+        "word": "thirtieth",
+        "meaning": "【形】30番目（の）、30日"
+    },
+    {
+        "No": "309",
+        "word": "thirty",
+        "meaning": "【形】30の"
+    },
+    {
+        "No": "310",
+        "word": "this",
+        "meaning": "【形】1. この 2.今の、今日の、今度の"
+    },
+    {
+        "No": "311",
+        "word": "those",
+        "meaning": "【形】あれらの、それらの"
+    },
+    {
+        "No": "312",
+        "word": "thousand",
+        "meaning": "【形】1000の"
+    },
+    {
+        "No": "313",
+        "word": "three",
+        "meaning": "【形】3つの"
+    },
+    {
+        "No": "314",
+        "word": "tired",
+        "meaning": "【形】1. つかれた 2. あきた 〔be tired of ～の形で〕～にあきる"
+    },
+    {
+        "No": "315",
+        "word": "tough",
+        "meaning": "【形】〔仕事などが〕困難な"
+    },
+    {
+        "No": "316",
+        "word": "traditional",
+        "meaning": "【形】伝統的な"
+    },
+    {
+        "No": "317",
+        "word": "traveling",
+        "meaning": "【形】巡業する、旅する"
+    },
+    {
+        "No": "318",
+        "word": "true",
+        "meaning": "【形】ほんとうの、真実の"
+    },
+    {
+        "No": "319",
+        "word": "twelfth",
+        "meaning": "【形】12番めの"
+    },
+    {
+        "No": "320",
+        "word": "twelve",
+        "meaning": "【形】12の"
+    },
+    {
+        "No": "321",
+        "word": "twentieth",
+        "meaning": "【形】20番目の"
+    },
+    {
+        "No": "322",
+        "word": "twenty",
+        "meaning": "【形】20の"
+    },
+    {
+        "No": "323",
+        "word": "twenty-eighth",
+        "meaning": "【形】28番目（の）、28日"
+    },
+    {
+        "No": "324",
+        "word": "twenty-fifth",
+        "meaning": "【形】25番目（の）、25日"
+    },
+    {
+        "No": "325",
+        "word": "twenty-first",
+        "meaning": "【形】21番目（の）、21日"
+    },
+    {
+        "No": "326",
+        "word": "twenty-fourth",
+        "meaning": "【形】24番目（の）、24日"
+    },
+    {
+        "No": "327",
+        "word": "twenty-second",
+        "meaning": "【形】22番目（の）、22日"
+    },
+    {
+        "No": "328",
+        "word": "twenty-ninth",
+        "meaning": "【形】29番目（の）、29日"
+    },
+    {
+        "No": "329",
+        "word": "twenty-seventh",
+        "meaning": "【形】27番目（の）、27日"
+    },
+    {
+        "No": "330",
+        "word": "twenty-sixth",
+        "meaning": "【形】26番目（の）、26日"
+    },
+    {
+        "No": "331",
+        "word": "twenty-third",
+        "meaning": "【形】23番目（の）、23日"
+    },
+    {
+        "No": "332",
+        "word": "two",
+        "meaning": "【形】2つの"
+    },
+    {
+        "No": "333",
+        "word": "two-year-old",
+        "meaning": "【形】2歳（の）"
+    },
+    {
+        "No": "334",
+        "word": "unclean",
+        "meaning": "【形】〔宗教上の〕不浄な、汚い、不潔な"
+    },
+    {
+        "No": "335",
+        "word": "unfair",
+        "meaning": "【形】不公平な、不正な"
+    },
+    {
+        "No": "336",
+        "word": "unique",
+        "meaning": "【形】独特の、めずらしい"
+    },
+    {
+        "No": "337",
+        "word": "upset",
+        "meaning": "【形】気が動転した、取り乱した"
+    },
+    {
+        "No": "338",
+        "word": "used",
+        "meaning": "【形】使用済みの、使い古した"
+    },
+    {
+        "No": "339",
+        "word": "useful",
+        "meaning": "【形】役に立つ"
+    },
+    {
+        "No": "340",
+        "word": "various",
+        "meaning": "【形】様々な"
+    },
+    {
+        "No": "341",
+        "word": "vast",
+        "meaning": "【形】広大な"
+    },
+    {
+        "No": "342",
+        "word": "warm",
+        "meaning": "【形】暖かい"
+    },
+    {
+        "No": "343",
+        "word": "weak",
+        "meaning": "【形】1. 弱い、かすかな 2. （液体などが）薄い　〔たとえば weak tea の形で〕  薄いお茶"
+    },
+    {
+        "No": "344",
+        "word": "welcome",
+        "meaning": "【形】歓迎される　〔You're welcome. の形で〕 どういたしまして"
+    },
+    {
+        "No": "345",
+        "word": "well",
+        "meaning": "【形】（体の状態、具合が）よい、健康である"
+    },
+    {
+        "No": "346",
+        "word": "western",
+        "meaning": "【形】西の、西部の　(Western で）欧米の"
+    },
+    {
+        "No": "347",
+        "word": "what",
+        "meaning": "【形】1. 何の、どんな 2. （感嘆を表して）なんという～"
+    },
+    {
+        "No": "348",
+        "word": "which",
+        "meaning": "【形】どちらの、どの"
+    },
+    {
+        "No": "349",
+        "word": "white",
+        "meaning": "【形】白い､白人の"
+    },
+    {
+        "No": "350",
+        "word": "whole",
+        "meaning": "【形】（まとまった）全体の、すべての、全～"
+    },
+    {
+        "No": "351",
+        "word": "wide",
+        "meaning": "【形】幅の広い"
+    },
+    {
+        "No": "352",
+        "word": "wonderful",
+        "meaning": "【形】すばらしい、すてきな、みごとな"
+    },
+    {
+        "No": "353",
+        "word": "wooden",
+        "meaning": "【形】木製の、木造の"
+    },
+    {
+        "No": "354",
+        "word": "worried",
+        "meaning": "【形】心配した、不安な"
+    },
+    {
+        "No": "355",
+        "word": "worse",
+        "meaning": "【形】もっと悪い〔下手な、ひどい〕《 bad の比較級》"
+    },
+    {
+        "No": "356",
+        "word": "worst",
+        "meaning": "【形】もっとも悪い〔下手な、ひどい〕《 bad の最上級》"
+    },
+    {
+        "No": "357",
+        "word": "worth",
+        "meaning": "【形】〔worth ～ing で〕～するだけの価値がある"
+    },
+    {
+        "No": "358",
+        "word": "wrong",
+        "meaning": "【形】1. 間違った 2. 具合･調子の悪い"
+    },
+    {
+        "No": "359",
+        "word": "yellow",
+        "meaning": "【形】黄色い(の)"
+    },
+    {
+        "No": "360",
+        "word": "young",
+        "meaning": "【形】若い"
+    },
+    {
+        "No": "361",
+        "word": "zero",
+        "meaning": "【形】0の、ゼロの"
+    }
+]

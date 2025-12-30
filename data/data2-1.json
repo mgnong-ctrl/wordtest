@@ -1,0 +1,6272 @@
+[
+    {
+        "No": "1",
+        "word": "academy",
+        "meaning": "【名】学院、専門学校"
+    },
+    {
+        "No": "2",
+        "word": "accident",
+        "meaning": "【名】事故"
+    },
+    {
+        "No": "3",
+        "word": "acid rain",
+        "meaning": "【名】酸性雨"
+    },
+    {
+        "No": "4",
+        "word": "action",
+        "meaning": "【名】1. 動き、演技 2. 行動、(一時の)行為、行い"
+    },
+    {
+        "No": "5",
+        "word": "activity",
+        "meaning": "【名】活動"
+    },
+    {
+        "No": "6",
+        "word": "actor",
+        "meaning": "【名】俳優"
+    },
+    {
+        "No": "7",
+        "word": "addition",
+        "meaning": "【名】つけ加えること　〔in addition to ～で〕～に加えて"
+    },
+    {
+        "No": "8",
+        "word": "address",
+        "meaning": "【名】あて名、住所"
+    },
+    {
+        "No": "9",
+        "word": "adult",
+        "meaning": "【名】大人、成人"
+    },
+    {
+        "No": "10",
+        "word": "advantage",
+        "meaning": "【名】有利な立場、利点"
+    },
+    {
+        "No": "11",
+        "word": "adventure",
+        "meaning": "【名】冒険"
+    },
+    {
+        "No": "12",
+        "word": "advertisement",
+        "meaning": "【名】広告、宣伝"
+    },
+    {
+        "No": "13",
+        "word": "advice",
+        "meaning": "【名】忠告、助言、アドバイス"
+    },
+    {
+        "No": "14",
+        "word": "Africa",
+        "meaning": "【名】アフリカ、アフリカ大陸"
+    },
+    {
+        "No": "15",
+        "word": "afternoon",
+        "meaning": "【名】午後"
+    },
+    {
+        "No": "16",
+        "word": "age",
+        "meaning": "【名】年齢、歳"
+    },
+    {
+        "No": "17",
+        "word": "air",
+        "meaning": "【名】空中、空気"
+    },
+    {
+        "No": "18",
+        "word": "air pollution",
+        "meaning": "【名】大気汚染"
+    },
+    {
+        "No": "19",
+        "word": "airport",
+        "meaning": "【名】空港"
+    },
+    {
+        "No": "20",
+        "word": "album",
+        "meaning": "【名】(写真、ＣＤ、レコードなどの) アルバム"
+    },
+    {
+        "No": "21",
+        "word": "ambulance",
+        "meaning": "【名】救急車"
+    },
+    {
+        "No": "22",
+        "word": "America",
+        "meaning": "【名】アメリカ合衆国 〔正式名称はthe United States of America〕"
+    },
+    {
+        "No": "23",
+        "word": "American",
+        "meaning": "【名】アメリカ人、米国人"
+    },
+    {
+        "No": "24",
+        "word": "amusement park",
+        "meaning": "【名】遊園地"
+    },
+    {
+        "No": "25",
+        "word": "ancestor",
+        "meaning": "【名】祖先、先祖"
+    },
+    {
+        "No": "26",
+        "word": "animal",
+        "meaning": "【名】《植物に対して》 動物"
+    },
+    {
+        "No": "27",
+        "word": "animation",
+        "meaning": "【名】動画、アニメーション"
+    },
+    {
+        "No": "28",
+        "word": "anime",
+        "meaning": "【名】（日本の）アニメ"
+    },
+    {
+        "No": "29",
+        "word": "answer",
+        "meaning": "【名】答え、応答、返事"
+    },
+    {
+        "No": "30",
+        "word": "apartment",
+        "meaning": "【名】アパート"
+    },
+    {
+        "No": "31",
+        "word": "apple",
+        "meaning": "【名】リンゴ"
+    },
+    {
+        "No": "32",
+        "word": "April",
+        "meaning": "【名】4月"
+    },
+    {
+        "No": "33",
+        "word": "aquarium",
+        "meaning": "【名】水族館"
+    },
+    {
+        "No": "34",
+        "word": "architect",
+        "meaning": "【名】（建物の）建設者、建築家"
+    },
+    {
+        "No": "35",
+        "word": "area",
+        "meaning": "【名】（大小さまざまの）場所、区域、地域、地方"
+    },
+    {
+        "No": "36",
+        "word": "arena",
+        "meaning": "【名】競技場、アリーナ"
+    },
+    {
+        "No": "37",
+        "word": "arm",
+        "meaning": "【名】腕"
+    },
+    {
+        "No": "38",
+        "word": "arrest",
+        "meaning": "【名】逮捕"
+    },
+    {
+        "No": "39",
+        "word": "art",
+        "meaning": "【名】1. 美術、芸術 2. 技術"
+    },
+    {
+        "No": "40",
+        "word": "artist",
+        "meaning": "【名】芸術家"
+    },
+    {
+        "No": "41",
+        "word": "Asia",
+        "meaning": "【名】アジア（大陸）"
+    },
+    {
+        "No": "42",
+        "word": "astronaut",
+        "meaning": "【名】宇宙飛行士"
+    },
+    {
+        "No": "43",
+        "word": "attention",
+        "meaning": "【名】注意、注目"
+    },
+    {
+        "No": "44",
+        "word": "attitude",
+        "meaning": "【名】態度、考え方、見方"
+    },
+    {
+        "No": "45",
+        "word": "audience",
+        "meaning": "【名】聴衆、観客"
+    },
+    {
+        "No": "46",
+        "word": "August",
+        "meaning": "【名】8月"
+    },
+    {
+        "No": "47",
+        "word": "aunt",
+        "meaning": "【名】おば、おばさん"
+    },
+    {
+        "No": "48",
+        "word": "Australia",
+        "meaning": "【名】オーストラリア"
+    },
+    {
+        "No": "49",
+        "word": "autumn",
+        "meaning": "【名】秋"
+    },
+    {
+        "No": "50",
+        "word": "baby",
+        "meaning": "【名】赤ちゃん"
+    },
+    {
+        "No": "51",
+        "word": "backyard",
+        "meaning": "【名】裏庭"
+    },
+    {
+        "No": "52",
+        "word": "bag",
+        "meaning": "【名】かばん、バッグ、袋"
+    },
+    {
+        "No": "53",
+        "word": "balance",
+        "meaning": "【名】つり合い、バランス、（からだや心の）安定"
+    },
+    {
+        "No": "54",
+        "word": "ball",
+        "meaning": "【名】ボール、球"
+    },
+    {
+        "No": "55",
+        "word": "balloon",
+        "meaning": "【名】風船"
+    },
+    {
+        "No": "56",
+        "word": "bamboo",
+        "meaning": "【名】竹"
+    },
+    {
+        "No": "57",
+        "word": "banana",
+        "meaning": "【名】バナナ"
+    },
+    {
+        "No": "58",
+        "word": "band",
+        "meaning": "【名】楽団、バンド"
+    },
+    {
+        "No": "59",
+        "word": "bank",
+        "meaning": "【名】銀行"
+    },
+    {
+        "No": "60",
+        "word": "barrier",
+        "meaning": "【名】壁、障壁"
+    },
+    {
+        "No": "61",
+        "word": "baseball",
+        "meaning": "【名】野球"
+    },
+    {
+        "No": "62",
+        "word": "basketball",
+        "meaning": "【名】バスケットボール"
+    },
+    {
+        "No": "63",
+        "word": "bat",
+        "meaning": "【名】（野球の）バット"
+    },
+    {
+        "No": "64",
+        "word": "bath",
+        "meaning": "【名】入浴　  〔take a bath の形で〕 入浴する"
+    },
+    {
+        "No": "65",
+        "word": "bathroom",
+        "meaning": "【名】トイレ、浴室"
+    },
+    {
+        "No": "66",
+        "word": "beach",
+        "meaning": "【名】浜、浜辺、海辺、なぎさ"
+    },
+    {
+        "No": "67",
+        "word": "bear",
+        "meaning": "【名】クマ"
+    },
+    {
+        "No": "68",
+        "word": "beauty",
+        "meaning": "【名】美しさ"
+    },
+    {
+        "No": "69",
+        "word": "bed",
+        "meaning": "【名】ベッド 　〔go to bed の形で〕 寝る、床につく"
+    },
+    {
+        "No": "70",
+        "word": "bedroom",
+        "meaning": "【名】寝室"
+    },
+    {
+        "No": "71",
+        "word": "beef",
+        "meaning": "【名】牛肉"
+    },
+    {
+        "No": "72",
+        "word": "bell",
+        "meaning": "【名】鈴、鐘"
+    },
+    {
+        "No": "73",
+        "word": "belt",
+        "meaning": "【名】ベルト、（ズボンの）バンド、帯"
+    },
+    {
+        "No": "74",
+        "word": "bench",
+        "meaning": "【名】長いす、ベンチ"
+    },
+    {
+        "No": "75",
+        "word": "best",
+        "meaning": "【名】最高（のもの）"
+    },
+    {
+        "No": "76",
+        "word": "bicycle",
+        "meaning": "【名】自転車"
+    },
+    {
+        "No": "77",
+        "word": "bike",
+        "meaning": "【名】自転車　　〔bicycle ともいう〕"
+    },
+    {
+        "No": "78",
+        "word": "billion",
+        "meaning": "【名】10億"
+    },
+    {
+        "No": "79",
+        "word": "bird",
+        "meaning": "【名】鳥"
+    },
+    {
+        "No": "80",
+        "word": "birthday",
+        "meaning": "【名】誕生日"
+    },
+    {
+        "No": "81",
+        "word": "black",
+        "meaning": "【名】黒、黒人"
+    },
+    {
+        "No": "82",
+        "word": "blackboard",
+        "meaning": "【名】黒板"
+    },
+    {
+        "No": "83",
+        "word": "block",
+        "meaning": "【名】かたまり、ブロック"
+    },
+    {
+        "No": "84",
+        "word": "blog",
+        "meaning": "【名】(コンピュータ)ブログ"
+    },
+    {
+        "No": "85",
+        "word": "blossom",
+        "meaning": "【名】(特に果樹の)花"
+    },
+    {
+        "No": "86",
+        "word": "blue",
+        "meaning": "【名】青"
+    },
+    {
+        "No": "87",
+        "word": "blueberry",
+        "meaning": "【名】ブルーベリー"
+    },
+    {
+        "No": "88",
+        "word": "board",
+        "meaning": "【名】板、掲示板、黒板"
+    },
+    {
+        "No": "89",
+        "word": "boat",
+        "meaning": "【名】ボート、小舟、船"
+    },
+    {
+        "No": "90",
+        "word": "body",
+        "meaning": "【名】からだ、肉体"
+    },
+    {
+        "No": "91",
+        "word": "bomb",
+        "meaning": "【名】爆弾"
+    },
+    {
+        "No": "92",
+        "word": "book",
+        "meaning": "【名】本、書物"
+    },
+    {
+        "No": "93",
+        "word": "bookcase",
+        "meaning": "【名】本箱"
+    },
+    {
+        "No": "94",
+        "word": "bookstore",
+        "meaning": "【名】本屋、書店"
+    },
+    {
+        "No": "95",
+        "word": "border",
+        "meaning": "【名】国境"
+    },
+    {
+        "No": "96",
+        "word": "bottle",
+        "meaning": "【名】びん"
+    },
+    {
+        "No": "97",
+        "word": "box",
+        "meaning": "【名】箱"
+    },
+    {
+        "No": "98",
+        "word": "boy",
+        "meaning": "【名】男の子、少年、青年"
+    },
+    {
+        "No": "99",
+        "word": "Braille",
+        "meaning": "【名】点字"
+    },
+    {
+        "No": "100",
+        "word": "branch",
+        "meaning": "【名】1. 支社 2. 枝"
+    },
+    {
+        "No": "101",
+        "word": "Brazil",
+        "meaning": "【名】ブラジル"
+    },
+    {
+        "No": "102",
+        "word": "bread",
+        "meaning": "【名】パン"
+    },
+    {
+        "No": "103",
+        "word": "break",
+        "meaning": "【名】休けい、中休み、中断"
+    },
+    {
+        "No": "104",
+        "word": "breakfast",
+        "meaning": "【名】朝食、朝ごはん"
+    },
+    {
+        "No": "105",
+        "word": "bridge",
+        "meaning": "【名】橋"
+    },
+    {
+        "No": "106",
+        "word": "brightness",
+        "meaning": "【名】明るさ"
+    },
+    {
+        "No": "107",
+        "word": "British",
+        "meaning": "【名】英国人、イギリス人"
+    },
+    {
+        "No": "108",
+        "word": "brother",
+        "meaning": "【名】兄、弟、兄弟"
+    },
+    {
+        "No": "109",
+        "word": "brown",
+        "meaning": "【名】茶色"
+    },
+    {
+        "No": "110",
+        "word": "brush",
+        "meaning": "【名】筆"
+    },
+    {
+        "No": "111",
+        "word": "bubble",
+        "meaning": "【名】泡、あぶく"
+    },
+    {
+        "No": "112",
+        "word": "builder",
+        "meaning": "【名】建造者"
+    },
+    {
+        "No": "113",
+        "word": "building",
+        "meaning": "【名】建物、ビル"
+    },
+    {
+        "No": "114",
+        "word": "bump",
+        "meaning": "【名】でこぼこ"
+    },
+    {
+        "No": "115",
+        "word": "burn",
+        "meaning": "【名】やけど"
+    },
+    {
+        "No": "116",
+        "word": "bus",
+        "meaning": "【名】バス"
+    },
+    {
+        "No": "117",
+        "word": "business",
+        "meaning": "【名】商売、事業"
+    },
+    {
+        "No": "118",
+        "word": "butter",
+        "meaning": "【名】バター"
+    },
+    {
+        "No": "119",
+        "word": "button",
+        "meaning": "【名】ボタン"
+    },
+    {
+        "No": "120",
+        "word": "buzzer",
+        "meaning": "【名】ブザー"
+    },
+    {
+        "No": "121",
+        "word": "cacao",
+        "meaning": "【名】カカオ（の実）"
+    },
+    {
+        "No": "122",
+        "word": "cafeteria",
+        "meaning": "【名】カフェテリア、学食"
+    },
+    {
+        "No": "123",
+        "word": "cake",
+        "meaning": "【名】ケーキ"
+    },
+    {
+        "No": "124",
+        "word": "calendar",
+        "meaning": "【名】暦、カレンダー"
+    },
+    {
+        "No": "125",
+        "word": "call",
+        "meaning": "【名】電話(すること)"
+    },
+    {
+        "No": "126",
+        "word": "calligraphy",
+        "meaning": "【名】書道"
+    },
+    {
+        "No": "127",
+        "word": "Cambodia",
+        "meaning": "【名】カンボジア"
+    },
+    {
+        "No": "128",
+        "word": "camera",
+        "meaning": "【名】カメラ"
+    },
+    {
+        "No": "129",
+        "word": "can",
+        "meaning": "【名】（金属製の）缶"
+    },
+    {
+        "No": "130",
+        "word": "Canada",
+        "meaning": "【名】カナダ"
+    },
+    {
+        "No": "131",
+        "word": "Canberra",
+        "meaning": "【名】キャンベラ（オーストラリアの首都）"
+    },
+    {
+        "No": "132",
+        "word": "cap",
+        "meaning": "【名】1. ぼうし 《つばがないか、つばが前だけにあるもの》 2. びんのふた"
+    },
+    {
+        "No": "133",
+        "word": "capital",
+        "meaning": "【名】～の首都、中心地"
+    },
+    {
+        "No": "134",
+        "word": "captain",
+        "meaning": "【名】（チームの）キャプテン"
+    },
+    {
+        "No": "135",
+        "word": "car",
+        "meaning": "【名】自動車、車"
+    },
+    {
+        "No": "136",
+        "word": "card",
+        "meaning": "【名】カード、はがき、トランプの札　 〔たとえば play cards の形で〕 トランプをする"
+    },
+    {
+        "No": "137",
+        "word": "cardboard",
+        "meaning": "【名】段ボール、ボール紙"
+    },
+    {
+        "No": "138",
+        "word": "care",
+        "meaning": "【名】1. 世話　〔take care of ～の形で〕 ～の面倒をみる 2. 注意、関心、保護、用心"
+    },
+    {
+        "No": "139",
+        "word": "career",
+        "meaning": "【名】職業、経歴"
+    },
+    {
+        "No": "140",
+        "word": "carpenter",
+        "meaning": "【名】大工"
+    },
+    {
+        "No": "141",
+        "word": "carport",
+        "meaning": "【名】車庫、カーポート"
+    },
+    {
+        "No": "142",
+        "word": "carrot",
+        "meaning": "【名】ニンジン"
+    },
+    {
+        "No": "143",
+        "word": "case",
+        "meaning": "【名】1. ケース、箱、～入れ 2. 場合、実例、実情、事実"
+    },
+    {
+        "No": "144",
+        "word": "castle",
+        "meaning": "【名】城    〔たとえば Hirosaki Castle の形で〕 弘前城"
+    },
+    {
+        "No": "145",
+        "word": "cat",
+        "meaning": "【名】ネコ"
+    },
+    {
+        "No": "146",
+        "word": "catalog",
+        "meaning": "【名】カタログ"
+    },
+    {
+        "No": "147",
+        "word": "catch",
+        "meaning": "【名】（ボールなどを）とらえること、キャッチボール　　〔play catch の形で〕　キャッチボールをする"
+    },
+    {
+        "No": "148",
+        "word": "cause",
+        "meaning": "【名】原因"
+    },
+    {
+        "No": "149",
+        "word": "cave",
+        "meaning": "【名】洞窟、ほら穴、横穴"
+    },
+    {
+        "No": "150",
+        "word": "CD",
+        "meaning": "【名】CD、コンパクトディスク  〔compact disc ［disk］の略〕"
+    },
+    {
+        "No": "151",
+        "word": "ceiling",
+        "meaning": "【名】天井"
+    },
+    {
+        "No": "152",
+        "word": "cell phone",
+        "meaning": "【名】携帯電話"
+    },
+    {
+        "No": "153",
+        "word": "cent",
+        "meaning": "【名】セント（アメリカ合衆国の通貨。100 cents = 1 dollar）"
+    },
+    {
+        "No": "154",
+        "word": "center",
+        "meaning": "【名】中心、中央、真ん中"
+    },
+    {
+        "No": "155",
+        "word": "century",
+        "meaning": "【名】世紀、100年"
+    },
+    {
+        "No": "156",
+        "word": "chair",
+        "meaning": "【名】（１人用で、背もたれのある） 椅子"
+    },
+    {
+        "No": "157",
+        "word": "challenge",
+        "meaning": "【名】挑戦、やりがい"
+    },
+    {
+        "No": "158",
+        "word": "champion",
+        "meaning": "【名】優勝者、選手権保持者、チャンピオン"
+    },
+    {
+        "No": "159",
+        "word": "championship",
+        "meaning": "【名】選手権（大会）、優勝"
+    },
+    {
+        "No": "160",
+        "word": "chance",
+        "meaning": "【名】機会、可能性、チャンス"
+    },
+    {
+        "No": "161",
+        "word": "change",
+        "meaning": "【名】おつり、つり銭、小銭"
+    },
+    {
+        "No": "162",
+        "word": "character",
+        "meaning": "【名】1. (人の)性格、人格、(物の)特色 2. 人物、登場人物"
+    },
+    {
+        "No": "163",
+        "word": "charity",
+        "meaning": "【名】慈善、チャリティー、慈善団体"
+    },
+    {
+        "No": "164",
+        "word": "chart",
+        "meaning": "【名】図表"
+    },
+    {
+        "No": "165",
+        "word": "cheese",
+        "meaning": "【名】チーズ"
+    },
+    {
+        "No": "166",
+        "word": "cheeseburger",
+        "meaning": "【名】チーズバーガー"
+    },
+    {
+        "No": "167",
+        "word": "chef",
+        "meaning": "【名】シェフ、コック長"
+    },
+    {
+        "No": "168",
+        "word": "cherry",
+        "meaning": "【名】サクランボ、サクラ（の木）"
+    },
+    {
+        "No": "169",
+        "word": "cherry blossom",
+        "meaning": "【名】サクラの花"
+    },
+    {
+        "No": "170",
+        "word": "chess",
+        "meaning": "【名】チェス"
+    },
+    {
+        "No": "171",
+        "word": "chest",
+        "meaning": "【名】胸"
+    },
+    {
+        "No": "172",
+        "word": "child",
+        "meaning": "【名】子ども"
+    },
+    {
+        "No": "173",
+        "word": "childhood",
+        "meaning": "【名】幼少時代"
+    },
+    {
+        "No": "174",
+        "word": "children",
+        "meaning": "【名】child の複数形"
+    },
+    {
+        "No": "175",
+        "word": "chimney",
+        "meaning": "【名】煙突"
+    },
+    {
+        "No": "176",
+        "word": "China",
+        "meaning": "【名】中国"
+    },
+    {
+        "No": "177",
+        "word": "Chinese",
+        "meaning": "【名】中国語、中国人"
+    },
+    {
+        "No": "178",
+        "word": "chocolate",
+        "meaning": "【名】チョコレート"
+    },
+    {
+        "No": "179",
+        "word": "choice",
+        "meaning": "【名】選ぶこと、選択、選ぶ自由"
+    },
+    {
+        "No": "180",
+        "word": "chorus",
+        "meaning": "【名】合唱"
+    },
+    {
+        "No": "181",
+        "word": "Christmas",
+        "meaning": "【名】クリスマス"
+    },
+    {
+        "No": "182",
+        "word": "church",
+        "meaning": "【名】教会"
+    },
+    {
+        "No": "183",
+        "word": "circle",
+        "meaning": "【名】円"
+    },
+    {
+        "No": "184",
+        "word": "city",
+        "meaning": "【名】市、都市、都会   〔city hall の形で〕 市役所"
+    },
+    {
+        "No": "185",
+        "word": "class",
+        "meaning": "【名】1. 授業 2. 学級、組、クラス"
+    },
+    {
+        "No": "186",
+        "word": "classmate",
+        "meaning": "【名】同級生、クラスメート、級友"
+    },
+    {
+        "No": "187",
+        "word": "classroom",
+        "meaning": "【名】教室"
+    },
+    {
+        "No": "188",
+        "word": "clean energy",
+        "meaning": "【名】再生可能エネルギー"
+    },
+    {
+        "No": "189",
+        "word": "clerk",
+        "meaning": "【名】係員、店員、係"
+    },
+    {
+        "No": "190",
+        "word": "climate",
+        "meaning": "【名】気候"
+    },
+    {
+        "No": "191",
+        "word": "clock",
+        "meaning": "【名】時計《置時計、掛け時計・柱時計》"
+    },
+    {
+        "No": "192",
+        "word": "cloth",
+        "meaning": "【名】布"
+    },
+    {
+        "No": "193",
+        "word": "clothes",
+        "meaning": "【名】衣服、服"
+    },
+    {
+        "No": "194",
+        "word": "cloud",
+        "meaning": "【名】雲"
+    },
+    {
+        "No": "195",
+        "word": "club",
+        "meaning": "【名】クラブ、部"
+    },
+    {
+        "No": "196",
+        "word": "coach",
+        "meaning": "【名】コーチ"
+    },
+    {
+        "No": "197",
+        "word": "coat",
+        "meaning": "【名】コート、上着"
+    },
+    {
+        "No": "198",
+        "word": "coffee",
+        "meaning": "【名】コーヒー"
+    },
+    {
+        "No": "199",
+        "word": "coin",
+        "meaning": "【名】硬貨、コイン"
+    },
+    {
+        "No": "200",
+        "word": "cola",
+        "meaning": "【名】コーラ"
+    },
+    {
+        "No": "201",
+        "word": "cold",
+        "meaning": "【名】かぜ　〔have a cold の形で〕 かぜをひいている"
+    },
+    {
+        "No": "202",
+        "word": "college",
+        "meaning": "【名】大学"
+    },
+    {
+        "No": "203",
+        "word": "color",
+        "meaning": "【名】色、肌の色"
+    },
+    {
+        "No": "204",
+        "word": "comic",
+        "meaning": "【名】マンガ"
+    },
+    {
+        "No": "205",
+        "word": "comment",
+        "meaning": "【名】コメント"
+    },
+    {
+        "No": "206",
+        "word": "communication",
+        "meaning": "【名】コミュニケーション、意思伝達、情報の伝達"
+    },
+    {
+        "No": "207",
+        "word": "community",
+        "meaning": "【名】地域社会"
+    },
+    {
+        "No": "208",
+        "word": "company",
+        "meaning": "【名】会社"
+    },
+    {
+        "No": "209",
+        "word": "compartment",
+        "meaning": "【名】もの入れ"
+    },
+    {
+        "No": "210",
+        "word": "computer",
+        "meaning": "【名】コンピュータ"
+    },
+    {
+        "No": "211",
+        "word": "concert",
+        "meaning": "【名】コンサート、演奏会、音楽会"
+    },
+    {
+        "No": "212",
+        "word": "conclusion",
+        "meaning": "【名】結論"
+    },
+    {
+        "No": "213",
+        "word": "condition",
+        "meaning": "【名】状態、容態、環境、状況"
+    },
+    {
+        "No": "214",
+        "word": "conditioner",
+        "meaning": "【名】ヘアコンディショナー、リンス"
+    },
+    {
+        "No": "215",
+        "word": "conditioner",
+        "meaning": "【名】冷暖房装置　〔air conditioner で〕エアコン"
+    },
+    {
+        "No": "216",
+        "word": "condominium",
+        "meaning": "【名】分譲マンション"
+    },
+    {
+        "No": "217",
+        "word": "conference",
+        "meaning": "【名】会議、会談、協議"
+    },
+    {
+        "No": "218",
+        "word": "connection",
+        "meaning": "【名】接続（すること）、つながり、関係"
+    },
+    {
+        "No": "219",
+        "word": "content",
+        "meaning": "【名】内容、中身"
+    },
+    {
+        "No": "220",
+        "word": "contest",
+        "meaning": "【名】コンテスト、コンクール"
+    },
+    {
+        "No": "221",
+        "word": "control",
+        "meaning": "【名】制御　〔out of controlで〕制御しきれなくなって"
+    },
+    {
+        "No": "222",
+        "word": "convenience",
+        "meaning": "【名】便利なこと（もの）"
+    },
+    {
+        "No": "223",
+        "word": "convenience store",
+        "meaning": "【名】コンビニエンスストア、コンビニ"
+    },
+    {
+        "No": "224",
+        "word": "cook",
+        "meaning": "【名】料理をする人"
+    },
+    {
+        "No": "225",
+        "word": "cooking",
+        "meaning": "【名】料理"
+    },
+    {
+        "No": "226",
+        "word": "corner",
+        "meaning": "【名】（道路の）曲がり角"
+    },
+    {
+        "No": "227",
+        "word": "costume",
+        "meaning": "【名】服装、衣装、コスチューム"
+    },
+    {
+        "No": "228",
+        "word": "cotton",
+        "meaning": "【名】綿"
+    },
+    {
+        "No": "229",
+        "word": "cough",
+        "meaning": "【名】せき"
+    },
+    {
+        "No": "230",
+        "word": "country",
+        "meaning": "【名】国"
+    },
+    {
+        "No": "231",
+        "word": "courage",
+        "meaning": "【名】勇気"
+    },
+    {
+        "No": "232",
+        "word": "course",
+        "meaning": "【名】1. 〔Of course.の形で〕 もちろん 2. 方向、進路 3. 講座、コース"
+    },
+    {
+        "No": "233",
+        "word": "court",
+        "meaning": "【名】（テニスなどの）コート"
+    },
+    {
+        "No": "234",
+        "word": "cousin",
+        "meaning": "【名】いとこ"
+    },
+    {
+        "No": "235",
+        "word": "cow",
+        "meaning": "【名】牛（雌牛、乳牛）"
+    },
+    {
+        "No": "236",
+        "word": "cracker",
+        "meaning": "【名】（菓子の）クラッカー"
+    },
+    {
+        "No": "237",
+        "word": "craftsperson",
+        "meaning": "【名】職人"
+    },
+    {
+        "No": "238",
+        "word": "crane",
+        "meaning": "【名】ツル"
+    },
+    {
+        "No": "239",
+        "word": "creativity",
+        "meaning": "【名】創造性[力]、独創[力]"
+    },
+    {
+        "No": "240",
+        "word": "culture",
+        "meaning": "【名】文化、土壌、習慣、風習、知的産物"
+    },
+    {
+        "No": "241",
+        "word": "cup",
+        "meaning": "【名】（紅茶・コーヒー用などの）カップ、茶わん、賞杯"
+    },
+    {
+        "No": "242",
+        "word": "curry",
+        "meaning": "【名】カレー、カレー料理"
+    },
+    {
+        "No": "243",
+        "word": "cushion",
+        "meaning": "【名】ざぶとん、クッション"
+    },
+    {
+        "No": "244",
+        "word": "custom",
+        "meaning": "【名】風習、習慣"
+    },
+    {
+        "No": "245",
+        "word": "customer",
+        "meaning": "【名】客、顧客"
+    },
+    {
+        "No": "246",
+        "word": "cycling",
+        "meaning": "【名】サイクリング"
+    },
+    {
+        "No": "247",
+        "word": "dad",
+        "meaning": "【名】パパ、お父さん　《家庭内で子どもが父親を呼ぶのに使う。呼びかけの時にはしばしば大文字で始めて Dad とする。》"
+    },
+    {
+        "No": "248",
+        "word": "dance",
+        "meaning": "【名】踊り、ダンス"
+    },
+    {
+        "No": "249",
+        "word": "dancer",
+        "meaning": "【名】踊る人、舞踏家、ダンサー"
+    },
+    {
+        "No": "250",
+        "word": "danger",
+        "meaning": "【名】危険（な状態）"
+    },
+    {
+        "No": "251",
+        "word": "date",
+        "meaning": "【名】日付、月日、日時"
+    },
+    {
+        "No": "252",
+        "word": "daughter",
+        "meaning": "【名】娘"
+    },
+    {
+        "No": "253",
+        "word": "day",
+        "meaning": "【名】1. 日、1日 2. 日中、昼間"
+    },
+    {
+        "No": "254",
+        "word": "day-at-work program",
+        "meaning": "【名】職業体験プログラム"
+    },
+    {
+        "No": "255",
+        "word": "death",
+        "meaning": "【名】死、死亡"
+    },
+    {
+        "No": "256",
+        "word": "decade",
+        "meaning": "【名】10年間"
+    },
+    {
+        "No": "257",
+        "word": "December",
+        "meaning": "【名】12月"
+    },
+    {
+        "No": "258",
+        "word": "decision",
+        "meaning": "【名】決断"
+    },
+    {
+        "No": "259",
+        "word": "degree(s) Celsius",
+        "meaning": "【名】〔5℃ = five degrees Celsius で摂氏5度〕"
+    },
+    {
+        "No": "260",
+        "word": "democracy",
+        "meaning": "【名】民主主義"
+    },
+    {
+        "No": "261",
+        "word": "demonstration",
+        "meaning": "【名】（集会・行進などによる〕デモ、デモンストレーション"
+    },
+    {
+        "No": "262",
+        "word": "dentist",
+        "meaning": "【名】歯医者"
+    },
+    {
+        "No": "263",
+        "word": "department store",
+        "meaning": "【名】デパート"
+    },
+    {
+        "No": "264",
+        "word": "design",
+        "meaning": "【名】デザイン、設計"
+    },
+    {
+        "No": "265",
+        "word": "designer",
+        "meaning": "【名】デザイナー、設計者"
+    },
+    {
+        "No": "266",
+        "word": "desk",
+        "meaning": "【名】机"
+    },
+    {
+        "No": "267",
+        "word": "developing country",
+        "meaning": "【名】発展途上国"
+    },
+    {
+        "No": "268",
+        "word": "diary",
+        "meaning": "【名】日記、日記帳"
+    },
+    {
+        "No": "269",
+        "word": "dictionary",
+        "meaning": "【名】辞書"
+    },
+    {
+        "No": "270",
+        "word": "difference",
+        "meaning": "【名】ちがい、相違（点）、差"
+    },
+    {
+        "No": "271",
+        "word": "difficulty",
+        "meaning": "【名】苦しさ、困難、苦労"
+    },
+    {
+        "No": "272",
+        "word": "dining",
+        "meaning": "【名】食事"
+    },
+    {
+        "No": "273",
+        "word": "dinner",
+        "meaning": "【名】ディナー、夕食"
+    },
+    {
+        "No": "274",
+        "word": "dinosaur",
+        "meaning": "【名】恐竜"
+    },
+    {
+        "No": "275",
+        "word": "director",
+        "meaning": "【名】(映画)監督"
+    },
+    {
+        "No": "276",
+        "word": "disaster",
+        "meaning": "【名】災害"
+    },
+    {
+        "No": "277",
+        "word": "discount",
+        "meaning": "【名】割引"
+    },
+    {
+        "No": "278",
+        "word": "disease",
+        "meaning": "【名】病気"
+    },
+    {
+        "No": "279",
+        "word": "dish",
+        "meaning": "【名】1. 皿、食器類 2. 一皿、料理"
+    },
+    {
+        "No": "280",
+        "word": "doctor",
+        "meaning": "【名】医者、医師、博士"
+    },
+    {
+        "No": "281",
+        "word": "dog",
+        "meaning": "【名】イヌ"
+    },
+    {
+        "No": "282",
+        "word": "doggy bag",
+        "meaning": "【名】ドギーバッグ"
+    },
+    {
+        "No": "283",
+        "word": "dollar",
+        "meaning": "【名】ドル　　　《米国・カナダなどの貨幣で、1ドルは100セント》"
+    },
+    {
+        "No": "284",
+        "word": "dolphin",
+        "meaning": "【名】イルカ"
+    },
+    {
+        "No": "285",
+        "word": "dome",
+        "meaning": "【名】丸屋根、ドーム"
+    },
+    {
+        "No": "286",
+        "word": "donut",
+        "meaning": "【名】ドーナツ"
+    },
+    {
+        "No": "287",
+        "word": "door",
+        "meaning": "【名】戸、ドア、戸口、玄関"
+    },
+    {
+        "No": "288",
+        "word": "dot",
+        "meaning": "【名】点"
+    },
+    {
+        "No": "289",
+        "word": "Dr. (Dr)",
+        "meaning": "【名】～博士　Doctorの短縮形"
+    },
+    {
+        "No": "290",
+        "word": "drama",
+        "meaning": "【名】（テレビの）ドラマ、劇"
+    },
+    {
+        "No": "291",
+        "word": "dream",
+        "meaning": "【名】夢、希望、理想"
+    },
+    {
+        "No": "292",
+        "word": "dress",
+        "meaning": "【名】衣装、ドレス"
+    },
+    {
+        "No": "293",
+        "word": "driftwood",
+        "meaning": "【名】流木"
+    },
+    {
+        "No": "294",
+        "word": "drill",
+        "meaning": "【名】訓練"
+    },
+    {
+        "No": "295",
+        "word": "drink",
+        "meaning": "【名】飲み物　　〔たとえば soft drinks の形で〕清涼（せいりょう）飲料"
+    },
+    {
+        "No": "296",
+        "word": "drinking fountain",
+        "meaning": "【名】水飲み場[器]"
+    },
+    {
+        "No": "297",
+        "word": "driver",
+        "meaning": "【名】（車を）運転する人、運転手"
+    },
+    {
+        "No": "298",
+        "word": "driveway",
+        "meaning": "【名】（道から車庫または玄関までの）車道"
+    },
+    {
+        "No": "299",
+        "word": "drop",
+        "meaning": "【名】しずく"
+    },
+    {
+        "No": "300",
+        "word": "drugstore",
+        "meaning": "【名】ドラッグストア、薬局"
+    },
+    {
+        "No": "301",
+        "word": "drum",
+        "meaning": "【名】太鼓、ドラム"
+    },
+    {
+        "No": "302",
+        "word": "duck",
+        "meaning": "【名】カモ、アヒル"
+    },
+    {
+        "No": "303",
+        "word": "DVD",
+        "meaning": "【名】デジタルビデオディスク　〔digital video disc ［disk］の略〕"
+    },
+    {
+        "No": "304",
+        "word": "e-mail (email)",
+        "meaning": "【名】Eメール、電子メール"
+    },
+    {
+        "No": "305",
+        "word": "ear",
+        "meaning": "【名】耳"
+    },
+    {
+        "No": "306",
+        "word": "earth",
+        "meaning": "【名】地球　〔the をつけないで、Earth と大文字ではじめることもある〕"
+    },
+    {
+        "No": "307",
+        "word": "earthquake",
+        "meaning": "【名】地震"
+    },
+    {
+        "No": "308",
+        "word": "east",
+        "meaning": "【名】東"
+    },
+    {
+        "No": "309",
+        "word": "effort",
+        "meaning": "【名】努力"
+    },
+    {
+        "No": "310",
+        "word": "egg",
+        "meaning": "【名】卵、玉子"
+    },
+    {
+        "No": "311",
+        "word": "eight",
+        "meaning": "【名】8"
+    },
+    {
+        "No": "312",
+        "word": "eighteen",
+        "meaning": "【名】18"
+    },
+    {
+        "No": "313",
+        "word": "eighteenth",
+        "meaning": "【名】18番め、（月の）18日"
+    },
+    {
+        "No": "314",
+        "word": "eighth",
+        "meaning": "【名】8番め、（月の）8日"
+    },
+    {
+        "No": "315",
+        "word": "eighty",
+        "meaning": "【名】80"
+    },
+    {
+        "No": "316",
+        "word": "electricity",
+        "meaning": "【名】電気"
+    },
+    {
+        "No": "317",
+        "word": "elementary school",
+        "meaning": "【名】小学校"
+    },
+    {
+        "No": "318",
+        "word": "elephant",
+        "meaning": "【名】ゾウ"
+    },
+    {
+        "No": "319",
+        "word": "elevator",
+        "meaning": "【名】エレベーター"
+    },
+    {
+        "No": "320",
+        "word": "eleven",
+        "meaning": "【名】11"
+    },
+    {
+        "No": "321",
+        "word": "eleventh",
+        "meaning": "【名】11番め、（月の）１１日"
+    },
+    {
+        "No": "322",
+        "word": "emergency",
+        "meaning": "【名】緊急事態、非常時"
+    },
+    {
+        "No": "323",
+        "word": "end",
+        "meaning": "【名】終わり、最後、端"
+    },
+    {
+        "No": "324",
+        "word": "endangered animal",
+        "meaning": "【名】絶滅の危機にひんしている動物"
+    },
+    {
+        "No": "325",
+        "word": "ending",
+        "meaning": "【名】終わり、結末、エンディング"
+    },
+    {
+        "No": "326",
+        "word": "energy",
+        "meaning": "【名】エネルギー"
+    },
+    {
+        "No": "327",
+        "word": "engineer",
+        "meaning": "【名】技師、エンジニア"
+    },
+    {
+        "No": "328",
+        "word": "engineering",
+        "meaning": "【名】工学"
+    },
+    {
+        "No": "329",
+        "word": "England",
+        "meaning": "【名】イングランド"
+    },
+    {
+        "No": "330",
+        "word": "English",
+        "meaning": "【名】英語"
+    },
+    {
+        "No": "331",
+        "word": "entertainment",
+        "meaning": "【名】娯楽"
+    },
+    {
+        "No": "332",
+        "word": "entrance",
+        "meaning": "【名】入り口、玄関"
+    },
+    {
+        "No": "333",
+        "word": "environment",
+        "meaning": "【名】環境"
+    },
+    {
+        "No": "334",
+        "word": "era",
+        "meaning": "【名】時代　〔Nara era で〕奈良時代"
+    },
+    {
+        "No": "335",
+        "word": "eraser",
+        "meaning": "【名】消しゴム"
+    },
+    {
+        "No": "336",
+        "word": "Europe",
+        "meaning": "【名】ヨーロッパ"
+    },
+    {
+        "No": "337",
+        "word": "evacuation",
+        "meaning": "【名】避難"
+    },
+    {
+        "No": "338",
+        "word": "evening",
+        "meaning": "【名】夕方、晩、夜  《通例、日没から寝る時間までを言う》"
+    },
+    {
+        "No": "339",
+        "word": "event",
+        "meaning": "【名】行事、出来事、イベント"
+    },
+    {
+        "No": "340",
+        "word": "exam",
+        "meaning": "【名】試験"
+    },
+    {
+        "No": "341",
+        "word": "example",
+        "meaning": "【名】例、実例　〔for example の形で〕たとえば"
+    },
+    {
+        "No": "342",
+        "word": "exhibition",
+        "meaning": "【名】展覧会"
+    },
+    {
+        "No": "343",
+        "word": "experience",
+        "meaning": "【名】経験"
+    },
+    {
+        "No": "344",
+        "word": "expert",
+        "meaning": "【名】専門家、エキスパート"
+    },
+    {
+        "No": "345",
+        "word": "express",
+        "meaning": "【名】急行列車、速達便"
+    },
+    {
+        "No": "346",
+        "word": "expression",
+        "meaning": "【名】表現、言い回し、（顔などの）表情"
+    },
+    {
+        "No": "347",
+        "word": "eye",
+        "meaning": "【名】目、視力、視線"
+    },
+    {
+        "No": "348",
+        "word": "eyesight",
+        "meaning": "【名】視力"
+    },
+    {
+        "No": "349",
+        "word": "face",
+        "meaning": "【名】顔、表情"
+    },
+    {
+        "No": "350",
+        "word": "facility",
+        "meaning": "【名】設備、施設"
+    },
+    {
+        "No": "351",
+        "word": "fact",
+        "meaning": "【名】事実"
+    },
+    {
+        "No": "352",
+        "word": "fall",
+        "meaning": "【名】1. 秋 2. 滝 3. 落下"
+    },
+    {
+        "No": "353",
+        "word": "family",
+        "meaning": "【名】家族、一家、家族の者たち"
+    },
+    {
+        "No": "354",
+        "word": "fan",
+        "meaning": "【名】1.  (スポーツなどの) ファン 2.  扇、扇子、うちわ"
+    },
+    {
+        "No": "355",
+        "word": "farewell",
+        "meaning": "【名】別れ"
+    },
+    {
+        "No": "356",
+        "word": "farm",
+        "meaning": "【名】農場、農園"
+    },
+    {
+        "No": "357",
+        "word": "farmer",
+        "meaning": "【名】農家、農業をする人、農業主、農業経営者"
+    },
+    {
+        "No": "358",
+        "word": "farming",
+        "meaning": "【名】農業、農場経営"
+    },
+    {
+        "No": "359",
+        "word": "fashion",
+        "meaning": "【名】流行、はやり、ファッション、流行の服装"
+    },
+    {
+        "No": "360",
+        "word": "fate",
+        "meaning": "【名】運命"
+    },
+    {
+        "No": "361",
+        "word": "father",
+        "meaning": "【名】父、お父さん"
+    },
+    {
+        "No": "362",
+        "word": "favor",
+        "meaning": "【名】親切な行為　〔ask … a favor で〕　…にお願いする"
+    },
+    {
+        "No": "363",
+        "word": "favorite",
+        "meaning": "【名】お気に入りのもの［人］"
+    },
+    {
+        "No": "364",
+        "word": "February",
+        "meaning": "【名】2月"
+    },
+    {
+        "No": "365",
+        "word": "fee",
+        "meaning": "【名】料金、入場料"
+    },
+    {
+        "No": "366",
+        "word": "feeling",
+        "meaning": "【名】感情、考え、感覚"
+    },
+    {
+        "No": "367",
+        "word": "feet",
+        "meaning": "【名】〔foot の複数形〕"
+    },
+    {
+        "No": "368",
+        "word": "fence",
+        "meaning": "【名】垣根"
+    },
+    {
+        "No": "369",
+        "word": "Ferris wheel",
+        "meaning": "【名】観覧車"
+    },
+    {
+        "No": "370",
+        "word": "festival",
+        "meaning": "【名】お祭り、祭典　　〔たとえば the Aomori Nebuta Festival の形で〕 青森ねぶた祭り"
+    },
+    {
+        "No": "371",
+        "word": "fever",
+        "meaning": "【名】熱"
+    },
+    {
+        "No": "372",
+        "word": "fiction",
+        "meaning": "【名】小説、フィクション"
+    },
+    {
+        "No": "373",
+        "word": "field",
+        "meaning": "【名】運動場、フィールド、野原、畑、田、牧草地"
+    },
+    {
+        "No": "374",
+        "word": "fifteen",
+        "meaning": "【名】15"
+    },
+    {
+        "No": "375",
+        "word": "fifteenth",
+        "meaning": "【名】15番め、（月の）15日"
+    },
+    {
+        "No": "376",
+        "word": "fifth",
+        "meaning": "【名】5番め、（月の）5日"
+    },
+    {
+        "No": "377",
+        "word": "fifty",
+        "meaning": "【名】50"
+    },
+    {
+        "No": "378",
+        "word": "fight",
+        "meaning": "【名】戦い、口げんか"
+    },
+    {
+        "No": "379",
+        "word": "fighting spirit",
+        "meaning": "【名】闘志"
+    },
+    {
+        "No": "380",
+        "word": "film",
+        "meaning": "【名】映画"
+    },
+    {
+        "No": "381",
+        "word": "fine arts",
+        "meaning": "【名】芸術、(教科の) 美術"
+    },
+    {
+        "No": "382",
+        "word": "finger",
+        "meaning": "【名】(手の) 指"
+    },
+    {
+        "No": "383",
+        "word": "Finland",
+        "meaning": "【名】フィンランド"
+    },
+    {
+        "No": "384",
+        "word": "fire",
+        "meaning": "【名】火"
+    },
+    {
+        "No": "385",
+        "word": "fireplace",
+        "meaning": "【名】暖炉"
+    },
+    {
+        "No": "386",
+        "word": "firewood",
+        "meaning": "【名】まき、たきぎ"
+    },
+    {
+        "No": "387",
+        "word": "firework",
+        "meaning": "【名】花火"
+    },
+    {
+        "No": "388",
+        "word": "first",
+        "meaning": "【名】1番め、最初、（月の）ついたち"
+    },
+    {
+        "No": "389",
+        "word": "fish",
+        "meaning": "【名】魚 〔複数形も fish 〕"
+    },
+    {
+        "No": "390",
+        "word": "fitting room",
+        "meaning": "【名】試着室"
+    },
+    {
+        "No": "391",
+        "word": "five",
+        "meaning": "【名】5"
+    },
+    {
+        "No": "392",
+        "word": "five-story pagoda",
+        "meaning": "【名】五重塔"
+    },
+    {
+        "No": "393",
+        "word": "flash",
+        "meaning": "【名】ぱっと発する光、(撮影用の)フラッシュ"
+    },
+    {
+        "No": "394",
+        "word": "flight",
+        "meaning": "【名】フライト、飛行機旅行"
+    },
+    {
+        "No": "395",
+        "word": "float",
+        "meaning": "【名】山車"
+    },
+    {
+        "No": "396",
+        "word": "floor",
+        "meaning": "【名】1. 床（ゆか） 2. ～階"
+    },
+    {
+        "No": "397",
+        "word": "flower",
+        "meaning": "【名】花、草花"
+    },
+    {
+        "No": "398",
+        "word": "flute",
+        "meaning": "【名】フルート"
+    },
+    {
+        "No": "399",
+        "word": "food",
+        "meaning": "【名】食べ物、食糧"
+    },
+    {
+        "No": "400",
+        "word": "foot",
+        "meaning": "【名】足 《足首から下の部分》"
+    },
+    {
+        "No": "401",
+        "word": "football",
+        "meaning": "【名】フットボール(用のボール)、サッカー(用のボール)、アメリカンフットボール(用のボール)"
+    },
+    {
+        "No": "402",
+        "word": "forest",
+        "meaning": "【名】森、森林"
+    },
+    {
+        "No": "403",
+        "word": "fork",
+        "meaning": "【名】フォーク"
+    },
+    {
+        "No": "404",
+        "word": "forty",
+        "meaning": "【名】40"
+    },
+    {
+        "No": "405",
+        "word": "fossil fuel",
+        "meaning": "【名】化石燃料"
+    },
+    {
+        "No": "406",
+        "word": "four",
+        "meaning": "【名】4"
+    },
+    {
+        "No": "407",
+        "word": "fourteen",
+        "meaning": "【名】14"
+    },
+    {
+        "No": "408",
+        "word": "fourth",
+        "meaning": "【名】4番め、（月の）4日"
+    },
+    {
+        "No": "409",
+        "word": "fox",
+        "meaning": "【名】キツネ"
+    },
+    {
+        "No": "410",
+        "word": "France",
+        "meaning": "【名】フランス"
+    },
+    {
+        "No": "411",
+        "word": "freedom",
+        "meaning": "【名】自由"
+    },
+    {
+        "No": "412",
+        "word": "French",
+        "meaning": "【名】フランス語"
+    },
+    {
+        "No": "413",
+        "word": "French fries",
+        "meaning": "【名】（細長い）フライドポテト"
+    },
+    {
+        "No": "414",
+        "word": "Friday",
+        "meaning": "【名】金曜日"
+    },
+    {
+        "No": "415",
+        "word": "fridge",
+        "meaning": "【名】冷蔵庫"
+    },
+    {
+        "No": "416",
+        "word": "friend",
+        "meaning": "【名】友達、友人"
+    },
+    {
+        "No": "417",
+        "word": "friendship",
+        "meaning": "【名】友情、友愛、親交"
+    },
+    {
+        "No": "418",
+        "word": "front",
+        "meaning": "【名】前面、前部、前　　〔in front of ～の形で〕～の前に"
+    },
+    {
+        "No": "419",
+        "word": "fruit",
+        "meaning": "【名】果物、フルーツ"
+    },
+    {
+        "No": "420",
+        "word": "fuel",
+        "meaning": "【名】燃料"
+    },
+    {
+        "No": "421",
+        "word": "fun",
+        "meaning": "【名】楽しいこと、面白いこと、楽しさ"
+    },
+    {
+        "No": "422",
+        "word": "furniture",
+        "meaning": "【名】家具"
+    },
+    {
+        "No": "423",
+        "word": "futon",
+        "meaning": "【名】フトン、ソファーベッド"
+    },
+    {
+        "No": "424",
+        "word": "future",
+        "meaning": "【名】未来、将来"
+    },
+    {
+        "No": "425",
+        "word": "game",
+        "meaning": "【名】1. （一定のルールを持った）ゲーム、遊び 2. 試合、競技"
+    },
+    {
+        "No": "426",
+        "word": "garbage",
+        "meaning": "【名】生ごみ、くず"
+    },
+    {
+        "No": "427",
+        "word": "garden",
+        "meaning": "【名】1. 庭、庭園 2. 畑､野菜園"
+    },
+    {
+        "No": "428",
+        "word": "gas",
+        "meaning": "【名】1. 気体 2. (燃料用の)ガス 3. ガソリン　〔gas stationの形で〕　ガソリンスタンド"
+    },
+    {
+        "No": "429",
+        "word": "gate",
+        "meaning": "【名】門、出入口"
+    },
+    {
+        "No": "430",
+        "word": "geese",
+        "meaning": "【名】〔gooseの複数形〕"
+    },
+    {
+        "No": "431",
+        "word": "generation",
+        "meaning": "【名】世代、同世代の人々"
+    },
+    {
+        "No": "432",
+        "word": "gentleman",
+        "meaning": "【名】紳士　〔複数形は gentlemen〕"
+    },
+    {
+        "No": "433",
+        "word": "gentlemen",
+        "meaning": "【名】〔gentlemanの複数形〕"
+    },
+    {
+        "No": "434",
+        "word": "ger",
+        "meaning": "【名】ゲル（モンゴルの伝統的な移動式住居）"
+    },
+    {
+        "No": "435",
+        "word": "German",
+        "meaning": "【名】1. ドイツ語 2. ドイツ人"
+    },
+    {
+        "No": "436",
+        "word": "Germany",
+        "meaning": "【名】ドイツ"
+    },
+    {
+        "No": "437",
+        "word": "gesture",
+        "meaning": "【名】身ぶり、ジェスチャー"
+    },
+    {
+        "No": "438",
+        "word": "Ghana",
+        "meaning": "【名】ガーナ"
+    },
+    {
+        "No": "439",
+        "word": "gift",
+        "meaning": "【名】贈り物"
+    },
+    {
+        "No": "440",
+        "word": "girl",
+        "meaning": "【名】女の子、少女"
+    },
+    {
+        "No": "441",
+        "word": "glacier",
+        "meaning": "【名】氷河"
+    },
+    {
+        "No": "442",
+        "word": "global warming",
+        "meaning": "【名】地球温暖化"
+    },
+    {
+        "No": "443",
+        "word": "glove",
+        "meaning": "【名】手袋"
+    },
+    {
+        "No": "444",
+        "word": "goal",
+        "meaning": "【名】1. ゴール、決勝点 2. 目標、目的地"
+    },
+    {
+        "No": "445",
+        "word": "goalball",
+        "meaning": "【名】ゴールボール《３人ずつの２チームで音の出るボールを用いて行う球技》"
+    },
+    {
+        "No": "446",
+        "word": "God",
+        "meaning": "【名】神"
+    },
+    {
+        "No": "447",
+        "word": "gold",
+        "meaning": "【名】金"
+    },
+    {
+        "No": "448",
+        "word": "goodness",
+        "meaning": "【名】善良さ、親切"
+    },
+    {
+        "No": "449",
+        "word": "goods",
+        "meaning": "【名】商品、品物"
+    },
+    {
+        "No": "450",
+        "word": "goose",
+        "meaning": "【名】ガン〔動物名〕"
+    },
+    {
+        "No": "451",
+        "word": "government",
+        "meaning": "【名】政府"
+    },
+    {
+        "No": "452",
+        "word": "grade",
+        "meaning": "【名】1. 学年 2. 評定､点数"
+    },
+    {
+        "No": "453",
+        "word": "granddaughter",
+        "meaning": "【名】孫娘、女の孫"
+    },
+    {
+        "No": "454",
+        "word": "grandfather",
+        "meaning": "【名】おじいさん，祖父"
+    },
+    {
+        "No": "455",
+        "word": "grandmother",
+        "meaning": "【名】おばあさん、祖母"
+    },
+    {
+        "No": "456",
+        "word": "grandson",
+        "meaning": "【名】孫息子"
+    },
+    {
+        "No": "457",
+        "word": "grape",
+        "meaning": "【名】ブドウ"
+    },
+    {
+        "No": "458",
+        "word": "grass",
+        "meaning": "【名】1.　草 2.　草地、芝生"
+    },
+    {
+        "No": "459",
+        "word": "gray",
+        "meaning": "【名】灰色、ねずみ色"
+    },
+    {
+        "No": "460",
+        "word": "Greece",
+        "meaning": "【名】ギリシャ"
+    },
+    {
+        "No": "461",
+        "word": "green",
+        "meaning": "【名】緑（色）"
+    },
+    {
+        "No": "462",
+        "word": "greenhouse gas",
+        "meaning": "【名】温室効果ガス"
+    },
+    {
+        "No": "463",
+        "word": "greeting",
+        "meaning": "【名】挨拶"
+    },
+    {
+        "No": "464",
+        "word": "ground",
+        "meaning": "【名】地面、大地"
+    },
+    {
+        "No": "465",
+        "word": "group",
+        "meaning": "【名】グループ、団体"
+    },
+    {
+        "No": "466",
+        "word": "guide",
+        "meaning": "【名】（旅行などの）人、ガイド"
+    },
+    {
+        "No": "467",
+        "word": "guitar",
+        "meaning": "【名】ギター"
+    },
+    {
+        "No": "468",
+        "word": "gun",
+        "meaning": "【名】銃"
+    },
+    {
+        "No": "469",
+        "word": "gym",
+        "meaning": "【名】体育館、ジム"
+    },
+    {
+        "No": "470",
+        "word": "habit",
+        "meaning": "【名】習慣、くせ"
+    },
+    {
+        "No": "471",
+        "word": "habitat",
+        "meaning": "【名】生息地"
+    },
+    {
+        "No": "472",
+        "word": "hair",
+        "meaning": "【名】毛、髪の毛"
+    },
+    {
+        "No": "473",
+        "word": "half",
+        "meaning": "【名】半分"
+    },
+    {
+        "No": "474",
+        "word": "hall",
+        "meaning": "【名】会館、役所　〔city hallの形で〕市役所"
+    },
+    {
+        "No": "475",
+        "word": "hallway",
+        "meaning": "【名】（ビルなどの）廊下、通路"
+    },
+    {
+        "No": "476",
+        "word": "ham",
+        "meaning": "【名】ハム"
+    },
+    {
+        "No": "477",
+        "word": "hamburger",
+        "meaning": "【名】ハンバーガー"
+    },
+    {
+        "No": "478",
+        "word": "hand",
+        "meaning": "【名】手"
+    },
+    {
+        "No": "479",
+        "word": "handle",
+        "meaning": "【名】取っ手、柄"
+    },
+    {
+        "No": "480",
+        "word": "handout",
+        "meaning": "【名】配付印刷物、ビラ、プリント"
+    },
+    {
+        "No": "481",
+        "word": "happiness",
+        "meaning": "【名】幸福"
+    },
+    {
+        "No": "482",
+        "word": "hardship",
+        "meaning": "【名】苦難"
+    },
+    {
+        "No": "483",
+        "word": "harvest",
+        "meaning": "【名】収穫"
+    },
+    {
+        "No": "484",
+        "word": "hatred",
+        "meaning": "【名】憎しみ"
+    },
+    {
+        "No": "485",
+        "word": "haunted house",
+        "meaning": "【名】お化け屋敷"
+    },
+    {
+        "No": "486",
+        "word": "Hawaii",
+        "meaning": "【名】ハワイ（太平洋にある米国の州、州都はホノルル）"
+    },
+    {
+        "No": "487",
+        "word": "hawk",
+        "meaning": "【名】タカ"
+    },
+    {
+        "No": "488",
+        "word": "hay fever",
+        "meaning": "【名】花粉症"
+    },
+    {
+        "No": "489",
+        "word": "head",
+        "meaning": "【名】頭、頭部"
+    },
+    {
+        "No": "490",
+        "word": "headache",
+        "meaning": "【名】頭痛"
+    },
+    {
+        "No": "491",
+        "word": "health",
+        "meaning": "【名】健康"
+    },
+    {
+        "No": "492",
+        "word": "heart",
+        "meaning": "【名】心"
+    },
+    {
+        "No": "493",
+        "word": "heat",
+        "meaning": "【名】熱"
+    },
+    {
+        "No": "494",
+        "word": "heater",
+        "meaning": "【名】暖房器具"
+    },
+    {
+        "No": "495",
+        "word": "help",
+        "meaning": "【名】助け､援助"
+    },
+    {
+        "No": "496",
+        "word": "here",
+        "meaning": "【名】ここ、この場所"
+    },
+    {
+        "No": "497",
+        "word": "heritage",
+        "meaning": "【名】（祖先から伝わる精神的・文化的）遺産"
+    },
+    {
+        "No": "498",
+        "word": "hero",
+        "meaning": "【名】ヒーロー、英雄"
+    },
+    {
+        "No": "499",
+        "word": "high school",
+        "meaning": "【名】高等学校"
+    },
+    {
+        "No": "500",
+        "word": "highlight",
+        "meaning": "【名】ハイライト、見せ場"
+    },
+    {
+        "No": "501",
+        "word": "hill",
+        "meaning": "【名】丘、小山"
+    },
+    {
+        "No": "502",
+        "word": "history",
+        "meaning": "【名】歴史"
+    },
+    {
+        "No": "503",
+        "word": "hit",
+        "meaning": "【名】ヒット（曲）"
+    },
+    {
+        "No": "504",
+        "word": "hobby",
+        "meaning": "【名】趣味"
+    },
+    {
+        "No": "505",
+        "word": "hole",
+        "meaning": "【名】穴"
+    },
+    {
+        "No": "506",
+        "word": "holiday",
+        "meaning": "【名】休日、祝日"
+    },
+    {
+        "No": "507",
+        "word": "home",
+        "meaning": "【名】1. 家、家庭 2. 故郷 3. 〔at home の形で〕家に、在宅して、くつろいで 4. （野球の）本塁"
+    },
+    {
+        "No": "508",
+        "word": "homeland",
+        "meaning": "【名】本国、母国"
+    },
+    {
+        "No": "509",
+        "word": "homestay",
+        "meaning": "【名】ホームステイ"
+    },
+    {
+        "No": "510",
+        "word": "hometown",
+        "meaning": "【名】故郷"
+    },
+    {
+        "No": "511",
+        "word": "homework",
+        "meaning": "【名】宿題"
+    },
+    {
+        "No": "512",
+        "word": "honesty",
+        "meaning": "【名】正直（であること）、誠実さ"
+    },
+    {
+        "No": "513",
+        "word": "hope",
+        "meaning": "【名】希望、望"
+    },
+    {
+        "No": "514",
+        "word": "horizon",
+        "meaning": "【名】（人の）視野"
+    },
+    {
+        "No": "515",
+        "word": "horse",
+        "meaning": "【名】ウマ"
+    },
+    {
+        "No": "516",
+        "word": "hospital",
+        "meaning": "【名】病院、総合病院"
+    },
+    {
+        "No": "517",
+        "word": "host",
+        "meaning": "【名】（客を接待する）主人（役）"
+    },
+    {
+        "No": "518",
+        "word": "hot dog",
+        "meaning": "【名】ホットドッグ"
+    },
+    {
+        "No": "519",
+        "word": "hot spring",
+        "meaning": "【名】温泉"
+    },
+    {
+        "No": "520",
+        "word": "hotel",
+        "meaning": "【名】ホテル"
+    },
+    {
+        "No": "521",
+        "word": "hour",
+        "meaning": "【名】１時間"
+    },
+    {
+        "No": "522",
+        "word": "house",
+        "meaning": "【名】家、住宅"
+    },
+    {
+        "No": "523",
+        "word": "hula",
+        "meaning": "【名】フラ（ダンス）〈ハワイの民族舞踊〉"
+    },
+    {
+        "No": "524",
+        "word": "human",
+        "meaning": "【名】人、人間"
+    },
+    {
+        "No": "525",
+        "word": "humor",
+        "meaning": "【名】ユーモア"
+    },
+    {
+        "No": "526",
+        "word": "hundred",
+        "meaning": "【名】100"
+    },
+    {
+        "No": "527",
+        "word": "hunter",
+        "meaning": "【名】ハンター、猟師"
+    },
+    {
+        "No": "528",
+        "word": "hunting",
+        "meaning": "【名】さがし求めること"
+    },
+    {
+        "No": "529",
+        "word": "husband",
+        "meaning": "【名】夫"
+    },
+    {
+        "No": "530",
+        "word": "hymn",
+        "meaning": "【名】賛美歌"
+    },
+    {
+        "No": "531",
+        "word": "ice",
+        "meaning": "【名】氷"
+    },
+    {
+        "No": "532",
+        "word": "idea",
+        "meaning": "【名】考え、思いつき、アイディア"
+    },
+    {
+        "No": "533",
+        "word": "image",
+        "meaning": "【名】像、イメージ画像、絵"
+    },
+    {
+        "No": "534",
+        "word": "importance",
+        "meaning": "【名】重要性、重大さ、大切さ"
+    },
+    {
+        "No": "535",
+        "word": "India",
+        "meaning": "【名】インド"
+    },
+    {
+        "No": "536",
+        "word": "industrial arts  and homemaking",
+        "meaning": "【名】（教科の）技術・家庭科"
+    },
+    {
+        "No": "537",
+        "word": "industry",
+        "meaning": "【名】工業"
+    },
+    {
+        "No": "538",
+        "word": "information",
+        "meaning": "【名】情報"
+    },
+    {
+        "No": "539",
+        "word": "injury",
+        "meaning": "【名】けが、不調"
+    },
+    {
+        "No": "540",
+        "word": "ink",
+        "meaning": "【名】インク"
+    },
+    {
+        "No": "541",
+        "word": "insect",
+        "meaning": "【名】昆虫"
+    },
+    {
+        "No": "542",
+        "word": "insult",
+        "meaning": "【名】屈辱"
+    },
+    {
+        "No": "543",
+        "word": "interest",
+        "meaning": "【名】興味、関心"
+    },
+    {
+        "No": "544",
+        "word": "Internet",
+        "meaning": "【名】インターネット"
+    },
+    {
+        "No": "545",
+        "word": "interpreter",
+        "meaning": "【名】通訳者"
+    },
+    {
+        "No": "546",
+        "word": "interview",
+        "meaning": "【名】インタビュー、会見、面接"
+    },
+    {
+        "No": "547",
+        "word": "interviewer",
+        "meaning": "【名】インタビューする人、インタビュワー、面接官"
+    },
+    {
+        "No": "548",
+        "word": "island",
+        "meaning": "【名】島"
+    },
+    {
+        "No": "549",
+        "word": "jacket",
+        "meaning": "【名】ジャケット、上着"
+    },
+    {
+        "No": "550",
+        "word": "January",
+        "meaning": "【名】１月"
+    },
+    {
+        "No": "551",
+        "word": "Japan",
+        "meaning": "【名】日本"
+    },
+    {
+        "No": "552",
+        "word": "Japanese",
+        "meaning": "【名】日本、日本人、日本語、（教科の日本語にとっての）国語"
+    },
+    {
+        "No": "553",
+        "word": "Japanese-Brazilian",
+        "meaning": "【名】日系ブラジル人"
+    },
+    {
+        "No": "554",
+        "word": "job",
+        "meaning": "【名】仕事、職務"
+    },
+    {
+        "No": "555",
+        "word": "joke",
+        "meaning": "【名】冗談、しゃれ"
+    },
+    {
+        "No": "556",
+        "word": "Jones",
+        "meaning": "【名】ジョーンズ(姓）"
+    },
+    {
+        "No": "557",
+        "word": "journalist",
+        "meaning": "【名】記者、ジャーナリスト"
+    },
+    {
+        "No": "558",
+        "word": "joy",
+        "meaning": "【名】喜び"
+    },
+    {
+        "No": "559",
+        "word": "Judy",
+        "meaning": "【名】ジュディ〔女性名〕"
+    },
+    {
+        "No": "560",
+        "word": "juice",
+        "meaning": "【名】ジュース"
+    },
+    {
+        "No": "561",
+        "word": "July",
+        "meaning": "【名】７月"
+    },
+    {
+        "No": "562",
+        "word": "June",
+        "meaning": "【名】６月"
+    },
+    {
+        "No": "563",
+        "word": "jungle",
+        "meaning": "【名】〔ふつうthe～で〕(熱帯地方の)密林、ジャングル"
+    },
+    {
+        "No": "564",
+        "word": "junior high school",
+        "meaning": "【名】中学校"
+    },
+    {
+        "No": "565",
+        "word": "justice",
+        "meaning": "【名】正義、正しさ、公平"
+    },
+    {
+        "No": "566",
+        "word": "kangaroo",
+        "meaning": "【名】カンガルー"
+    },
+    {
+        "No": "567",
+        "word": "karaoke",
+        "meaning": "【名】カラオケ"
+    },
+    {
+        "No": "568",
+        "word": "Kenya",
+        "meaning": "【名】ケニヤ(アフリカ東部にある共和国）"
+    },
+    {
+        "No": "569",
+        "word": "key",
+        "meaning": "【名】かぎ"
+    },
+    {
+        "No": "570",
+        "word": "keyhole",
+        "meaning": "【名】鍵穴"
+    },
+    {
+        "No": "571",
+        "word": "kid",
+        "meaning": "【名】子ども"
+    },
+    {
+        "No": "572",
+        "word": "kilogram",
+        "meaning": "【名】キログラム"
+    },
+    {
+        "No": "573",
+        "word": "kilometer",
+        "meaning": "【名】キロメートル"
+    },
+    {
+        "No": "574",
+        "word": "kind",
+        "meaning": "【名】種類　　〔a kind of ～の形で〕　一種の～、～のようなもの"
+    },
+    {
+        "No": "575",
+        "word": "king",
+        "meaning": "【名】王、国王"
+    },
+    {
+        "No": "576",
+        "word": "kitchen",
+        "meaning": "【名】台所、キッチン"
+    },
+    {
+        "No": "577",
+        "word": "kite",
+        "meaning": "【名】(空にあげる)凧"
+    },
+    {
+        "No": "578",
+        "word": "koala",
+        "meaning": "【名】コアラ"
+    },
+    {
+        "No": "579",
+        "word": "Korea",
+        "meaning": "【名】韓国・朝鮮　　〔たとえば South Korea"
+    },
+    {
+        "No": "580",
+        "word": "Korean",
+        "meaning": "【名】韓国・朝鮮語、韓国人・朝鮮人"
+    },
+    {
+        "No": "581",
+        "word": "lady",
+        "meaning": "【名】婦人"
+    },
+    {
+        "No": "582",
+        "word": "lake",
+        "meaning": "【名】湖    〔たとえば Lake Towada の形で〕 十和田湖"
+    },
+    {
+        "No": "583",
+        "word": "lamp",
+        "meaning": "【名】ランプ、明かり"
+    },
+    {
+        "No": "584",
+        "word": "land",
+        "meaning": "【名】土地、陸地"
+    },
+    {
+        "No": "585",
+        "word": "landing card",
+        "meaning": "【名】入国カード"
+    },
+    {
+        "No": "586",
+        "word": "landmine",
+        "meaning": "【名】地雷"
+    },
+    {
+        "No": "587",
+        "word": "language",
+        "meaning": "【名】ことば、言語"
+    },
+    {
+        "No": "588",
+        "word": "language arts",
+        "meaning": "【名】言語技術(米国の多くの小・中学校で仮名部科目の一つ）"
+    },
+    {
+        "No": "589",
+        "word": "lap",
+        "meaning": "【名】ひざ（の上）"
+    },
+    {
+        "No": "590",
+        "word": "last",
+        "meaning": "【名】最後"
+    },
+    {
+        "No": "591",
+        "word": "laughter",
+        "meaning": "【名】笑い"
+    },
+    {
+        "No": "592",
+        "word": "law",
+        "meaning": "【名】法律"
+    },
+    {
+        "No": "593",
+        "word": "lawyer",
+        "meaning": "【名】弁護士、法律家"
+    },
+    {
+        "No": "594",
+        "word": "leader",
+        "meaning": "【名】指導者、リーダー"
+    },
+    {
+        "No": "595",
+        "word": "left",
+        "meaning": "【名】左、左側"
+    },
+    {
+        "No": "596",
+        "word": "leg",
+        "meaning": "【名】あし 《ももの付け根から下全部あるいは足首までの部分》"
+    },
+    {
+        "No": "597",
+        "word": "lemon",
+        "meaning": "【名】レモン"
+    },
+    {
+        "No": "598",
+        "word": "leopard",
+        "meaning": "【名】ヒョウ"
+    },
+    {
+        "No": "599",
+        "word": "lesson",
+        "meaning": "【名】1. (教科書などの)課、授業、勉強、けいこ、レッスン 2. 教訓"
+    },
+    {
+        "No": "600",
+        "word": "letter",
+        "meaning": "【名】手紙、文字、字"
+    },
+    {
+        "No": "601",
+        "word": "level",
+        "meaning": "【名】水平（面）、水位、高さ"
+    },
+    {
+        "No": "602",
+        "word": "library",
+        "meaning": "【名】図書館，図書室"
+    },
+    {
+        "No": "603",
+        "word": "life",
+        "meaning": "【名】1. 生命、いのち（複 lives） 2. 終生、一生 3. 人生 4. 生活、暮らし"
+    },
+    {
+        "No": "604",
+        "word": "light",
+        "meaning": "【名】1. 光、光線 2. 明かり、電灯"
+    },
+    {
+        "No": "605",
+        "word": "line",
+        "meaning": "【名】1. 線、電話線 2. （文字の）行　 3. (バス・列車・飛行機などの)路線 4. (役者の)せりふ、(文章などの)行"
+    },
+    {
+        "No": "606",
+        "word": "lion",
+        "meaning": "【名】ライオン"
+    },
+    {
+        "No": "607",
+        "word": "lives",
+        "meaning": "【名】lifeの複数形"
+    },
+    {
+        "No": "608",
+        "word": "living room",
+        "meaning": "【名】居間、リビングルーム"
+    },
+    {
+        "No": "609",
+        "word": "locker",
+        "meaning": "【名】ロッカー"
+    },
+    {
+        "No": "610",
+        "word": "London",
+        "meaning": "【名】ロンドン"
+    },
+    {
+        "No": "611",
+        "word": "look",
+        "meaning": "【名】見ること、一見　　〔 have ［take］ a look at ～の形で〕～を見る"
+    },
+    {
+        "No": "612",
+        "word": "lot",
+        "meaning": "【名】1. 〔a lot of ～ の形で〕 たくさんの、多数の 2. たくさん、多数、多量 〔a lot〕"
+    },
+    {
+        "No": "613",
+        "word": "love",
+        "meaning": "【名】1. 愛、恋愛 2. 《手紙などの結びのことば》 〔たとえば Love"
+    },
+    {
+        "No": "614",
+        "word": "luck",
+        "meaning": "【名】運"
+    },
+    {
+        "No": "615",
+        "word": "lucky break",
+        "meaning": "【名】成功のきっかけ"
+    },
+    {
+        "No": "616",
+        "word": "lullaby",
+        "meaning": "【名】子守歌"
+    },
+    {
+        "No": "617",
+        "word": "lunch",
+        "meaning": "【名】昼食、(お昼の）弁当"
+    },
+    {
+        "No": "618",
+        "word": "machine",
+        "meaning": "【名】機械"
+    },
+    {
+        "No": "619",
+        "word": "magazine",
+        "meaning": "【名】雑誌"
+    },
+    {
+        "No": "620",
+        "word": "magic",
+        "meaning": "【名】手品"
+    },
+    {
+        "No": "621",
+        "word": "maker",
+        "meaning": "【名】製作者"
+    },
+    {
+        "No": "622",
+        "word": "man",
+        "meaning": "【名】男の人、(一般的に)人"
+    },
+    {
+        "No": "623",
+        "word": "manga",
+        "meaning": "【名】（日本の）マンガ"
+    },
+    {
+        "No": "624",
+        "word": "manner",
+        "meaning": "【名】（mannersで）行儀、マナー"
+    },
+    {
+        "No": "625",
+        "word": "map",
+        "meaning": "【名】地図"
+    },
+    {
+        "No": "626",
+        "word": "March",
+        "meaning": "【名】３月"
+    },
+    {
+        "No": "627",
+        "word": "market",
+        "meaning": "【名】市場"
+    },
+    {
+        "No": "628",
+        "word": "marsh",
+        "meaning": "【名】沼"
+    },
+    {
+        "No": "629",
+        "word": "mask",
+        "meaning": "【名】(顔を保護する）防具、マスク"
+    },
+    {
+        "No": "630",
+        "word": "master",
+        "meaning": "【名】主人、住職、和尚(ときに固有名詞のように使い、大文字で書き始めてMasterで「和尚さま」"
+    },
+    {
+        "No": "631",
+        "word": "match",
+        "meaning": "【名】試合、勝負"
+    },
+    {
+        "No": "632",
+        "word": "math",
+        "meaning": "【名】数学 〔mathematicsを短くした形〕"
+    },
+    {
+        "No": "633",
+        "word": "matter",
+        "meaning": "【名】問題、困ったこと、事情"
+    },
+    {
+        "No": "634",
+        "word": "May",
+        "meaning": "【名】５月"
+    },
+    {
+        "No": "635",
+        "word": "mayor",
+        "meaning": "【名】村長"
+    },
+    {
+        "No": "636",
+        "word": "meal",
+        "meaning": "【名】食事"
+    },
+    {
+        "No": "637",
+        "word": "meaning",
+        "meaning": "【名】意味"
+    },
+    {
+        "No": "638",
+        "word": "meat",
+        "meaning": "【名】食用肉、肉"
+    },
+    {
+        "No": "639",
+        "word": "meat loaf",
+        "meaning": "【名】ミートローフ"
+    },
+    {
+        "No": "640",
+        "word": "medal",
+        "meaning": "【名】メダル"
+    },
+    {
+        "No": "641",
+        "word": "medicine",
+        "meaning": "【名】薬　〔take medicineの形で〕 薬を飲む"
+    },
+    {
+        "No": "642",
+        "word": "meeting",
+        "meaning": "【名】集会、会議"
+    },
+    {
+        "No": "643",
+        "word": "member",
+        "meaning": "【名】一員、メンバー"
+    },
+    {
+        "No": "644",
+        "word": "memorial",
+        "meaning": "【名】記念日、記念碑、記念館"
+    },
+    {
+        "No": "645",
+        "word": "memory",
+        "meaning": "【名】記憶、記憶力、思い出"
+    },
+    {
+        "No": "646",
+        "word": "men",
+        "meaning": "【名】〔manの複数形〕"
+    },
+    {
+        "No": "647",
+        "word": "menu",
+        "meaning": "【名】献立表、メニュー"
+    },
+    {
+        "No": "648",
+        "word": "message",
+        "meaning": "【名】伝言，メッセージ"
+    },
+    {
+        "No": "649",
+        "word": "meter",
+        "meaning": "【名】メートル"
+    },
+    {
+        "No": "650",
+        "word": "mid-1900s",
+        "meaning": "【名】1900年代半ば"
+    },
+    {
+        "No": "651",
+        "word": "middle",
+        "meaning": "【名】真ん中、中間"
+    },
+    {
+        "No": "652",
+        "word": "milk",
+        "meaning": "【名】牛乳、ミルク"
+    },
+    {
+        "No": "653",
+        "word": "million",
+        "meaning": "【名】百万"
+    },
+    {
+        "No": "654",
+        "word": "mind",
+        "meaning": "【名】心　[keep A in mindの形で］Aを心に留めておく 　　 [make up my mindの形で］決心する"
+    },
+    {
+        "No": "655",
+        "word": "minister",
+        "meaning": "【名】牧師"
+    },
+    {
+        "No": "656",
+        "word": "minute",
+        "meaning": "【名】1. (時間の)分 2. ちょっとの間　 〔Just a minute. の形で〕ちょっと待ってください"
+    },
+    {
+        "No": "657",
+        "word": "mirror",
+        "meaning": "【名】鏡"
+    },
+    {
+        "No": "658",
+        "word": "mistake",
+        "meaning": "【名】まちがい　［by mistakeの形で］誤って、間違って"
+    },
+    {
+        "No": "659",
+        "word": "mom",
+        "meaning": "【名】ママ、お母さん  《家庭内で子どもが母親を呼ぶのに使う。呼びかけの時にはしばしば大文字で始めて Mom とする。》"
+    },
+    {
+        "No": "660",
+        "word": "moment",
+        "meaning": "【名】ちょっとの時間、瞬間"
+    },
+    {
+        "No": "661",
+        "word": "mommy",
+        "meaning": "【名】お母ちゃん"
+    },
+    {
+        "No": "662",
+        "word": "Monday",
+        "meaning": "【名】月曜日"
+    },
+    {
+        "No": "663",
+        "word": "money",
+        "meaning": "【名】お金"
+    },
+    {
+        "No": "664",
+        "word": "Mongolia",
+        "meaning": "【名】モンゴル(中国の北方に位置する国）"
+    },
+    {
+        "No": "665",
+        "word": "monkey",
+        "meaning": "【名】サル"
+    },
+    {
+        "No": "666",
+        "word": "month",
+        "meaning": "【名】(暦の)月"
+    },
+    {
+        "No": "667",
+        "word": "moon",
+        "meaning": "【名】月"
+    },
+    {
+        "No": "668",
+        "word": "morning",
+        "meaning": "【名】朝、午前"
+    },
+    {
+        "No": "669",
+        "word": "mother",
+        "meaning": "【名】母、お母さん"
+    },
+    {
+        "No": "670",
+        "word": "motto",
+        "meaning": "【名】標語、モットー"
+    },
+    {
+        "No": "671",
+        "word": "mountain",
+        "meaning": "【名】山"
+    },
+    {
+        "No": "672",
+        "word": "mouth",
+        "meaning": "【名】口"
+    },
+    {
+        "No": "673",
+        "word": "movement",
+        "meaning": "【名】動き、(社会的)運動"
+    },
+    {
+        "No": "674",
+        "word": "movie",
+        "meaning": "【名】映画"
+    },
+    {
+        "No": "675",
+        "word": "Mr. (Mr.)",
+        "meaning": "【名】《男性の姓・姓名の前につけて》 ～さん、先生"
+    },
+    {
+        "No": "676",
+        "word": "Mrs. (Mrs.)",
+        "meaning": "【名】《結婚している女性の姓・姓名の前につけて》 ～さん、先生"
+    },
+    {
+        "No": "677",
+        "word": "Ms. (Ms.)",
+        "meaning": "【名】《女性の姓・姓名の前につけて》 ～さん、先生"
+    },
+    {
+        "No": "678",
+        "word": "Mt.",
+        "meaning": "【名】〔mountain （山）の略〕 ～山　  〔例えば Mt. Iwaki の形で〕 岩木山"
+    },
+    {
+        "No": "679",
+        "word": "much",
+        "meaning": "【名】多量、たくさん"
+    },
+    {
+        "No": "680",
+        "word": "museum",
+        "meaning": "【名】博物館、美術館"
+    },
+    {
+        "No": "681",
+        "word": "music",
+        "meaning": "【名】音楽"
+    },
+    {
+        "No": "682",
+        "word": "music club",
+        "meaning": "【名】(学校の）音楽部"
+    },
+    {
+        "No": "683",
+        "word": "musician",
+        "meaning": "【名】音楽家、ミュージシャン"
+    },
+    {
+        "No": "684",
+        "word": "Myanmar",
+        "meaning": "【名】ミャンマー"
+    },
+    {
+        "No": "685",
+        "word": "mystery",
+        "meaning": "【名】謎"
+    },
+    {
+        "No": "686",
+        "word": "name",
+        "meaning": "【名】名前"
+    },
+    {
+        "No": "687",
+        "word": "nation",
+        "meaning": "【名】国家"
+    },
+    {
+        "No": "688",
+        "word": "national holiday",
+        "meaning": "【名】国民の休日"
+    },
+    {
+        "No": "689",
+        "word": "national park",
+        "meaning": "【名】国立公園"
+    },
+    {
+        "No": "690",
+        "word": "natural gas",
+        "meaning": "【名】天然ガス"
+    },
+    {
+        "No": "691",
+        "word": "nature",
+        "meaning": "【名】自然、自然界"
+    },
+    {
+        "No": "692",
+        "word": "neck",
+        "meaning": "【名】首"
+    },
+    {
+        "No": "693",
+        "word": "need",
+        "meaning": "【名】必要　〔in needの形で〕必要で、困って"
+    },
+    {
+        "No": "694",
+        "word": "neighbor",
+        "meaning": "【名】隣人"
+    },
+    {
+        "No": "695",
+        "word": "nest",
+        "meaning": "【名】巣"
+    },
+    {
+        "No": "696",
+        "word": "New Year's Day",
+        "meaning": "【名】元日"
+    },
+    {
+        "No": "697",
+        "word": "New Year's Eve",
+        "meaning": "【名】大晦日"
+    },
+    {
+        "No": "698",
+        "word": "New York",
+        "meaning": "【名】ニューヨーク"
+    },
+    {
+        "No": "699",
+        "word": "New York City",
+        "meaning": "【名】ニューヨーク市"
+    },
+    {
+        "No": "700",
+        "word": "news",
+        "meaning": "【名】ニュース、知らせ"
+    },
+    {
+        "No": "701",
+        "word": "newspaper",
+        "meaning": "【名】新聞、新聞紙"
+    },
+    {
+        "No": "702",
+        "word": "night",
+        "meaning": "【名】夜"
+    },
+    {
+        "No": "703",
+        "word": "nine",
+        "meaning": "【名】９"
+    },
+    {
+        "No": "704",
+        "word": "nineteen",
+        "meaning": "【名】19"
+    },
+    {
+        "No": "705",
+        "word": "nineteenth",
+        "meaning": "【名】19番目の、１９日"
+    },
+    {
+        "No": "706",
+        "word": "ninety",
+        "meaning": "【名】90"
+    },
+    {
+        "No": "707",
+        "word": "ninth",
+        "meaning": "【名】9番め、（月の）9日"
+    },
+    {
+        "No": "708",
+        "word": "No.",
+        "meaning": "【名】…番、第…号"
+    },
+    {
+        "No": "709",
+        "word": "Nobel Peace Prize",
+        "meaning": "【名】ノーベル平和賞"
+    },
+    {
+        "No": "710",
+        "word": "non-white",
+        "meaning": "【名】白人以外の人"
+    },
+    {
+        "No": "711",
+        "word": "noodle",
+        "meaning": "【名】麺、ヌードル"
+    },
+    {
+        "No": "712",
+        "word": "noon",
+        "meaning": "【名】正午"
+    },
+    {
+        "No": "713",
+        "word": "north",
+        "meaning": "【名】北、北方、北部"
+    },
+    {
+        "No": "714",
+        "word": "North Carolina",
+        "meaning": "【名】ノース・カロライナ(アメリカ合衆国の州名）"
+    },
+    {
+        "No": "715",
+        "word": "nose",
+        "meaning": "【名】鼻"
+    },
+    {
+        "No": "716",
+        "word": "note",
+        "meaning": "【名】メモ、覚え書き"
+    },
+    {
+        "No": "717",
+        "word": "notebook",
+        "meaning": "【名】ノート"
+    },
+    {
+        "No": "718",
+        "word": "November",
+        "meaning": "【名】11月"
+    },
+    {
+        "No": "719",
+        "word": "now",
+        "meaning": "【名】今"
+    },
+    {
+        "No": "720",
+        "word": "number",
+        "meaning": "【名】～番、番号、数、数字"
+    },
+    {
+        "No": "721",
+        "word": "nun",
+        "meaning": "【名】尼僧"
+    },
+    {
+        "No": "722",
+        "word": "nurse",
+        "meaning": "【名】看護師、保健の先生"
+    },
+    {
+        "No": "723",
+        "word": "nurse's office",
+        "meaning": "【名】保健室"
+    },
+    {
+        "No": "724",
+        "word": "nursery",
+        "meaning": "【名】託児所"
+    },
+    {
+        "No": "725",
+        "word": "nursing",
+        "meaning": "【名】看護、介護"
+    },
+    {
+        "No": "726",
+        "word": "nursing home",
+        "meaning": "【名】高齢者福祉施設、療養所"
+    },
+    {
+        "No": "727",
+        "word": "ocean",
+        "meaning": "【名】大洋、海"
+    },
+    {
+        "No": "728",
+        "word": "October",
+        "meaning": "【名】10月"
+    },
+    {
+        "No": "729",
+        "word": "octopus",
+        "meaning": "【名】タコ"
+    },
+    {
+        "No": "730",
+        "word": "office",
+        "meaning": "【名】事務所､役所"
+    },
+    {
+        "No": "731",
+        "word": "officer",
+        "meaning": "【名】係員、役人、警察官"
+    },
+    {
+        "No": "732",
+        "word": "official",
+        "meaning": "【名】係官、職員"
+    },
+    {
+        "No": "733",
+        "word": "oil",
+        "meaning": "【名】油、石油"
+    },
+    {
+        "No": "734",
+        "word": "Olympics",
+        "meaning": "【名】(theをつけて）オリンピック"
+    },
+    {
+        "No": "735",
+        "word": "one",
+        "meaning": "【名】１つ､１人"
+    },
+    {
+        "No": "736",
+        "word": "opinion",
+        "meaning": "【名】意見、考え、判断"
+    },
+    {
+        "No": "737",
+        "word": "orange",
+        "meaning": "【名】オレンジ（色）"
+    },
+    {
+        "No": "738",
+        "word": "orchestra",
+        "meaning": "【名】オーケストラ"
+    },
+    {
+        "No": "739",
+        "word": "order",
+        "meaning": "【名】1. 命令 2. 注文 3. 順序"
+    },
+    {
+        "No": "740",
+        "word": "origin",
+        "meaning": "【名】（～の)起源、由来"
+    },
+    {
+        "No": "741",
+        "word": "outlook",
+        "meaning": "【名】見方、考え方"
+    },
+    {
+        "No": "742",
+        "word": "owl",
+        "meaning": "【名】フクロウ"
+    },
+    {
+        "No": "743",
+        "word": "oxygen",
+        "meaning": "【名】酸素"
+    },
+    {
+        "No": "744",
+        "word": "P.E. (PE)",
+        "meaning": "【名】体育 　〔physical educationの略〕"
+    },
+    {
+        "No": "745",
+        "word": "pack",
+        "meaning": "【名】1パック、１箱"
+    },
+    {
+        "No": "746",
+        "word": "page",
+        "meaning": "【名】ページ"
+    },
+    {
+        "No": "747",
+        "word": "pain",
+        "meaning": "【名】1. 痛み 2. 苦心"
+    },
+    {
+        "No": "748",
+        "word": "painter",
+        "meaning": "【名】画家"
+    },
+    {
+        "No": "749",
+        "word": "painting",
+        "meaning": "【名】絵、絵画"
+    },
+    {
+        "No": "750",
+        "word": "pair",
+        "meaning": "【名】１組、対"
+    },
+    {
+        "No": "751",
+        "word": "palace",
+        "meaning": "【名】御殿"
+    },
+    {
+        "No": "752",
+        "word": "palm",
+        "meaning": "【名】手のひら"
+    },
+    {
+        "No": "753",
+        "word": "pamphlet",
+        "meaning": "【名】パンフレット"
+    },
+    {
+        "No": "754",
+        "word": "panda",
+        "meaning": "【名】パンダ"
+    },
+    {
+        "No": "755",
+        "word": "panel",
+        "meaning": "【名】パネル"
+    },
+    {
+        "No": "756",
+        "word": "paper",
+        "meaning": "【名】紙、折り紙、レポート、論文"
+    },
+    {
+        "No": "757",
+        "word": "paper crane",
+        "meaning": "【名】折り鶴"
+    },
+    {
+        "No": "758",
+        "word": "Paralympics",
+        "meaning": "【名】(theをつけて）パラリンピック"
+    },
+    {
+        "No": "759",
+        "word": "pardon",
+        "meaning": "【名】許し、許すこと　〔I beg your pardon.（最後を上げて発音して）/Beg your pardon?/Pardon?の形で〕 すみませんが、もう一度言ってください。"
+    },
+    {
+        "No": "760",
+        "word": "parent",
+        "meaning": "【名】親"
+    },
+    {
+        "No": "761",
+        "word": "Paris",
+        "meaning": "【名】パリ"
+    },
+    {
+        "No": "762",
+        "word": "park",
+        "meaning": "【名】公園、遊園地"
+    },
+    {
+        "No": "763",
+        "word": "part",
+        "meaning": "【名】1.一部 2.役割、役目"
+    },
+    {
+        "No": "764",
+        "word": "particular",
+        "meaning": "【名】項目、細部"
+    },
+    {
+        "No": "765",
+        "word": "partner",
+        "meaning": "【名】仲間、パートナー"
+    },
+    {
+        "No": "766",
+        "word": "party",
+        "meaning": "【名】パーティー"
+    },
+    {
+        "No": "767",
+        "word": "passion",
+        "meaning": "【名】熱中（しているもの）、情熱"
+    },
+    {
+        "No": "768",
+        "word": "passport",
+        "meaning": "【名】パスポート"
+    },
+    {
+        "No": "769",
+        "word": "past",
+        "meaning": "【名】過去"
+    },
+    {
+        "No": "770",
+        "word": "pastry shop",
+        "meaning": "【名】洋菓子店"
+    },
+    {
+        "No": "771",
+        "word": "patient",
+        "meaning": "【名】患者、病人"
+    },
+    {
+        "No": "772",
+        "word": "peace",
+        "meaning": "【名】平和"
+    },
+    {
+        "No": "773",
+        "word": "peach",
+        "meaning": "【名】（果物の）モモ"
+    },
+    {
+        "No": "774",
+        "word": "pen",
+        "meaning": "【名】ペン"
+    },
+    {
+        "No": "775",
+        "word": "pencil",
+        "meaning": "【名】えんぴつ"
+    },
+    {
+        "No": "776",
+        "word": "people",
+        "meaning": "【名】1. 《複数扱いで、２人以上を表して》 人、人々、人間 2.国民"
+    },
+    {
+        "No": "777",
+        "word": "percent",
+        "meaning": "【名】パーセント"
+    },
+    {
+        "No": "778",
+        "word": "performance",
+        "meaning": "【名】上演、演奏、演技"
+    },
+    {
+        "No": "779",
+        "word": "performer",
+        "meaning": "【名】上演者、噺家、芸人"
+    },
+    {
+        "No": "780",
+        "word": "period",
+        "meaning": "【名】時代"
+    },
+    {
+        "No": "781",
+        "word": "person",
+        "meaning": "【名】人 〔２人以上を表すときは people がふつう〕"
+    },
+    {
+        "No": "782",
+        "word": "Peru",
+        "meaning": "【名】ペルー（南米の国の名前）"
+    },
+    {
+        "No": "783",
+        "word": "pet",
+        "meaning": "【名】ペット"
+    },
+    {
+        "No": "784",
+        "word": "pharmacist",
+        "meaning": "【名】薬剤師、薬局"
+    },
+    {
+        "No": "785",
+        "word": "Philippines",
+        "meaning": "【名】(the ～で）フィリピン共和国"
+    },
+    {
+        "No": "786",
+        "word": "phone",
+        "meaning": "【名】電話　　〔 telephone の略〕"
+    },
+    {
+        "No": "787",
+        "word": "phone call",
+        "meaning": "【名】電話をかけること"
+    },
+    {
+        "No": "788",
+        "word": "photo",
+        "meaning": "【名】写真　  〔photograph の略〕"
+    },
+    {
+        "No": "789",
+        "word": "photograph",
+        "meaning": "【名】写真"
+    },
+    {
+        "No": "790",
+        "word": "photographer",
+        "meaning": "【名】写真家、カメラマン"
+    },
+    {
+        "No": "791",
+        "word": "phrase",
+        "meaning": "【名】句、言い回し、フレーズ"
+    },
+    {
+        "No": "792",
+        "word": "piano",
+        "meaning": "【名】ピアノ"
+    },
+    {
+        "No": "793",
+        "word": "picnic",
+        "meaning": "【名】ピクニック、行楽"
+    },
+    {
+        "No": "794",
+        "word": "picture",
+        "meaning": "【名】絵、写真"
+    },
+    {
+        "No": "795",
+        "word": "pie",
+        "meaning": "【名】パイ（肉や果物などを練り粉で包んで焼いた菓子、料理）"
+    },
+    {
+        "No": "796",
+        "word": "piece",
+        "meaning": "【名】〔a piece of ～の形で〕１つの～、ひとかけらの～"
+    },
+    {
+        "No": "797",
+        "word": "pilot",
+        "meaning": "【名】パイロット"
+    },
+    {
+        "No": "798",
+        "word": "pink",
+        "meaning": "【名】ピンク色（の）、もも色（の）"
+    },
+    {
+        "No": "799",
+        "word": "pizza",
+        "meaning": "【名】ピザ"
+    },
+    {
+        "No": "800",
+        "word": "place",
+        "meaning": "【名】1.場所､所 2.順位"
+    },
+    {
+        "No": "801",
+        "word": "plan",
+        "meaning": "【名】1. 事業 2. 計画、案、考え、予定"
+    },
+    {
+        "No": "802",
+        "word": "plane",
+        "meaning": "【名】飛行機"
+    },
+    {
+        "No": "803",
+        "word": "plant",
+        "meaning": "【名】植物"
+    },
+    {
+        "No": "804",
+        "word": "plastic",
+        "meaning": "【名】プラスチック"
+    },
+    {
+        "No": "805",
+        "word": "plastic bag",
+        "meaning": "【名】ビニール袋"
+    },
+    {
+        "No": "806",
+        "word": "plate",
+        "meaning": "【名】取り皿"
+    },
+    {
+        "No": "807",
+        "word": "play",
+        "meaning": "【名】劇"
+    },
+    {
+        "No": "808",
+        "word": "player",
+        "meaning": "【名】（楽器を）演奏する人、演奏家、（スポーツを）する人、選手"
+    },
+    {
+        "No": "809",
+        "word": "pleasure",
+        "meaning": "【名】喜び"
+    },
+    {
+        "No": "810",
+        "word": "pocket",
+        "meaning": "【名】ポケット"
+    },
+    {
+        "No": "811",
+        "word": "poem",
+        "meaning": "【名】詩"
+    },
+    {
+        "No": "812",
+        "word": "point",
+        "meaning": "【名】1. 箇所、点、地点 2. 言おうとしていること、要点、考え 3. 特徴、特質"
+    },
+    {
+        "No": "813",
+        "word": "poison",
+        "meaning": "【名】毒薬、毒"
+    },
+    {
+        "No": "814",
+        "word": "polar bear",
+        "meaning": "【名】ホッキョクグマ"
+    },
+    {
+        "No": "815",
+        "word": "police",
+        "meaning": "【名】〔しばしばthe policeで、複数扱い〕警察   〔（一人の）警官をさす場合は a police officer〕"
+    },
+    {
+        "No": "816",
+        "word": "police officer",
+        "meaning": "【名】(一人の）警官"
+    },
+    {
+        "No": "817",
+        "word": "politician",
+        "meaning": "【名】政治家"
+    },
+    {
+        "No": "818",
+        "word": "pollution",
+        "meaning": "【名】汚染"
+    },
+    {
+        "No": "819",
+        "word": "polo",
+        "meaning": "【名】（馬に乗って行う競技）ポロ"
+    },
+    {
+        "No": "820",
+        "word": "pond",
+        "meaning": "【名】池"
+    },
+    {
+        "No": "821",
+        "word": "poodle",
+        "meaning": "【名】プードル（犬の１品種）"
+    },
+    {
+        "No": "822",
+        "word": "pool",
+        "meaning": "【名】（水泳用の）プール"
+    },
+    {
+        "No": "823",
+        "word": "popular culture",
+        "meaning": "【名】大衆文化、ポップカルチャー"
+    },
+    {
+        "No": "824",
+        "word": "population",
+        "meaning": "【名】人口"
+    },
+    {
+        "No": "825",
+        "word": "Portuguese",
+        "meaning": "【名】ポルトガル語"
+    },
+    {
+        "No": "826",
+        "word": "post",
+        "meaning": "【名】郵便、郵便物"
+    },
+    {
+        "No": "827",
+        "word": "post office",
+        "meaning": "【名】郵便局"
+    },
+    {
+        "No": "828",
+        "word": "postcard",
+        "meaning": "【名】郵便はがき、絵はがき"
+    },
+    {
+        "No": "829",
+        "word": "poster",
+        "meaning": "【名】ポスター"
+    },
+    {
+        "No": "830",
+        "word": "pot",
+        "meaning": "【名】（深い）なべ"
+    },
+    {
+        "No": "831",
+        "word": "pouch",
+        "meaning": "【名】袋"
+    },
+    {
+        "No": "832",
+        "word": "pound",
+        "meaning": "【名】ポンド(イギリスの通貨）"
+    },
+    {
+        "No": "833",
+        "word": "power",
+        "meaning": "【名】力、能力"
+    },
+    {
+        "No": "834",
+        "word": "prefecture",
+        "meaning": "【名】県"
+    },
+    {
+        "No": "835",
+        "word": "present",
+        "meaning": "【名】1.「現在」 2.プレゼント、贈り物"
+    },
+    {
+        "No": "836",
+        "word": "presentation",
+        "meaning": "【名】（意見・提案などの）発表、プレゼンテーション"
+    },
+    {
+        "No": "837",
+        "word": "pressure",
+        "meaning": "【名】圧力、せまられること、プレッシャー"
+    },
+    {
+        "No": "838",
+        "word": "price",
+        "meaning": "【名】値段"
+    },
+    {
+        "No": "839",
+        "word": "prince",
+        "meaning": "【名】王子"
+    },
+    {
+        "No": "840",
+        "word": "principal",
+        "meaning": "【名】校長"
+    },
+    {
+        "No": "841",
+        "word": "principal's office",
+        "meaning": "【名】校長室"
+    },
+    {
+        "No": "842",
+        "word": "print",
+        "meaning": "【名】印刷、版画"
+    },
+    {
+        "No": "843",
+        "word": "prize",
+        "meaning": "【名】賞、賞品"
+    },
+    {
+        "No": "844",
+        "word": "problem",
+        "meaning": "【名】(困難を引き起こす)問題、障害、課題"
+    },
+    {
+        "No": "845",
+        "word": "product",
+        "meaning": "【名】製品、生産物"
+    },
+    {
+        "No": "846",
+        "word": "professor",
+        "meaning": "【名】教授"
+    },
+    {
+        "No": "847",
+        "word": "program",
+        "meaning": "【名】1. 番組（表）、プログラム 2. 計画、予定（表）"
+    },
+    {
+        "No": "848",
+        "word": "programmer",
+        "meaning": "【名】プログラマー"
+    },
+    {
+        "No": "849",
+        "word": "promise",
+        "meaning": "【名】約束"
+    },
+    {
+        "No": "850",
+        "word": "prop",
+        "meaning": "【名】小道具"
+    },
+    {
+        "No": "851",
+        "word": "public hall",
+        "meaning": "【名】公会堂"
+    },
+    {
+        "No": "852",
+        "word": "purple",
+        "meaning": "【名】紫色（の）"
+    },
+    {
+        "No": "853",
+        "word": "purpose",
+        "meaning": "【名】目的"
+    },
+    {
+        "No": "854",
+        "word": "question",
+        "meaning": "【名】1. 質問、問い 2. 問題、論点"
+    },
+    {
+        "No": "855",
+        "word": "quiz",
+        "meaning": "【名】簡単な口頭（筆記）のテスト、質問、（ラジオ・テレビの）クイズ"
+    },
+    {
+        "No": "856",
+        "word": "rabbit",
+        "meaning": "【名】ウサギ"
+    },
+    {
+        "No": "857",
+        "word": "race",
+        "meaning": "【名】競争、競走"
+    },
+    {
+        "No": "858",
+        "word": "racket",
+        "meaning": "【名】ラケット"
+    },
+    {
+        "No": "859",
+        "word": "radio",
+        "meaning": "【名】ラジオ"
+    },
+    {
+        "No": "860",
+        "word": "radish",
+        "meaning": "【名】ハツカダイコン"
+    },
+    {
+        "No": "861",
+        "word": "rain",
+        "meaning": "【名】雨"
+    },
+    {
+        "No": "862",
+        "word": "rain forest",
+        "meaning": "【名】熱帯雨林"
+    },
+    {
+        "No": "863",
+        "word": "rainbow",
+        "meaning": "【名】虹"
+    },
+    {
+        "No": "864",
+        "word": "ramp",
+        "meaning": "【名】スロープ"
+    },
+    {
+        "No": "865",
+        "word": "reading",
+        "meaning": "【名】読むこと"
+    },
+    {
+        "No": "866",
+        "word": "reality",
+        "meaning": "【名】現実、実際"
+    },
+    {
+        "No": "867",
+        "word": "reason",
+        "meaning": "【名】理由"
+    },
+    {
+        "No": "868",
+        "word": "recipe",
+        "meaning": "【名】（料理などの）作り方、レシピ"
+    },
+    {
+        "No": "869",
+        "word": "red",
+        "meaning": "【名】赤い、赤色（の）、赤"
+    },
+    {
+        "No": "870",
+        "word": "refugee",
+        "meaning": "【名】難民、避難者"
+    },
+    {
+        "No": "871",
+        "word": "relay",
+        "meaning": "【名】リレー競走"
+    },
+    {
+        "No": "872",
+        "word": "report",
+        "meaning": "【名】レポート、報告"
+    },
+    {
+        "No": "873",
+        "word": "reporter",
+        "meaning": "【名】リポーター"
+    },
+    {
+        "No": "874",
+        "word": "research",
+        "meaning": "【名】研究、調査"
+    },
+    {
+        "No": "875",
+        "word": "resource",
+        "meaning": "【名】〔通常は複数形で〕資源、財源"
+    },
+    {
+        "No": "876",
+        "word": "respect",
+        "meaning": "【名】尊敬、尊重"
+    },
+    {
+        "No": "877",
+        "word": "rest",
+        "meaning": "【名】休み"
+    },
+    {
+        "No": "878",
+        "word": "restaurant",
+        "meaning": "【名】レストラン、食堂、料理屋"
+    },
+    {
+        "No": "879",
+        "word": "restroom",
+        "meaning": "【名】（デパート・劇場などの）洗面所、トイレ"
+    },
+    {
+        "No": "880",
+        "word": "result",
+        "meaning": "【名】結果"
+    },
+    {
+        "No": "881",
+        "word": "return",
+        "meaning": "【名】再び巡ってくること"
+    },
+    {
+        "No": "882",
+        "word": "reuse",
+        "meaning": "【名】再利用"
+    },
+    {
+        "No": "883",
+        "word": "rhythm",
+        "meaning": "【名】リズム"
+    },
+    {
+        "No": "884",
+        "word": "rice",
+        "meaning": "【名】ご飯、米"
+    },
+    {
+        "No": "885",
+        "word": "rice ball",
+        "meaning": "【名】おにぎり"
+    },
+    {
+        "No": "886",
+        "word": "rice cake",
+        "meaning": "【名】もち"
+    },
+    {
+        "No": "887",
+        "word": "right",
+        "meaning": "【名】1.（利益などを得る）権利、法的権利 2. 右、右側"
+    },
+    {
+        "No": "888",
+        "word": "rise",
+        "meaning": "【名】上昇、増加、昇進"
+    },
+    {
+        "No": "889",
+        "word": "river",
+        "meaning": "【名】川　　　〔たとえば the Mabechi River の形で馬淵川〕"
+    },
+    {
+        "No": "890",
+        "word": "road",
+        "meaning": "【名】道路"
+    },
+    {
+        "No": "891",
+        "word": "robot",
+        "meaning": "【名】ロボット"
+    },
+    {
+        "No": "892",
+        "word": "rock",
+        "meaning": "【名】1. ロック（音楽） 2. 岩、岩石"
+    },
+    {
+        "No": "893",
+        "word": "roll",
+        "meaning": "【名】巻いたもの、－巻"
+    },
+    {
+        "No": "894",
+        "word": "Roman",
+        "meaning": "【名】古代ローマ人、現代のローマ市民"
+    },
+    {
+        "No": "895",
+        "word": "Rome",
+        "meaning": "【名】ローマ〔イタリアの首都、古代ローマ帝国の首都〕"
+    },
+    {
+        "No": "896",
+        "word": "roof",
+        "meaning": "【名】屋上、屋根"
+    },
+    {
+        "No": "897",
+        "word": "room",
+        "meaning": "【名】部屋"
+    },
+    {
+        "No": "898",
+        "word": "rope",
+        "meaning": "【名】綱、縄、ロープ"
+    },
+    {
+        "No": "899",
+        "word": "rule",
+        "meaning": "【名】決まり、規則"
+    },
+    {
+        "No": "900",
+        "word": "ruler",
+        "meaning": "【名】ものさし、定規"
+    },
+    {
+        "No": "901",
+        "word": "Russia",
+        "meaning": "【名】ロシア"
+    },
+    {
+        "No": "902",
+        "word": "sadness",
+        "meaning": "【名】悲しみ"
+    },
+    {
+        "No": "903",
+        "word": "salad",
+        "meaning": "【名】サラダ"
+    },
+    {
+        "No": "904",
+        "word": "sale",
+        "meaning": "【名】安売り、バーゲンセール"
+    },
+    {
+        "No": "905",
+        "word": "salt",
+        "meaning": "【名】塩"
+    },
+    {
+        "No": "906",
+        "word": "sandwich",
+        "meaning": "【名】サンドイッチ"
+    },
+    {
+        "No": "907",
+        "word": "Saturday",
+        "meaning": "【名】土曜日"
+    },
+    {
+        "No": "908",
+        "word": "scene",
+        "meaning": "【名】（劇・映画・小説の）場面"
+    },
+    {
+        "No": "909",
+        "word": "scenery",
+        "meaning": "【名】風景、景色"
+    },
+    {
+        "No": "910",
+        "word": "schedule",
+        "meaning": "【名】予定（表）"
+    },
+    {
+        "No": "911",
+        "word": "school",
+        "meaning": "【名】学校　　〔たとえばgo to school の形で〕 学校へ行く、学校に通っている"
+    },
+    {
+        "No": "912",
+        "word": "schoolyard",
+        "meaning": "【名】校庭、運動場"
+    },
+    {
+        "No": "913",
+        "word": "science",
+        "meaning": "【名】理科、科学、自然科学"
+    },
+    {
+        "No": "914",
+        "word": "scientist",
+        "meaning": "【名】科学者"
+    },
+    {
+        "No": "915",
+        "word": "Scotland",
+        "meaning": "【名】スコットランド"
+    },
+    {
+        "No": "916",
+        "word": "scrambled egg",
+        "meaning": "【名】スクランブルエッグ"
+    },
+    {
+        "No": "917",
+        "word": "sculpture",
+        "meaning": "【名】彫刻"
+    },
+    {
+        "No": "918",
+        "word": "sea",
+        "meaning": "【名】海   〔たとえば go to the sea の形で (海水浴などの目的で）海岸へ行く"
+    },
+    {
+        "No": "919",
+        "word": "sea level rise",
+        "meaning": "【名】海面上昇"
+    },
+    {
+        "No": "920",
+        "word": "seal",
+        "meaning": "【名】アザラシ"
+    },
+    {
+        "No": "921",
+        "word": "season",
+        "meaning": "【名】季節"
+    },
+    {
+        "No": "922",
+        "word": "seat",
+        "meaning": "【名】席"
+    },
+    {
+        "No": "923",
+        "word": "second",
+        "meaning": "【名】1.（時間の）秒 2.２番め､（月の）２日 3.少しの間"
+    },
+    {
+        "No": "924",
+        "word": "section",
+        "meaning": "【名】部分、部門、〔会社、官庁などの〕課"
+    },
+    {
+        "No": "925",
+        "word": "seed",
+        "meaning": "【名】種"
+    },
+    {
+        "No": "926",
+        "word": "sense",
+        "meaning": "【名】意味、感覚"
+    },
+    {
+        "No": "927",
+        "word": "September",
+        "meaning": "【名】９月"
+    },
+    {
+        "No": "928",
+        "word": "serve",
+        "meaning": "【名】（テニスなどの）サーブ"
+    },
+    {
+        "No": "929",
+        "word": "set",
+        "meaning": "【名】（テニスなどの）セット"
+    },
+    {
+        "No": "930",
+        "word": "seven",
+        "meaning": "【名】7、７つの"
+    },
+    {
+        "No": "931",
+        "word": "seventeen",
+        "meaning": "【名】17"
+    },
+    {
+        "No": "932",
+        "word": "seventeenth",
+        "meaning": "【名】17の番目の、１７日"
+    },
+    {
+        "No": "933",
+        "word": "seventh",
+        "meaning": "【名】７番め、（月の）７日"
+    },
+    {
+        "No": "934",
+        "word": "seventy",
+        "meaning": "【名】70、７０の"
+    },
+    {
+        "No": "935",
+        "word": "shade",
+        "meaning": "【名】陰"
+    },
+    {
+        "No": "936",
+        "word": "shampoo",
+        "meaning": "【名】シャンプー"
+    },
+    {
+        "No": "937",
+        "word": "shape",
+        "meaning": "【名】形、姿"
+    },
+    {
+        "No": "938",
+        "word": "shelf",
+        "meaning": "【名】棚"
+    },
+    {
+        "No": "939",
+        "word": "ship",
+        "meaning": "【名】船"
+    },
+    {
+        "No": "940",
+        "word": "shirt",
+        "meaning": "【名】シャツ"
+    },
+    {
+        "No": "941",
+        "word": "shock",
+        "meaning": "【名】（精神的な）ショック"
+    },
+    {
+        "No": "942",
+        "word": "shoe",
+        "meaning": "【名】くつ　　〔たとえば a pair of shoes の形で〕　くつ１足"
+    },
+    {
+        "No": "943",
+        "word": "shop",
+        "meaning": "【名】(ものを売る)店、小売店"
+    },
+    {
+        "No": "944",
+        "word": "shopping",
+        "meaning": "【名】買い物"
+    },
+    {
+        "No": "945",
+        "word": "short",
+        "meaning": "【名】〔in short の形で）手短に言うと"
+    },
+    {
+        "No": "946",
+        "word": "shoulder",
+        "meaning": "【名】肩"
+    },
+    {
+        "No": "947",
+        "word": "show",
+        "meaning": "【名】ショー"
+    },
+    {
+        "No": "948",
+        "word": "shower",
+        "meaning": "【名】シャワー"
+    },
+    {
+        "No": "949",
+        "word": "shrine",
+        "meaning": "【名】神社"
+    },
+    {
+        "No": "950",
+        "word": "shyness",
+        "meaning": "【名】内気、はにかみ"
+    },
+    {
+        "No": "951",
+        "word": "sickness",
+        "meaning": "【名】病気"
+    },
+    {
+        "No": "952",
+        "word": "side",
+        "meaning": "【名】1.面、局面、味方 2.横、脇　〔side by side で〕並んで"
+    },
+    {
+        "No": "953",
+        "word": "sightseeing",
+        "meaning": "【名】観光、見物"
+    },
+    {
+        "No": "954",
+        "word": "sign",
+        "meaning": "【名】1. 標識、看板 2. 身ぶり、合図"
+    },
+    {
+        "No": "955",
+        "word": "singer",
+        "meaning": "【名】歌う人、歌手"
+    },
+    {
+        "No": "956",
+        "word": "singing",
+        "meaning": "【名】歌うこと、歌唱"
+    },
+    {
+        "No": "957",
+        "word": "sister",
+        "meaning": "【名】姉、妹"
+    },
+    {
+        "No": "958",
+        "word": "site",
+        "meaning": "【名】（重大なできごとが起こった）場所、遺跡"
+    },
+    {
+        "No": "959",
+        "word": "situation",
+        "meaning": "【名】状況、状態"
+    },
+    {
+        "No": "960",
+        "word": "six",
+        "meaning": "【名】6"
+    },
+    {
+        "No": "961",
+        "word": "sixteen",
+        "meaning": "【名】16"
+    },
+    {
+        "No": "962",
+        "word": "sixth",
+        "meaning": "【名】6番め、（月の）6日"
+    },
+    {
+        "No": "963",
+        "word": "sixty",
+        "meaning": "【名】60"
+    },
+    {
+        "No": "964",
+        "word": "size",
+        "meaning": "【名】大きさ、サイズ"
+    },
+    {
+        "No": "965",
+        "word": "skill",
+        "meaning": "【名】技術、技能"
+    },
+    {
+        "No": "966",
+        "word": "skin",
+        "meaning": "【名】皮膚、肌"
+    },
+    {
+        "No": "967",
+        "word": "sky",
+        "meaning": "【名】空、大空"
+    },
+    {
+        "No": "968",
+        "word": "slump",
+        "meaning": "【名】不振、不調"
+    },
+    {
+        "No": "969",
+        "word": "smell",
+        "meaning": "【名】におい"
+    },
+    {
+        "No": "970",
+        "word": "smile",
+        "meaning": "【名】ほほえみ"
+    },
+    {
+        "No": "971",
+        "word": "smog",
+        "meaning": "【名】スモッグ"
+    },
+    {
+        "No": "972",
+        "word": "smoke",
+        "meaning": "【名】煙"
+    },
+    {
+        "No": "973",
+        "word": "snack",
+        "meaning": "【名】（正規の食事の間の）軽食、おやつ"
+    },
+    {
+        "No": "974",
+        "word": "snake",
+        "meaning": "【名】へび"
+    },
+    {
+        "No": "975",
+        "word": "sneaker",
+        "meaning": "【名】スニーカー"
+    },
+    {
+        "No": "976",
+        "word": "snow",
+        "meaning": "【名】雪"
+    },
+    {
+        "No": "977",
+        "word": "soccer",
+        "meaning": "【名】サッカー"
+    },
+    {
+        "No": "978",
+        "word": "social studies",
+        "meaning": "【名】(教科の）社会科"
+    },
+    {
+        "No": "979",
+        "word": "sock",
+        "meaning": "【名】ソックス、（短い）くつ下　　〔a pair of socks の形で〕　くつ下１足"
+    },
+    {
+        "No": "980",
+        "word": "sofa",
+        "meaning": "【名】ソファー"
+    },
+    {
+        "No": "981",
+        "word": "softball",
+        "meaning": "【名】ソフトボール"
+    },
+    {
+        "No": "982",
+        "word": "solar cooker",
+        "meaning": "【名】ソーラークッカー"
+    },
+    {
+        "No": "983",
+        "word": "soldier",
+        "meaning": "【名】（陸軍の）兵士、軍人"
+    },
+    {
+        "No": "984",
+        "word": "son",
+        "meaning": "【名】息子"
+    },
+    {
+        "No": "985",
+        "word": "song",
+        "meaning": "【名】歌"
+    },
+    {
+        "No": "986",
+        "word": "sound",
+        "meaning": "【名】音、響き"
+    },
+    {
+        "No": "987",
+        "word": "soup",
+        "meaning": "【名】スープ"
+    },
+    {
+        "No": "988",
+        "word": "south",
+        "meaning": "【名】南"
+    },
+    {
+        "No": "989",
+        "word": "South Africa",
+        "meaning": "【名】南アフリカ共和国"
+    },
+    {
+        "No": "990",
+        "word": "southwest",
+        "meaning": "【名】南西"
+    },
+    {
+        "No": "991",
+        "word": "soybean",
+        "meaning": "【名】大豆"
+    },
+    {
+        "No": "992",
+        "word": "space",
+        "meaning": "【名】1. 宇宙、宇宙空間 2. 空間、場所、スペース"
+    },
+    {
+        "No": "993",
+        "word": "Spain",
+        "meaning": "【名】スペイン"
+    },
+    {
+        "No": "994",
+        "word": "Spanish",
+        "meaning": "【名】スペイン語"
+    },
+    {
+        "No": "995",
+        "word": "speaker",
+        "meaning": "【名】話す人"
+    },
+    {
+        "No": "996",
+        "word": "speech",
+        "meaning": "【名】演説、スピーチ"
+    },
+    {
+        "No": "997",
+        "word": "spirit",
+        "meaning": "【名】1. 気力、勇気　〔fighting spirit の形で〕闘志 2. 心、精神、霊"
+    },
+    {
+        "No": "998",
+        "word": "spoon",
+        "meaning": "【名】スプーン"
+    },
+    {
+        "No": "999",
+        "word": "sport",
+        "meaning": "【名】スポーツ、運動"
+    },
+    {
+        "No": "1000",
+        "word": "sports day",
+        "meaning": "【名】運動会"
+    },
+    {
+        "No": "1001",
+        "word": "spring",
+        "meaning": "【名】1. 春 2. 泉　〔hot spring の形で〕　温泉"
+    },
+    {
+        "No": "1002",
+        "word": "sprint",
+        "meaning": "【名】短距離走"
+    },
+    {
+        "No": "1003",
+        "word": "square",
+        "meaning": "【名】四角形"
+    },
+    {
+        "No": "1004",
+        "word": "stable master",
+        "meaning": "【名】（相撲部屋の）親方"
+    },
+    {
+        "No": "1005",
+        "word": "stadium",
+        "meaning": "【名】スタジアム、競技場"
+    },
+    {
+        "No": "1006",
+        "word": "staff",
+        "meaning": "【名】〔集合的に〕職員、社員"
+    },
+    {
+        "No": "1007",
+        "word": "stage",
+        "meaning": "【名】舞台、ステージ"
+    },
+    {
+        "No": "1008",
+        "word": "stair",
+        "meaning": "【名】階段"
+    },
+    {
+        "No": "1009",
+        "word": "stairs",
+        "meaning": "【名】〔stairsで〕階段"
+    },
+    {
+        "No": "1010",
+        "word": "stand",
+        "meaning": "【名】スタンド、台"
+    },
+    {
+        "No": "1011",
+        "word": "star",
+        "meaning": "【名】1. 星 2. (映画・スポーツなどの)スター"
+    },
+    {
+        "No": "1012",
+        "word": "starvation",
+        "meaning": "【名】飢餓、ききん"
+    },
+    {
+        "No": "1013",
+        "word": "station",
+        "meaning": "【名】駅"
+    },
+    {
+        "No": "1014",
+        "word": "stationery",
+        "meaning": "【名】文房具"
+    },
+    {
+        "No": "1015",
+        "word": "statue",
+        "meaning": "【名】像、彫刻"
+    },
+    {
+        "No": "1016",
+        "word": "Statue of Liberty",
+        "meaning": "【名】自由の女神像"
+    },
+    {
+        "No": "1017",
+        "word": "stay",
+        "meaning": "【名】滞在"
+    },
+    {
+        "No": "1018",
+        "word": "step",
+        "meaning": "【名】1. （階段の）踏み段 2. 段階"
+    },
+    {
+        "No": "1019",
+        "word": "stew",
+        "meaning": "【名】シチュー"
+    },
+    {
+        "No": "1020",
+        "word": "stomach",
+        "meaning": "【名】おなか、胃"
+    },
+    {
+        "No": "1021",
+        "word": "stomachache",
+        "meaning": "【名】腹痛"
+    },
+    {
+        "No": "1022",
+        "word": "stop",
+        "meaning": "【名】駅、停留所"
+    },
+    {
+        "No": "1023",
+        "word": "store",
+        "meaning": "【名】店"
+    },
+    {
+        "No": "1024",
+        "word": "story",
+        "meaning": "【名】話、物語"
+    },
+    {
+        "No": "1025",
+        "word": "storytelling",
+        "meaning": "【名】物語を語ること  　〔comic storytellingで〕話芸"
+    },
+    {
+        "No": "1026",
+        "word": "stream",
+        "meaning": "【名】小川、川"
+    },
+    {
+        "No": "1027",
+        "word": "street",
+        "meaning": "【名】通り"
+    },
+    {
+        "No": "1028",
+        "word": "stringed instrument",
+        "meaning": "【名】弦楽器"
+    },
+    {
+        "No": "1029",
+        "word": "stroller",
+        "meaning": "【名】ベビーカー"
+    },
+    {
+        "No": "1030",
+        "word": "struggle",
+        "meaning": "【名】もがき、苦闘"
+    },
+    {
+        "No": "1031",
+        "word": "student",
+        "meaning": "【名】学生、生徒"
+    },
+    {
+        "No": "1032",
+        "word": "stuff",
+        "meaning": "【名】もの"
+    },
+    {
+        "No": "1033",
+        "word": "style",
+        "meaning": "【名】やり方、作風、型"
+    },
+    {
+        "No": "1034",
+        "word": "subject",
+        "meaning": "【名】1. (主）題、トピック、テーマ 2.教科"
+    },
+    {
+        "No": "1035",
+        "word": "suburb",
+        "meaning": "【名】郊外"
+    },
+    {
+        "No": "1036",
+        "word": "subway",
+        "meaning": "【名】（アメリカ合衆国の）地下鉄"
+    },
+    {
+        "No": "1037",
+        "word": "success",
+        "meaning": "【名】成功"
+    },
+    {
+        "No": "1038",
+        "word": "sugar",
+        "meaning": "【名】砂糖"
+    },
+    {
+        "No": "1039",
+        "word": "summer",
+        "meaning": "【名】夏"
+    },
+    {
+        "No": "1040",
+        "word": "summer class",
+        "meaning": "【名】（勉強が遅れている生徒のための）夏の補習授業"
+    },
+    {
+        "No": "1041",
+        "word": "sumo stable",
+        "meaning": "【名】相撲部屋"
+    },
+    {
+        "No": "1042",
+        "word": "sumo wrestler",
+        "meaning": "【名】力士"
+    },
+    {
+        "No": "1043",
+        "word": "sun",
+        "meaning": "【名】1. 太陽 2. 日光、陽光"
+    },
+    {
+        "No": "1044",
+        "word": "sun flower",
+        "meaning": "【名】ひまわり"
+    },
+    {
+        "No": "1045",
+        "word": "Sunday",
+        "meaning": "【名】日曜日（複数形で毎週日曜日）"
+    },
+    {
+        "No": "1046",
+        "word": "sunlight",
+        "meaning": "【名】日光、陽光"
+    },
+    {
+        "No": "1047",
+        "word": "sunset",
+        "meaning": "【名】日の入り"
+    },
+    {
+        "No": "1048",
+        "word": "supermarket",
+        "meaning": "【名】スーパーマーケット"
+    },
+    {
+        "No": "1049",
+        "word": "support",
+        "meaning": "【名】支持、支援"
+    },
+    {
+        "No": "1050",
+        "word": "survival",
+        "meaning": "【名】生き残ること"
+    },
+    {
+        "No": "1051",
+        "word": "swimming",
+        "meaning": "【名】水泳"
+    },
+    {
+        "No": "1052",
+        "word": "swimming pool",
+        "meaning": "【名】水泳プール"
+    },
+    {
+        "No": "1053",
+        "word": "sword",
+        "meaning": "【名】剣"
+    },
+    {
+        "No": "1054",
+        "word": "Sydney",
+        "meaning": "【名】シドニー 《オーストラリア東岸にある都市》"
+    },
+    {
+        "No": "1055",
+        "word": "symbol",
+        "meaning": "【名】シンボル、しるし"
+    },
+    {
+        "No": "1056",
+        "word": "system",
+        "meaning": "【名】1.　組織　　　 2.　制度、システム"
+    },
+    {
+        "No": "1057",
+        "word": "T-shirt",
+        "meaning": "【名】Ｔシャツ"
+    },
+    {
+        "No": "1058",
+        "word": "table",
+        "meaning": "【名】テーブル、食卓"
+    },
+    {
+        "No": "1059",
+        "word": "table tennis",
+        "meaning": "【名】卓球"
+    },
+    {
+        "No": "1060",
+        "word": "tail",
+        "meaning": "【名】尾（ひれ）、しっぽ"
+    },
+    {
+        "No": "1061",
+        "word": "tale",
+        "meaning": "【名】物語、お話"
+    },
+    {
+        "No": "1062",
+        "word": "talk",
+        "meaning": "【名】話、スピーチ"
+    },
+    {
+        "No": "1063",
+        "word": "Tanzania",
+        "meaning": "【名】タンザニア"
+    },
+    {
+        "No": "1064",
+        "word": "task",
+        "meaning": "【名】仕事、任務"
+    },
+    {
+        "No": "1065",
+        "word": "taste",
+        "meaning": "【名】味"
+    },
+    {
+        "No": "1066",
+        "word": "taxi",
+        "meaning": "【名】タクシー"
+    },
+    {
+        "No": "1067",
+        "word": "tea",
+        "meaning": "【名】茶、紅茶"
+    },
+    {
+        "No": "1068",
+        "word": "teacher",
+        "meaning": "【名】教師、先生"
+    },
+    {
+        "No": "1069",
+        "word": "teachers' room",
+        "meaning": "【名】職員室"
+    },
+    {
+        "No": "1070",
+        "word": "team",
+        "meaning": "【名】チーム"
+    },
+    {
+        "No": "1071",
+        "word": "teammate",
+        "meaning": "【名】チームメイト"
+    },
+    {
+        "No": "1072",
+        "word": "teamwork",
+        "meaning": "【名】チームワーク"
+    },
+    {
+        "No": "1073",
+        "word": "tear",
+        "meaning": "【名】涙　【in tearsで】涙を流して"
+    },
+    {
+        "No": "1074",
+        "word": "technology",
+        "meaning": "【名】科学技術"
+    },
+    {
+        "No": "1075",
+        "word": "teeth",
+        "meaning": "【名】歯（toothの複数形）"
+    },
+    {
+        "No": "1076",
+        "word": "telescope",
+        "meaning": "【名】望遠鏡"
+    },
+    {
+        "No": "1077",
+        "word": "temperature",
+        "meaning": "【名】温度、気温"
+    },
+    {
+        "No": "1078",
+        "word": "temple",
+        "meaning": "【名】寺"
+    },
+    {
+        "No": "1079",
+        "word": "ten",
+        "meaning": "【名】10"
+    },
+    {
+        "No": "1080",
+        "word": "tennis",
+        "meaning": "【名】テニス"
+    },
+    {
+        "No": "1081",
+        "word": "tenth",
+        "meaning": "【名】10番め、（月の）１０日"
+    },
+    {
+        "No": "1082",
+        "word": "test",
+        "meaning": "【名】試験、テスト"
+    },
+    {
+        "No": "1083",
+        "word": "textbook",
+        "meaning": "【名】教科書、テキスト"
+    },
+    {
+        "No": "1084",
+        "word": "Thailand",
+        "meaning": "【名】タイ"
+    },
+    {
+        "No": "1085",
+        "word": "thank",
+        "meaning": "【名】〔Thanks の形で〕ありがとう"
+    },
+    {
+        "No": "1086",
+        "word": "theater",
+        "meaning": "【名】劇場、映画館〔movie theaterともいう〕"
+    },
+    {
+        "No": "1087",
+        "word": "theme",
+        "meaning": "【名】主題、テーマ"
+    },
+    {
+        "No": "1088",
+        "word": "then",
+        "meaning": "【名】そのとき、当時"
+    },
+    {
+        "No": "1089",
+        "word": "thing",
+        "meaning": "【名】もの、こと"
+    },
+    {
+        "No": "1090",
+        "word": "thinking",
+        "meaning": "【名】考え、思考"
+    },
+    {
+        "No": "1091",
+        "word": "third",
+        "meaning": "【名】３番目、３日"
+    },
+    {
+        "No": "1092",
+        "word": "thirteen",
+        "meaning": "【名】13"
+    },
+    {
+        "No": "1093",
+        "word": "thirteenth",
+        "meaning": "【名】13番め、（月の）13日"
+    },
+    {
+        "No": "1094",
+        "word": "thirtieth",
+        "meaning": "【名】30番目（の）、30日"
+    },
+    {
+        "No": "1095",
+        "word": "thirty",
+        "meaning": "【名】30"
+    },
+    {
+        "No": "1096",
+        "word": "thought",
+        "meaning": "【名】1. 考えること、思考 2. 考え､思想"
+    },
+    {
+        "No": "1097",
+        "word": "thousand",
+        "meaning": "【名】1000"
+    },
+    {
+        "No": "1098",
+        "word": "three",
+        "meaning": "【名】3"
+    },
+    {
+        "No": "1099",
+        "word": "throat",
+        "meaning": "【名】のど"
+    },
+    {
+        "No": "1100",
+        "word": "Thursday",
+        "meaning": "【名】木曜日"
+    },
+    {
+        "No": "1101",
+        "word": "ticket",
+        "meaning": "【名】切符、チケット、券"
+    },
+    {
+        "No": "1102",
+        "word": "tie",
+        "meaning": "【名】ネクタイ"
+    },
+    {
+        "No": "1103",
+        "word": "time",
+        "meaning": "【名】1. 回、度 2. 時間、期間、暇 3. 時刻 4. 〔しばしば複数形で〕 時代"
+    },
+    {
+        "No": "1104",
+        "word": "timing",
+        "meaning": "【名】タイミング、時機を選ぶこと"
+    },
+    {
+        "No": "1105",
+        "word": "title",
+        "meaning": "【名】題名、タイトル"
+    },
+    {
+        "No": "1106",
+        "word": "toast",
+        "meaning": "【名】トースト"
+    },
+    {
+        "No": "1107",
+        "word": "today",
+        "meaning": "【名】今日"
+    },
+    {
+        "No": "1108",
+        "word": "toilet",
+        "meaning": "【名】トイレ、化粧室"
+    },
+    {
+        "No": "1109",
+        "word": "tomorrow",
+        "meaning": "【名】明日"
+    },
+    {
+        "No": "1110",
+        "word": "tongue",
+        "meaning": "【名】国語、母語"
+    },
+    {
+        "No": "1111",
+        "word": "tool",
+        "meaning": "【名】手段、道具"
+    },
+    {
+        "No": "1112",
+        "word": "tooth",
+        "meaning": "【名】歯   〔複数形は teeth〕"
+    },
+    {
+        "No": "1113",
+        "word": "toothache",
+        "meaning": "【名】歯痛"
+    },
+    {
+        "No": "1114",
+        "word": "toothbrush",
+        "meaning": "【名】歯ブラシ"
+    },
+    {
+        "No": "1115",
+        "word": "top",
+        "meaning": "【名】1. 一番上の部分、頂上 2. 最高位、トップ"
+    },
+    {
+        "No": "1116",
+        "word": "total",
+        "meaning": "【名】総合、合計　〔in total〕合計で、全部で"
+    },
+    {
+        "No": "1117",
+        "word": "touch",
+        "meaning": "【名】接触　　〔keep in touchで〕連絡をとり続ける"
+    },
+    {
+        "No": "1118",
+        "word": "tour",
+        "meaning": "【名】旅行"
+    },
+    {
+        "No": "1119",
+        "word": "tourism",
+        "meaning": "【名】観光事業、観光、旅行"
+    },
+    {
+        "No": "1120",
+        "word": "tournament",
+        "meaning": "【名】トーナメント、勝ち抜き試合"
+    },
+    {
+        "No": "1121",
+        "word": "towel",
+        "meaning": "【名】手拭い、タオル"
+    },
+    {
+        "No": "1122",
+        "word": "tower",
+        "meaning": "【名】塔、タワー"
+    },
+    {
+        "No": "1123",
+        "word": "town",
+        "meaning": "【名】町、市、都会"
+    },
+    {
+        "No": "1124",
+        "word": "toy",
+        "meaning": "【名】おもちゃ"
+    },
+    {
+        "No": "1125",
+        "word": "track",
+        "meaning": "【名】線路"
+    },
+    {
+        "No": "1126",
+        "word": "track and field",
+        "meaning": "【名】陸上競技"
+    },
+    {
+        "No": "1127",
+        "word": "trade",
+        "meaning": "【名】貿易"
+    },
+    {
+        "No": "1128",
+        "word": "tradition",
+        "meaning": "【名】伝統"
+    },
+    {
+        "No": "1129",
+        "word": "traffic",
+        "meaning": "【名】交通  〔traffic light〕交通信号（灯）"
+    },
+    {
+        "No": "1130",
+        "word": "tragedy",
+        "meaning": "【名】悲劇、悲しいできごと"
+    },
+    {
+        "No": "1131",
+        "word": "train",
+        "meaning": "【名】列車、電車"
+    },
+    {
+        "No": "1132",
+        "word": "trainer",
+        "meaning": "【名】トレーナー"
+    },
+    {
+        "No": "1133",
+        "word": "transportation",
+        "meaning": "【名】輸送機関"
+    },
+    {
+        "No": "1134",
+        "word": "treasure",
+        "meaning": "【名】宝物"
+    },
+    {
+        "No": "1135",
+        "word": "tree",
+        "meaning": "【名】木、樹木"
+    },
+    {
+        "No": "1136",
+        "word": "trip",
+        "meaning": "【名】旅行 《比較的短期間のものについていう》　　〔たとえば go on a school trip の形で〕修学旅行に行く"
+    },
+    {
+        "No": "1137",
+        "word": "trophy",
+        "meaning": "【名】優勝記念品、トロフィー"
+    },
+    {
+        "No": "1138",
+        "word": "trouble",
+        "meaning": "【名】1. 心配 2. もめごと 3.余分な手間、めんどう"
+    },
+    {
+        "No": "1139",
+        "word": "Tube",
+        "meaning": "【名】チューブ（ロンドンの地下鉄のニックネーム）"
+    },
+    {
+        "No": "1140",
+        "word": "Tuesday",
+        "meaning": "【名】火曜日"
+    },
+    {
+        "No": "1141",
+        "word": "tug-of-war",
+        "meaning": "【名】綱引き"
+    },
+    {
+        "No": "1142",
+        "word": "tuna",
+        "meaning": "【名】マグロ"
+    },
+    {
+        "No": "1143",
+        "word": "turkey",
+        "meaning": "【名】七面鳥"
+    },
+    {
+        "No": "1144",
+        "word": "turn",
+        "meaning": "【名】番、順番　　〔in turnで〕代わって今度は"
+    },
+    {
+        "No": "1145",
+        "word": "turning",
+        "meaning": "【名】曲がり角、回転    〔turning pointで〕転機"
+    },
+    {
+        "No": "1146",
+        "word": "turtle",
+        "meaning": "【名】カメ"
+    },
+    {
+        "No": "1147",
+        "word": "TV",
+        "meaning": "【名】テレビ（番組）"
+    },
+    {
+        "No": "1148",
+        "word": "twelfth",
+        "meaning": "【名】12番め、（月の）12日"
+    },
+    {
+        "No": "1149",
+        "word": "twelve",
+        "meaning": "【名】12"
+    },
+    {
+        "No": "1150",
+        "word": "twentieth",
+        "meaning": "【名】20番目"
+    },
+    {
+        "No": "1151",
+        "word": "twenty",
+        "meaning": "【名】20"
+    },
+    {
+        "No": "1152",
+        "word": "twenty-eighth",
+        "meaning": "【名】28番目（の）、28日"
+    },
+    {
+        "No": "1153",
+        "word": "twenty-fifth",
+        "meaning": "【名】25番目（の）、25日"
+    },
+    {
+        "No": "1154",
+        "word": "twenty-first",
+        "meaning": "【名】21番目（の）、21日"
+    },
+    {
+        "No": "1155",
+        "word": "twenty-fourth",
+        "meaning": "【名】24番目（の）、24日"
+    },
+    {
+        "No": "1156",
+        "word": "twenty-ninth",
+        "meaning": "【名】29番目（の）、29日"
+    },
+    {
+        "No": "1157",
+        "word": "twenty-second",
+        "meaning": "【名】22番目（の）、22日"
+    },
+    {
+        "No": "1158",
+        "word": "twenty-seventh",
+        "meaning": "【名】27番目（の）、27日"
+    },
+    {
+        "No": "1159",
+        "word": "twenty-sixth",
+        "meaning": "【名】26番目（の）、26日"
+    },
+    {
+        "No": "1160",
+        "word": "twenty-third",
+        "meaning": "【名】23番目（の）、23日"
+    },
+    {
+        "No": "1161",
+        "word": "two",
+        "meaning": "【名】2"
+    },
+    {
+        "No": "1162",
+        "word": "type",
+        "meaning": "【名】型、タイプ、種類"
+    },
+    {
+        "No": "1163",
+        "word": "U.K.",
+        "meaning": "【名】イギリス〔The United Kingdom（連合王国）の略でイギリスの正式国名は The United Kingdom of Great Britain and Northern Ireland 〕"
+    },
+    {
+        "No": "1164",
+        "word": "U.S.",
+        "meaning": "【名】〔通常はtheを付けて〕アメリカ合衆国"
+    },
+    {
+        "No": "1165",
+        "word": "umbrella",
+        "meaning": "【名】かさ"
+    },
+    {
+        "No": "1166",
+        "word": "uncle",
+        "meaning": "【名】おじ、おじさん"
+    },
+    {
+        "No": "1167",
+        "word": "underground",
+        "meaning": "【名】〔通常はtheを付けて、イギリスの〕地下鉄"
+    },
+    {
+        "No": "1168",
+        "word": "unicycle",
+        "meaning": "【名】一輪車"
+    },
+    {
+        "No": "1169",
+        "word": "uniform",
+        "meaning": "【名】制服、ユニフォーム"
+    },
+    {
+        "No": "1170",
+        "word": "United Nations",
+        "meaning": "【名】〔通例はtheを付けて〕国際連合"
+    },
+    {
+        "No": "1171",
+        "word": "United States",
+        "meaning": "【名】アメリカ合衆国"
+    },
+    {
+        "No": "1172",
+        "word": "universal design",
+        "meaning": "【名】ユニバーサルデザイン"
+    },
+    {
+        "No": "1173",
+        "word": "university",
+        "meaning": "【名】大学"
+    },
+    {
+        "No": "1174",
+        "word": "US(U.S.)",
+        "meaning": "【名】《略》〔the ～で〕アメリカ合衆国、米国　《the U.S.とも》"
+    },
+    {
+        "No": "1175",
+        "word": "USA(U.S.A.)",
+        "meaning": "【名】《略》〔the ～で〕アメリカ合衆国、米国　《the U.S.A.とも》"
+    },
+    {
+        "No": "1176",
+        "word": "use",
+        "meaning": "【名】使用、使い道"
+    },
+    {
+        "No": "1177",
+        "word": "vacation",
+        "meaning": "【名】休暇、休み"
+    },
+    {
+        "No": "1178",
+        "word": "Valentine",
+        "meaning": "【名】Happy Valentine's Day!　〔バレンタインデーのメッセージ〕"
+    },
+    {
+        "No": "1179",
+        "word": "vegetable",
+        "meaning": "【名】野菜"
+    },
+    {
+        "No": "1180",
+        "word": "vending machine",
+        "meaning": "【名】自動販売機"
+    },
+    {
+        "No": "1181",
+        "word": "Venezuela",
+        "meaning": "【名】ベネズエラ〔南米の国の名〕"
+    },
+    {
+        "No": "1182",
+        "word": "vet",
+        "meaning": "【名】獣医（veterinarianの略）"
+    },
+    {
+        "No": "1183",
+        "word": "victory",
+        "meaning": "【名】勝利、優勝"
+    },
+    {
+        "No": "1184",
+        "word": "video",
+        "meaning": "【名】ビデオ  〔 video game の形で〕　テレビゲーム"
+    },
+    {
+        "No": "1185",
+        "word": "video game",
+        "meaning": "【名】映像、動画　〔video game 〕テレビゲーム"
+    },
+    {
+        "No": "1186",
+        "word": "Vietnam",
+        "meaning": "【名】ベトナム〔東南アジアの国の名〕"
+    },
+    {
+        "No": "1187",
+        "word": "view",
+        "meaning": "【名】1. ながめ、景色 2. 考え、見方"
+    },
+    {
+        "No": "1188",
+        "word": "village",
+        "meaning": "【名】村"
+    },
+    {
+        "No": "1189",
+        "word": "vinegar",
+        "meaning": "【名】食用酢、ビネガー"
+    },
+    {
+        "No": "1190",
+        "word": "violin",
+        "meaning": "【名】バイオリン"
+    },
+    {
+        "No": "1191",
+        "word": "visit",
+        "meaning": "【名】訪問 〔 pay a visit to の形で「～を訪問する」〕"
+    },
+    {
+        "No": "1192",
+        "word": "visitor",
+        "meaning": "【名】訪問者"
+    },
+    {
+        "No": "1193",
+        "word": "voice",
+        "meaning": "【名】声"
+    },
+    {
+        "No": "1194",
+        "word": "volleyball",
+        "meaning": "【名】バレーボール"
+    },
+    {
+        "No": "1195",
+        "word": "volume",
+        "meaning": "【名】〔書物の〕巻、冊"
+    },
+    {
+        "No": "1196",
+        "word": "volunteer",
+        "meaning": "【名】ボランティア、志願者"
+    },
+    {
+        "No": "1197",
+        "word": "waitress",
+        "meaning": "【名】ウエイトレス"
+    },
+    {
+        "No": "1198",
+        "word": "walk",
+        "meaning": "【名】1. 歩くこと、散歩 2. 歩行距離、道のり"
+    },
+    {
+        "No": "1199",
+        "word": "Walker",
+        "meaning": "【名】ウォーカー（姓）"
+    },
+    {
+        "No": "1200",
+        "word": "wall",
+        "meaning": "【名】壁、へい、城壁"
+    },
+    {
+        "No": "1201",
+        "word": "war",
+        "meaning": "【名】戦争"
+    },
+    {
+        "No": "1202",
+        "word": "ware",
+        "meaning": "【名】～焼、～製品"
+    },
+    {
+        "No": "1203",
+        "word": "warming",
+        "meaning": "【名】〔global warming で〕地球温暖化"
+    },
+    {
+        "No": "1204",
+        "word": "warrior",
+        "meaning": "【名】武人、軍人"
+    },
+    {
+        "No": "1205",
+        "word": "Washington",
+        "meaning": "【名】D.C."
+    },
+    {
+        "No": "1206",
+        "word": "waste",
+        "meaning": "【名】浪費"
+    },
+    {
+        "No": "1207",
+        "word": "watch",
+        "meaning": "【名】腕時計"
+    },
+    {
+        "No": "1208",
+        "word": "water",
+        "meaning": "【名】水、水中"
+    },
+    {
+        "No": "1209",
+        "word": "waterfall",
+        "meaning": "【名】滝"
+    },
+    {
+        "No": "1210",
+        "word": "wave",
+        "meaning": "【名】波"
+    },
+    {
+        "No": "1211",
+        "word": "way",
+        "meaning": "【名】1. 方向 2. 道 3. 方法、手段"
+    },
+    {
+        "No": "1212",
+        "word": "weather",
+        "meaning": "【名】天気、気象"
+    },
+    {
+        "No": "1213",
+        "word": "website",
+        "meaning": "【名】ウェブサイト"
+    },
+    {
+        "No": "1214",
+        "word": "Wednesday",
+        "meaning": "【名】水曜日"
+    },
+    {
+        "No": "1215",
+        "word": "week",
+        "meaning": "【名】週"
+    },
+    {
+        "No": "1216",
+        "word": "weekend",
+        "meaning": "【名】週末"
+    },
+    {
+        "No": "1217",
+        "word": "whale",
+        "meaning": "【名】クジラ"
+    },
+    {
+        "No": "1218",
+        "word": "wheel",
+        "meaning": "【名】車輪"
+    },
+    {
+        "No": "1219",
+        "word": "wheelchair",
+        "meaning": "【名】車イス"
+    },
+    {
+        "No": "1220",
+        "word": "while",
+        "meaning": "【名】間、しばらく 〔たとえば for a while の形で〕 しばらくの間"
+    },
+    {
+        "No": "1221",
+        "word": "white",
+        "meaning": "【名】白、白人"
+    },
+    {
+        "No": "1222",
+        "word": "wife",
+        "meaning": "【名】妻"
+    },
+    {
+        "No": "1223",
+        "word": "wild",
+        "meaning": "【名】〔the wild で〕野生"
+    },
+    {
+        "No": "1224",
+        "word": "wildcat",
+        "meaning": "【名】ヤマネコ　〔Wildcat House〕山猫軒"
+    },
+    {
+        "No": "1225",
+        "word": "wilderness",
+        "meaning": "【名】荒野"
+    },
+    {
+        "No": "1226",
+        "word": "wildlife",
+        "meaning": "【名】野生動物"
+    },
+    {
+        "No": "1227",
+        "word": "will",
+        "meaning": "【名】意志"
+    },
+    {
+        "No": "1228",
+        "word": "wind",
+        "meaning": "【名】風"
+    },
+    {
+        "No": "1229",
+        "word": "windmill",
+        "meaning": "【名】風車"
+    },
+    {
+        "No": "1230",
+        "word": "window",
+        "meaning": "【名】窓"
+    },
+    {
+        "No": "1231",
+        "word": "winner",
+        "meaning": "【名】勝つ〔勝った〕人、勝利者"
+    },
+    {
+        "No": "1232",
+        "word": "winter",
+        "meaning": "【名】冬"
+    },
+    {
+        "No": "1233",
+        "word": "wire",
+        "meaning": "【名】針金、ワイヤー"
+    },
+    {
+        "No": "1234",
+        "word": "wish",
+        "meaning": "【名】願い、望み"
+    },
+    {
+        "No": "1235",
+        "word": "woman",
+        "meaning": "【名】女性、女の人　　〔複数形は women 〕"
+    },
+    {
+        "No": "1236",
+        "word": "women",
+        "meaning": "【名】〔woman 〕の複数形"
+    },
+    {
+        "No": "1237",
+        "word": "wonder",
+        "meaning": "【名】驚き"
+    },
+    {
+        "No": "1238",
+        "word": "wood",
+        "meaning": "【名】まき、木"
+    },
+    {
+        "No": "1239",
+        "word": "word",
+        "meaning": "【名】1. ことば、発言 2. 語、単語"
+    },
+    {
+        "No": "1240",
+        "word": "work",
+        "meaning": "【名】1. 仕事、勉強 2. 作品"
+    },
+    {
+        "No": "1241",
+        "word": "worker",
+        "meaning": "【名】労働者"
+    },
+    {
+        "No": "1242",
+        "word": "world",
+        "meaning": "【名】世界（の人たち）"
+    },
+    {
+        "No": "1243",
+        "word": "World Cup",
+        "meaning": "【名】〔the　～で〕ワールドカップ"
+    },
+    {
+        "No": "1244",
+        "word": "World Heritage Site",
+        "meaning": "【名】世界遺産"
+    },
+    {
+        "No": "1245",
+        "word": "wrestling",
+        "meaning": "【名】レスリング"
+    },
+    {
+        "No": "1246",
+        "word": "writer",
+        "meaning": "【名】作家、著述家"
+    },
+    {
+        "No": "1247",
+        "word": "writing",
+        "meaning": "【名】書かれた文字、筆跡、書くこと"
+    },
+    {
+        "No": "1248",
+        "word": "yacht",
+        "meaning": "【名】ヨット"
+    },
+    {
+        "No": "1249",
+        "word": "year",
+        "meaning": "【名】1. 年、1年 2. ～歳、年齢"
+    },
+    {
+        "No": "1250",
+        "word": "yellow",
+        "meaning": "【名】黄色"
+    },
+    {
+        "No": "1251",
+        "word": "yesterday",
+        "meaning": "【名】昨日"
+    },
+    {
+        "No": "1252",
+        "word": "yogurt",
+        "meaning": "【名】ヨーグルト"
+    },
+    {
+        "No": "1253",
+        "word": "zero",
+        "meaning": "【名】0、ゼロ"
+    },
+    {
+        "No": "1254",
+        "word": "zoo",
+        "meaning": "【名】動物園"
+    }
+]

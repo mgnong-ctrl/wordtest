@@ -1,0 +1,4482 @@
+[
+    {
+        "No": "1",
+        "word": "number",
+        "pronunciation": "nʌ́mbər",
+        "yomikata": "ナンバー",
+        "meaning": "【名】数"
+    },
+    {
+        "No": "2",
+        "word": "zero",
+        "pronunciation": "zíərou",
+        "yomikata": "ズィロゥ",
+        "meaning": "【名】０"
+    },
+    {
+        "No": "3",
+        "word": "one",
+        "pronunciation": "wʌ́n",
+        "yomikata": "ワン",
+        "meaning": "【名】1 【形】1の"
+    },
+    {
+        "No": "4",
+        "word": "two",
+        "pronunciation": "túː",
+        "yomikata": "トゥー",
+        "meaning": "【名】2 【形】2の"
+    },
+    {
+        "No": "5",
+        "word": "three",
+        "pronunciation": "θríː",
+        "yomikata": "スリー",
+        "meaning": "【名】3 【形】3の"
+    },
+    {
+        "No": "6",
+        "word": "four",
+        "pronunciation": "fɔr",
+        "yomikata": "フォァ",
+        "meaning": "【名】4 【形】4の"
+    },
+    {
+        "No": "7",
+        "word": "five",
+        "pronunciation": "fáiv",
+        "yomikata": "ファイヴ",
+        "meaning": "【名】5 【形】5の"
+    },
+    {
+        "No": "8",
+        "word": "six",
+        "pronunciation": "síks",
+        "yomikata": "スィックス",
+        "meaning": "【名】6 【形】6の"
+    },
+    {
+        "No": "9",
+        "word": "seven",
+        "pronunciation": "sévn",
+        "yomikata": "セヴン",
+        "meaning": "【名】7 【形】7の"
+    },
+    {
+        "No": "10",
+        "word": "eight",
+        "pronunciation": "éit",
+        "yomikata": "エイト",
+        "meaning": "【名】8 【形】8の"
+    },
+    {
+        "No": "11",
+        "word": "nine",
+        "pronunciation": "náin",
+        "yomikata": "ナイン",
+        "meaning": "【名】9 【形】9の"
+    },
+    {
+        "No": "12",
+        "word": "ten",
+        "pronunciation": "tén",
+        "yomikata": "テン",
+        "meaning": "【名】10 【形】10の"
+    },
+    {
+        "No": "13",
+        "word": "eleven",
+        "pronunciation": "ilévn",
+        "yomikata": "イレヴン",
+        "meaning": "【名】11 【形】11の"
+    },
+    {
+        "No": "14",
+        "word": "twelve",
+        "pronunciation": "twélv",
+        "yomikata": "トゥウェルヴ",
+        "meaning": "【名】12 【形】12の"
+    },
+    {
+        "No": "15",
+        "word": "thirteen",
+        "pronunciation": "θə̀ːrtíːn",
+        "yomikata": "サーティーン",
+        "meaning": "【名】13 【形】13の"
+    },
+    {
+        "No": "16",
+        "word": "fourteen",
+        "pronunciation": "fɔ̀rtíːn",
+        "yomikata": "フォーティーン",
+        "meaning": "【名】14 【形】14の"
+    },
+    {
+        "No": "17",
+        "word": "fifteen",
+        "pronunciation": "fìftíːn",
+        "yomikata": "フィフティーン",
+        "meaning": "【名】15 【形】15の"
+    },
+    {
+        "No": "18",
+        "word": "sixteen",
+        "pronunciation": "síkstíːn",
+        "yomikata": "スィックスティーン",
+        "meaning": "【名】16 【形】16の"
+    },
+    {
+        "No": "19",
+        "word": "seventeen",
+        "pronunciation": "sèvntíːn",
+        "yomikata": "セヴンティーン",
+        "meaning": "【名】17 【形】17の"
+    },
+    {
+        "No": "20",
+        "word": "eighteen",
+        "pronunciation": "èitíːn",
+        "yomikata": "エイティーン",
+        "meaning": "【名】18 【形】18の"
+    },
+    {
+        "No": "21",
+        "word": "nineteen",
+        "pronunciation": "nàintíːn",
+        "yomikata": "ナインティーン",
+        "meaning": "【名】19 【形】19の"
+    },
+    {
+        "No": "22",
+        "word": "twenty",
+        "pronunciation": "twénti",
+        "yomikata": "トゥウェンティ",
+        "meaning": "【名】20 【形】20の"
+    },
+    {
+        "No": "23",
+        "word": "thirty",
+        "pronunciation": "θə́ːrti",
+        "yomikata": "サーティ",
+        "meaning": "【名】30 【形】30の"
+    },
+    {
+        "No": "24",
+        "word": "forty",
+        "pronunciation": "fɔ́rti",
+        "yomikata": "フォーティ",
+        "meaning": "【名】40 【形】40の"
+    },
+    {
+        "No": "25",
+        "word": "fifty",
+        "pronunciation": "fífti",
+        "yomikata": "フィフティ",
+        "meaning": "【名】50 【形】50の"
+    },
+    {
+        "No": "26",
+        "word": "sixty",
+        "pronunciation": "síksti",
+        "yomikata": "スィックスティ",
+        "meaning": "【名】60 【形】60の"
+    },
+    {
+        "No": "27",
+        "word": "seventy",
+        "pronunciation": "sévnti",
+        "yomikata": "セヴンティ",
+        "meaning": "【名】70 【形】70の"
+    },
+    {
+        "No": "28",
+        "word": "eighty",
+        "pronunciation": "éiti",
+        "yomikata": "エイティ",
+        "meaning": "【名】80 【形】80の"
+    },
+    {
+        "No": "29",
+        "word": "ninety",
+        "pronunciation": "náinti",
+        "yomikata": "ナインティ",
+        "meaning": "【名】90 【形】90の"
+    },
+    {
+        "No": "30",
+        "word": "hundred",
+        "pronunciation": "hʌ́ndrəd",
+        "yomikata": "ハンドゥレド",
+        "meaning": "【名】100 【形】100の"
+    },
+    {
+        "No": "31",
+        "word": "first",
+        "pronunciation": "fə́ːrst",
+        "yomikata": "ファースト",
+        "meaning": "【名】1番目 【形】1番目の"
+    },
+    {
+        "No": "32",
+        "word": "second",
+        "pronunciation": "sékənd",
+        "yomikata": "セカンド",
+        "meaning": "【名】2番目 【形】2番目の"
+    },
+    {
+        "No": "33",
+        "word": "third",
+        "pronunciation": "θə́ːrd",
+        "yomikata": "サード",
+        "meaning": "【名】3番目 【形】3番目の"
+    },
+    {
+        "No": "34",
+        "word": "fourth",
+        "pronunciation": "fɔ́rθ",
+        "yomikata": "フォース",
+        "meaning": "【名】4番目 【形】4番目の"
+    },
+    {
+        "No": "35",
+        "word": "fifth",
+        "pronunciation": "fífθ",
+        "yomikata": "フィフス",
+        "meaning": "【名】5番目 【形】5番目の"
+    },
+    {
+        "No": "36",
+        "word": "sixth",
+        "pronunciation": "síksθ",
+        "yomikata": "スィックスス",
+        "meaning": "【名】6番目 【形】6番目の"
+    },
+    {
+        "No": "37",
+        "word": "seventh",
+        "pronunciation": "sévnθ",
+        "yomikata": "セヴンス",
+        "meaning": "【名】7番目 【形】7番目の"
+    },
+    {
+        "No": "38",
+        "word": "eighth",
+        "pronunciation": "éitθ",
+        "yomikata": "エイス",
+        "meaning": "【名】8番目 【形】8番目の"
+    },
+    {
+        "No": "39",
+        "word": "ninth",
+        "pronunciation": "náinθ",
+        "yomikata": "ナインス",
+        "meaning": "【名】9番目 【形】9番目の"
+    },
+    {
+        "No": "40",
+        "word": "tenth",
+        "pronunciation": "ténθ",
+        "yomikata": "テンス",
+        "meaning": "【名】10番目 【形】10番目の"
+    },
+    {
+        "No": "41",
+        "word": "eleventh",
+        "pronunciation": "ilévnθ",
+        "yomikata": "イレヴンス",
+        "meaning": "【名】11番目 【形】11番目の"
+    },
+    {
+        "No": "42",
+        "word": "twelfth",
+        "pronunciation": "twélfθ",
+        "yomikata": "トゥウェルフス",
+        "meaning": "【名】12番目 【形】12番目の"
+    },
+    {
+        "No": "43",
+        "word": "thirteenth",
+        "pronunciation": "θə̀ːrtíːnθ",
+        "yomikata": "サーティーンス",
+        "meaning": "【名】13番目 【形】13番目の"
+    },
+    {
+        "No": "44",
+        "word": "fourteenth",
+        "pronunciation": "fɔ́rtínθ",
+        "yomikata": "フォーティーンス",
+        "meaning": "【名】14番目 【形】14番目の"
+    },
+    {
+        "No": "45",
+        "word": "fifteenth",
+        "pronunciation": "fìftíːnθ",
+        "yomikata": "フィフティーンス",
+        "meaning": "【名】15番目 【形】15番目の"
+    },
+    {
+        "No": "46",
+        "word": "sixteenth",
+        "pronunciation": "síkstíːnθ",
+        "yomikata": "スィックスティーンス",
+        "meaning": "【名】16番目 【形】16番目の"
+    },
+    {
+        "No": "47",
+        "word": "seventeenth",
+        "pronunciation": "sèvntíːnθ",
+        "yomikata": "セヴンテーンス",
+        "meaning": "【名】17番目 【形】17番目の"
+    },
+    {
+        "No": "48",
+        "word": "eighteenth",
+        "pronunciation": "èitíːnθ",
+        "yomikata": "エイテーンス",
+        "meaning": "【名】18番目 【形】18番目の"
+    },
+    {
+        "No": "49",
+        "word": "nineteenth",
+        "pronunciation": "nàintíːnθ",
+        "yomikata": "ナインティーンス",
+        "meaning": "【名】19番目 【形】19番目の"
+    },
+    {
+        "No": "50",
+        "word": "twentieth",
+        "pronunciation": "twéntiəθ",
+        "yomikata": "トゥウェンティエス",
+        "meaning": "【名】20番目 【形】20番目の"
+    },
+    {
+        "No": "51",
+        "word": "thirtieth",
+        "pronunciation": "θə́ːrtiəθ",
+        "yomikata": "サーティエス",
+        "meaning": "【名】30番目 【形】30番目の"
+    },
+    {
+        "No": "52",
+        "word": "minute",
+        "pronunciation": "mínət",
+        "yomikata": "ミニット",
+        "meaning": "【名】分"
+    },
+    {
+        "No": "53",
+        "word": "time",
+        "pronunciation": "táim",
+        "yomikata": "タイム",
+        "meaning": "【名】時間"
+    },
+    {
+        "No": "54",
+        "word": "day",
+        "pronunciation": "déi",
+        "yomikata": "デイ",
+        "meaning": "【名】日"
+    },
+    {
+        "No": "55",
+        "word": "week",
+        "pronunciation": "wíːk",
+        "yomikata": "ウイーク",
+        "meaning": "【名】週"
+    },
+    {
+        "No": "56",
+        "word": "month",
+        "pronunciation": "mʌ́nθ",
+        "yomikata": "マンス",
+        "meaning": "【名】月"
+    },
+    {
+        "No": "57",
+        "word": "year",
+        "pronunciation": "jíər",
+        "yomikata": "イヤァ",
+        "meaning": "【名】年"
+    },
+    {
+        "No": "58",
+        "word": "Monday",
+        "pronunciation": "mʌ́ndei",
+        "yomikata": "マンデイ",
+        "meaning": "【名】月曜日"
+    },
+    {
+        "No": "59",
+        "word": "Tuesday",
+        "pronunciation": "tjúzdei",
+        "yomikata": "チューズデイ",
+        "meaning": "【名】火曜日"
+    },
+    {
+        "No": "60",
+        "word": "Wednesday",
+        "pronunciation": "wénzdei",
+        "yomikata": "ウェンズデイ",
+        "meaning": "【名】水曜日"
+    },
+    {
+        "No": "61",
+        "word": "Thursday",
+        "pronunciation": "θə́ːrzdei",
+        "yomikata": "サーズデイ",
+        "meaning": "【名】木曜日"
+    },
+    {
+        "No": "62",
+        "word": "Friday",
+        "pronunciation": "fráidei",
+        "yomikata": "フライデイ",
+        "meaning": "【名】金曜日"
+    },
+    {
+        "No": "63",
+        "word": "Saturday",
+        "pronunciation": "sǽtərdèi",
+        "yomikata": "サタデイ",
+        "meaning": "【名】土曜日"
+    },
+    {
+        "No": "64",
+        "word": "Sunday",
+        "pronunciation": "sʌ́ndei",
+        "yomikata": "サンデイ",
+        "meaning": "【名】日曜日"
+    },
+    {
+        "No": "65",
+        "word": "January",
+        "pronunciation": "dʒǽnjuèri",
+        "yomikata": "ジャニュエリィ",
+        "meaning": "【名】1月"
+    },
+    {
+        "No": "66",
+        "word": "February",
+        "pronunciation": "fébjuèri",
+        "yomikata": "フェビュエリィ",
+        "meaning": "【名】2月"
+    },
+    {
+        "No": "67",
+        "word": "March",
+        "pronunciation": "mɑ́rtʃ",
+        "yomikata": "マーチ",
+        "meaning": "【名】3月"
+    },
+    {
+        "No": "68",
+        "word": "April",
+        "pronunciation": "éiprəl",
+        "yomikata": "エイプリル",
+        "meaning": "【名】4月"
+    },
+    {
+        "No": "69",
+        "word": "May",
+        "pronunciation": "méi",
+        "yomikata": "メイ",
+        "meaning": "【名】5月"
+    },
+    {
+        "No": "70",
+        "word": "June",
+        "pronunciation": "dʒúːn",
+        "yomikata": "ジューン",
+        "meaning": "【名】6月"
+    },
+    {
+        "No": "71",
+        "word": "July",
+        "pronunciation": "dʒu(ː)lái",
+        "yomikata": "ジュ（ー）ライ",
+        "meaning": "【名】7月"
+    },
+    {
+        "No": "72",
+        "word": "August",
+        "pronunciation": "ɔːgʌ́st",
+        "yomikata": "オーガスト",
+        "meaning": "【名】8月"
+    },
+    {
+        "No": "73",
+        "word": "September",
+        "pronunciation": "septémbər",
+        "yomikata": "セプテンバァ",
+        "meaning": "【名】9月"
+    },
+    {
+        "No": "74",
+        "word": "October",
+        "pronunciation": "ɑktóubər",
+        "yomikata": "アクトウバァ",
+        "meaning": "【名】10月"
+    },
+    {
+        "No": "75",
+        "word": "November",
+        "pronunciation": "nouvémbər",
+        "yomikata": "ノウベンバァ",
+        "meaning": "【名】11月"
+    },
+    {
+        "No": "76",
+        "word": "December",
+        "pronunciation": "disémbər",
+        "yomikata": "ディセンバァ",
+        "meaning": "【名】12月"
+    },
+    {
+        "No": "77",
+        "word": "spring",
+        "pronunciation": "spriŋ",
+        "yomikata": "スプリング",
+        "meaning": "【名】春"
+    },
+    {
+        "No": "78",
+        "word": "summer",
+        "pronunciation": "sʌ́mər",
+        "yomikata": "サマァ",
+        "meaning": "【名】夏"
+    },
+    {
+        "No": "79",
+        "word": "autumn/fall",
+        "pronunciation": "ɔ́təm",
+        "yomikata": "オータム ／ /fɔːl",
+        "meaning": "フォール 【名】秋"
+    },
+    {
+        "No": "80",
+        "word": "winter",
+        "pronunciation": "wíntər",
+        "yomikata": "ウインタァ",
+        "meaning": "【名】冬"
+    },
+    {
+        "No": "81",
+        "word": "east",
+        "pronunciation": "íːst",
+        "yomikata": "イースト",
+        "meaning": "【名】東"
+    },
+    {
+        "No": "82",
+        "word": "west",
+        "pronunciation": "wést",
+        "yomikata": "ウェスト",
+        "meaning": "【名】西"
+    },
+    {
+        "No": "83",
+        "word": "south",
+        "pronunciation": "sáuθ",
+        "yomikata": "サウス",
+        "meaning": "【名】南"
+    },
+    {
+        "No": "84",
+        "word": "north",
+        "pronunciation": "nɔ́rθ",
+        "yomikata": "ノース",
+        "meaning": "【名】北"
+    },
+    {
+        "No": "85",
+        "word": "color",
+        "pronunciation": "kʌ́lər",
+        "yomikata": "カラァ",
+        "meaning": "【名】色"
+    },
+    {
+        "No": "86",
+        "word": "white",
+        "pronunciation": "hwáit",
+        "yomikata": "ホワイト",
+        "meaning": "【名】白 【形】白い"
+    },
+    {
+        "No": "87",
+        "word": "black",
+        "pronunciation": "blǽk",
+        "yomikata": "ブラック",
+        "meaning": "【名】黒 【形】黒い"
+    },
+    {
+        "No": "88",
+        "word": "red",
+        "pronunciation": "red",
+        "yomikata": "レッド",
+        "meaning": "【名】赤 【形】赤い"
+    },
+    {
+        "No": "89",
+        "word": "blue",
+        "pronunciation": "blúː",
+        "yomikata": "ブルー",
+        "meaning": "【名】青 【形】青い"
+    },
+    {
+        "No": "90",
+        "word": "yellow",
+        "pronunciation": "jélou",
+        "yomikata": "イェロゥ",
+        "meaning": "【名】黄色 【形】黄色の"
+    },
+    {
+        "No": "91",
+        "word": "green",
+        "pronunciation": "griːn",
+        "yomikata": "グリーン",
+        "meaning": "【名】緑色 【形】緑色の"
+    },
+    {
+        "No": "92",
+        "word": "orange",
+        "pronunciation": "ɔ́rindʒ",
+        "yomikata": "オリンジ",
+        "meaning": "【名】オレンジ色の"
+    },
+    {
+        "No": "93",
+        "word": "pink",
+        "pronunciation": "píŋk",
+        "yomikata": "ピンク",
+        "meaning": "【名】ピンク色 【形】ピンク色の"
+    },
+    {
+        "No": "94",
+        "word": "brown",
+        "pronunciation": "bráun",
+        "yomikata": "ブラウン",
+        "meaning": "【名】茶色 【形】茶色の"
+    },
+    {
+        "No": "95",
+        "word": "purple",
+        "pronunciation": "pə́ːrpl",
+        "yomikata": "パーポウ",
+        "meaning": "【名】紫色 【形】紫色の"
+    },
+    {
+        "No": "96",
+        "word": "shape",
+        "pronunciation": "ʃeip",
+        "yomikata": "シェイプ",
+        "meaning": "【名】形"
+    },
+    {
+        "No": "97",
+        "word": "circle",
+        "pronunciation": "sə́ːrkl",
+        "yomikata": "サーコゥ",
+        "meaning": "【名】円"
+    },
+    {
+        "No": "98",
+        "word": "triangle",
+        "pronunciation": "tráiæ̀ŋgl",
+        "yomikata": "トゥライアングル",
+        "meaning": "【名】三角形"
+    },
+    {
+        "No": "99",
+        "word": "square",
+        "pronunciation": "skwέər",
+        "yomikata": "スクウェア",
+        "meaning": "【名】正方形"
+    },
+    {
+        "No": "100",
+        "word": "rectangle",
+        "pronunciation": "réktæ̀ŋgl",
+        "yomikata": "レクタングル",
+        "meaning": "【名】長方形"
+    },
+    {
+        "No": "101",
+        "word": "diamond",
+        "pronunciation": "dáimənd",
+        "yomikata": "ダイアモンド",
+        "meaning": "【名】ひし形"
+    },
+    {
+        "No": "102",
+        "word": "heart",
+        "pronunciation": "hɑrt",
+        "yomikata": "ハート",
+        "meaning": "【名】ハート形"
+    },
+    {
+        "No": "103",
+        "word": "star",
+        "pronunciation": "stɑ́r",
+        "yomikata": "スター",
+        "meaning": "【名】星形、星"
+    },
+    {
+        "No": "104",
+        "word": "cross",
+        "pronunciation": "krɔs",
+        "yomikata": "クロス",
+        "meaning": "【名】十字形"
+    },
+    {
+        "No": "105",
+        "word": "man",
+        "pronunciation": "mǽn",
+        "yomikata": "マン",
+        "meaning": "【名】人、男の人"
+    },
+    {
+        "No": "106",
+        "word": "woman",
+        "pronunciation": "wúmən",
+        "yomikata": "ウーマン",
+        "meaning": "【名】女の人"
+    },
+    {
+        "No": "107",
+        "word": "boy",
+        "pronunciation": "bɔi",
+        "yomikata": "ボーイ",
+        "meaning": "【名】男の子"
+    },
+    {
+        "No": "108",
+        "word": "girl",
+        "pronunciation": "gə́ːrl",
+        "yomikata": "ガール",
+        "meaning": "【名】女の子"
+    },
+    {
+        "No": "109",
+        "word": "father",
+        "pronunciation": "fɑ́ːðə",
+        "yomikata": "ファーザァ",
+        "meaning": "【名】父"
+    },
+    {
+        "No": "110",
+        "word": "mother",
+        "pronunciation": "mʌ́ðər",
+        "yomikata": "マザァ",
+        "meaning": "【名】母"
+    },
+    {
+        "No": "111",
+        "word": "brother",
+        "pronunciation": "brʌ́ðər",
+        "yomikata": "ブラザァ",
+        "meaning": "【名】兄、弟"
+    },
+    {
+        "No": "112",
+        "word": "sister",
+        "pronunciation": "sístər",
+        "yomikata": "スィスタァ",
+        "meaning": "【名】姉、妹"
+    },
+    {
+        "No": "113",
+        "word": "grandfather",
+        "pronunciation": "grǽndfɑ̀ðər",
+        "yomikata": "グランドファザァ",
+        "meaning": "【名】祖父"
+    },
+    {
+        "No": "114",
+        "word": "grandmother",
+        "pronunciation": "grǽnmʌ̀ðər",
+        "yomikata": "グランドマザァ",
+        "meaning": "【名】祖母"
+    },
+    {
+        "No": "115",
+        "word": "friend",
+        "pronunciation": "frénd",
+        "yomikata": "フレンド",
+        "meaning": "【名】友達"
+    },
+    {
+        "No": "116",
+        "word": "eye",
+        "pronunciation": "ái",
+        "yomikata": "アイ",
+        "meaning": "【名】目"
+    },
+    {
+        "No": "117",
+        "word": "ear",
+        "pronunciation": "íər",
+        "yomikata": "イア",
+        "meaning": "【名】耳"
+    },
+    {
+        "No": "118",
+        "word": "nose",
+        "pronunciation": "nóuz",
+        "yomikata": "ノウズ",
+        "meaning": "【名】鼻"
+    },
+    {
+        "No": "119",
+        "word": "mouth",
+        "pronunciation": "máuθ",
+        "yomikata": "マウス",
+        "meaning": "【名】口"
+    },
+    {
+        "No": "120",
+        "word": "teeth",
+        "pronunciation": "tíːθ",
+        "yomikata": "ティース",
+        "meaning": "【名】歯（※ tooth の複数形）"
+    },
+    {
+        "No": "121",
+        "word": "face",
+        "pronunciation": "féis",
+        "yomikata": "フェイス",
+        "meaning": "【名】顔"
+    },
+    {
+        "No": "122",
+        "word": "head",
+        "pronunciation": "héd",
+        "yomikata": "ヘッド",
+        "meaning": "【名】頭"
+    },
+    {
+        "No": "123",
+        "word": "hand",
+        "pronunciation": "hǽnd",
+        "yomikata": "ハンド",
+        "meaning": "【名】手（手首から先）"
+    },
+    {
+        "No": "124",
+        "word": "shoulder",
+        "pronunciation": "ʃóuldər",
+        "yomikata": "ショルダー",
+        "meaning": "【名】肩"
+    },
+    {
+        "No": "125",
+        "word": "knee",
+        "pronunciation": "níː",
+        "yomikata": "ニー",
+        "meaning": "【名】ひざ"
+    },
+    {
+        "No": "126",
+        "word": "leg",
+        "pronunciation": "lég",
+        "yomikata": "レッグ",
+        "meaning": "【名】あし（足首から上）"
+    },
+    {
+        "No": "127",
+        "word": "toe",
+        "pronunciation": "tóu",
+        "yomikata": "トゥ",
+        "meaning": "【名】つま先"
+    },
+    {
+        "No": "128",
+        "word": "school",
+        "pronunciation": "skúːl",
+        "yomikata": "スクール",
+        "meaning": "【名】学校"
+    },
+    {
+        "No": "129",
+        "word": "elementary school",
+        "pronunciation": "èləméntəri//skúːl",
+        "yomikata": "エレメンタリィ スクール",
+        "meaning": "【名】小学校"
+    },
+    {
+        "No": "130",
+        "word": "junior high school",
+        "pronunciation": "dʒúːnjər//hái//skúːl",
+        "yomikata": "ジュニア ハイ スクール",
+        "meaning": "【名】中学校"
+    },
+    {
+        "No": "131",
+        "word": "(senior) high shool",
+        "pronunciation": "síːnjər//hái//skúːl",
+        "yomikata": "シニア ハイ スクール",
+        "meaning": "【名】高等学校"
+    },
+    {
+        "No": "132",
+        "word": "class",
+        "pronunciation": "klǽs",
+        "yomikata": "クラス",
+        "meaning": "【名】授業、組"
+    },
+    {
+        "No": "133",
+        "word": "arts and crafts",
+        "pronunciation": "ɑ́rt//ən(d)//krɔs",
+        "yomikata": "アーツ アンド クラフツ",
+        "meaning": "【名】図画工作"
+    },
+    {
+        "No": "134",
+        "word": "calligraphy",
+        "pronunciation": "kəlígrəfi",
+        "yomikata": "カリグラフィー",
+        "meaning": "【名】習字"
+    },
+    {
+        "No": "135",
+        "word": "English",
+        "pronunciation": "íŋgliʃ",
+        "yomikata": "イングリシュ",
+        "meaning": "【名】英語"
+    },
+    {
+        "No": "136",
+        "word": "home economics",
+        "pronunciation": "hóum//èkənɑ́miks",
+        "yomikata": "ホウム エコノミクス",
+        "meaning": "【名】家庭科"
+    },
+    {
+        "No": "137",
+        "word": "Japanese",
+        "pronunciation": "dʒ`æpəníːz",
+        "yomikata": "ジャパニーズ",
+        "meaning": "【名】国語、日本語"
+    },
+    {
+        "No": "138",
+        "word": "math",
+        "pronunciation": "mǽθ",
+        "yomikata": "マス",
+        "meaning": "【名】算数"
+    },
+    {
+        "No": "139",
+        "word": "music",
+        "pronunciation": "mjúːzik",
+        "yomikata": "ミュージック",
+        "meaning": "【名】音楽"
+    },
+    {
+        "No": "140",
+        "word": "moral education",
+        "pronunciation": "mɔ́rəl//èdʒukéiʃən",
+        "yomikata": "モラル エジュケイション",
+        "meaning": "【名】道徳"
+    },
+    {
+        "No": "141",
+        "word": "P.E.",
+        "pronunciation": "píː//íː",
+        "yomikata": "ピーイー",
+        "meaning": "【名】体育"
+    },
+    {
+        "No": "142",
+        "word": "science",
+        "pronunciation": "sáiəns",
+        "yomikata": "サイエンス",
+        "meaning": "【名】理科、化学"
+    },
+    {
+        "No": "143",
+        "word": "social studies",
+        "pronunciation": "sóuʃəl//stʌ́di",
+        "yomikata": "ソウシャル スタディーズ",
+        "meaning": "【名】社会科"
+    },
+    {
+        "No": "144",
+        "word": "homeroom activities",
+        "pronunciation": "hóumrùːm//æktívəti",
+        "yomikata": "ホウムルーム アクティヴィティーズ",
+        "meaning": "【名】学級活動"
+    },
+    {
+        "No": "145",
+        "word": "classroom",
+        "pronunciation": "klǽsrùːm",
+        "yomikata": "クラスルーム",
+        "meaning": "【名】教室"
+    },
+    {
+        "No": "146",
+        "word": "computer room",
+        "pronunciation": "kəmpjútər//rúːm",
+        "yomikata": "コムピュータァ ルーム",
+        "meaning": "【名】コンピュータールーム"
+    },
+    {
+        "No": "147",
+        "word": "cooking room",
+        "pronunciation": "kúkiŋ//rúːm",
+        "yomikata": "クッキング ルーム",
+        "meaning": "【名】家庭科室"
+    },
+    {
+        "No": "148",
+        "word": "entrance",
+        "pronunciation": "entrǽns",
+        "yomikata": "エントゥランス",
+        "meaning": "【名】昇降口、入り口"
+    },
+    {
+        "No": "149",
+        "word": "gym",
+        "pronunciation": "dʒím",
+        "yomikata": "ジム",
+        "meaning": "【名】体育館〔英5〕"
+    },
+    {
+        "No": "150",
+        "word": "library",
+        "pronunciation": "láibrèri",
+        "yomikata": "ライブラリィ",
+        "meaning": "【名】図書室、図書館"
+    },
+    {
+        "No": "151",
+        "word": "playground",
+        "pronunciation": "pléigràund",
+        "yomikata": "プレイグラウンド",
+        "meaning": "【名】校庭"
+    },
+    {
+        "No": "152",
+        "word": "restroom",
+        "pronunciation": "réstrùːm",
+        "yomikata": "レストゥルーム",
+        "meaning": "【名】トイレ"
+    },
+    {
+        "No": "153",
+        "word": "school principal’s office",
+        "pronunciation": "skúːl//prínsəpəl//ɔ́fis",
+        "yomikata": "スクール プリンスィプルズ オフィス",
+        "meaning": "【名】校長室"
+    },
+    {
+        "No": "154",
+        "word": "school nurse’s office",
+        "pronunciation": "skúːl//nə́ːrs//ɔ́fis",
+        "yomikata": "スクール ナースィズ オフィス",
+        "meaning": "【名】保健室"
+    },
+    {
+        "No": "155",
+        "word": "crayon",
+        "pronunciation": "kréiən",
+        "yomikata": "クレイヤン",
+        "meaning": "【名】クレヨン"
+    },
+    {
+        "No": "156",
+        "word": "eraser",
+        "pronunciation": "iréisər",
+        "yomikata": "イレイサァ",
+        "meaning": "【名】消しゴム"
+    },
+    {
+        "No": "157",
+        "word": "glue stick",
+        "pronunciation": "gluː//stík",
+        "yomikata": "グルー スティク",
+        "meaning": "【名】スティックのり"
+    },
+    {
+        "No": "158",
+        "word": "ink",
+        "pronunciation": "íŋk",
+        "yomikata": "インク",
+        "meaning": "【名】インク"
+    },
+    {
+        "No": "159",
+        "word": "magnet",
+        "pronunciation": "mǽgnit",
+        "yomikata": "マグネット",
+        "meaning": "【名】じしゃく"
+    },
+    {
+        "No": "160",
+        "word": "marker",
+        "pronunciation": "mɑ́rkər",
+        "yomikata": "マーカァ",
+        "meaning": "【名】マーカー"
+    },
+    {
+        "No": "161",
+        "word": "notebook",
+        "pronunciation": "nóutbùk",
+        "yomikata": "ノウトゥブック",
+        "meaning": "【名】ノート"
+    },
+    {
+        "No": "162",
+        "word": "pen",
+        "pronunciation": "pén",
+        "yomikata": "ペン",
+        "meaning": "【名】ペン"
+    },
+    {
+        "No": "163",
+        "word": "pencil",
+        "pronunciation": "pénsəl",
+        "yomikata": "ペンソル",
+        "meaning": "【名】鉛筆"
+    },
+    {
+        "No": "164",
+        "word": "pencil case",
+        "pronunciation": "pénsəl//kéis",
+        "yomikata": "ペンソル ケイス",
+        "meaning": "【名】筆箱"
+    },
+    {
+        "No": "165",
+        "word": "pencil sharpener",
+        "pronunciation": "pénsəl//ʃɑ́ːrpənər",
+        "yomikata": "ペンソル シャアープナァ",
+        "meaning": "【名】鉛筆削り"
+    },
+    {
+        "No": "166",
+        "word": "ruler",
+        "pronunciation": "rúːlər",
+        "yomikata": "ルーラァ",
+        "meaning": "【名】定規"
+    },
+    {
+        "No": "167",
+        "word": "scissors",
+        "pronunciation": "sízərz",
+        "yomikata": "スィザーズ",
+        "meaning": "【名】はさみ"
+    },
+    {
+        "No": "168",
+        "word": "stapler",
+        "pronunciation": "stéiplər",
+        "yomikata": "ステープラァ",
+        "meaning": "【名】ホッチキス"
+    },
+    {
+        "No": "169",
+        "word": "drama festival",
+        "pronunciation": "drɑ́mə//féstəvəl",
+        "yomikata": "ドゥラマ フェスティヴァル",
+        "meaning": "【名】学芸会"
+    },
+    {
+        "No": "170",
+        "word": "entrance ceremony",
+        "pronunciation": "entrǽns//sérəmòuni",
+        "yomikata": "エントゥランス セレモニィ",
+        "meaning": "【名】入学式"
+    },
+    {
+        "No": "171",
+        "word": "field trip",
+        "pronunciation": "fíːld//trip",
+        "yomikata": "フィールド トゥリップ",
+        "meaning": "【名】遠足"
+    },
+    {
+        "No": "172",
+        "word": "graduation ceremony",
+        "pronunciation": "græ̀dʒuéiʃən//sérəmòuni",
+        "yomikata": "グラジュエイション セレモニィ",
+        "meaning": "【名】卒業式"
+    },
+    {
+        "No": "173",
+        "word": "music fesival",
+        "pronunciation": "mjúːzik//féstəvəl",
+        "yomikata": "ミューズィック フェスティヴァル",
+        "meaning": "【名】音楽界"
+    },
+    {
+        "No": "174",
+        "word": "school trip",
+        "pronunciation": "skúːl//trip",
+        "yomikata": "スクール トゥリップ",
+        "meaning": "【名】修学旅行"
+    },
+    {
+        "No": "175",
+        "word": "sports festival",
+        "pronunciation": "spɔrt//féstəvəl",
+        "yomikata": "スポーツ フェスティヴァル",
+        "meaning": "【名】運動会"
+    },
+    {
+        "No": "176",
+        "word": "swimming meet",
+        "pronunciation": "swímiŋ//míːt",
+        "yomikata": "スウィミング ミート",
+        "meaning": "【名】水泳大会"
+    },
+    {
+        "No": "177",
+        "word": "volunteer day",
+        "pronunciation": "vɑ̀ləntír//déi",
+        "yomikata": "ヴァランティァ デイ",
+        "meaning": "【名】ボランティアデー"
+    },
+    {
+        "No": "178",
+        "word": "sport",
+        "pronunciation": "spɔrt",
+        "yomikata": "スポート",
+        "meaning": "【名】スポーツ"
+    },
+    {
+        "No": "179",
+        "word": "soccer",
+        "pronunciation": "sɑ́kər",
+        "yomikata": "サッカァ",
+        "meaning": "【名】サッカー"
+    },
+    {
+        "No": "180",
+        "word": "baseball",
+        "pronunciation": "béisbɔ̀l",
+        "yomikata": "ベイスボール",
+        "meaning": "【名】野球"
+    },
+    {
+        "No": "181",
+        "word": "basketball",
+        "pronunciation": "bǽskitbɔ̀l",
+        "yomikata": "バスケットゥボール",
+        "meaning": "【名】バスケットボール"
+    },
+    {
+        "No": "182",
+        "word": "volleyball",
+        "pronunciation": "vɑ́libɔ̀l",
+        "yomikata": "ヴァリボール",
+        "meaning": "【名】バレーボール"
+    },
+    {
+        "No": "183",
+        "word": "dodgeball",
+        "pronunciation": "dɔ́dʒbɔ̀ːl",
+        "yomikata": "ドッジボール",
+        "meaning": "【名】ドッジボール"
+    },
+    {
+        "No": "184",
+        "word": "swimming",
+        "pronunciation": "swímiŋ",
+        "yomikata": "スウィミング",
+        "meaning": "【名】水泳"
+    },
+    {
+        "No": "185",
+        "word": "table tennis",
+        "pronunciation": "téibl//ténəs",
+        "yomikata": "テイブル テニス",
+        "meaning": "【名】卓球"
+    },
+    {
+        "No": "186",
+        "word": "badminton",
+        "pronunciation": "bǽdmintən",
+        "yomikata": "バドゥミントン",
+        "meaning": "【名】バドミントン"
+    },
+    {
+        "No": "187",
+        "word": "tennis",
+        "pronunciation": "ténəs",
+        "yomikata": "クロス",
+        "meaning": "【名】テニス"
+    },
+    {
+        "No": "188",
+        "word": "marathon",
+        "pronunciation": "mǽrəθɑ̀n",
+        "yomikata": "マラサン",
+        "meaning": "【名】マラソン"
+    },
+    {
+        "No": "189",
+        "word": "gymnastics",
+        "pronunciation": "dʒimnǽstiks",
+        "yomikata": "ジムナスティクス",
+        "meaning": "【名】体操"
+    },
+    {
+        "No": "190",
+        "word": "track and field",
+        "pronunciation": "trǽk//ən(d)//fíːld",
+        "yomikata": "トゥラック アンド フィールド",
+        "meaning": "【名】陸上競技"
+    },
+    {
+        "No": "191",
+        "word": "cycling",
+        "pronunciation": "sáikliŋ",
+        "yomikata": "サイクリング",
+        "meaning": "【名】サイクリング"
+    },
+    {
+        "No": "192",
+        "word": "rugby",
+        "pronunciation": "rʌ́gbi",
+        "yomikata": "ラグビィ",
+        "meaning": "【名】ラグビー"
+    },
+    {
+        "No": "193",
+        "word": "football",
+        "pronunciation": "fútbɔ̀l",
+        "yomikata": "フットゥボール",
+        "meaning": "【名】フットボール"
+    },
+    {
+        "No": "194",
+        "word": "boxing",
+        "pronunciation": "bɑ́ksiŋ",
+        "yomikata": "ボクシング",
+        "meaning": "【名】ボクシング"
+    },
+    {
+        "No": "195",
+        "word": "wrestling",
+        "pronunciation": "résliŋ",
+        "yomikata": "レスリング",
+        "meaning": "【名】レスリング"
+    },
+    {
+        "No": "196",
+        "word": "weightlifting",
+        "pronunciation": "wéitlìftiŋ",
+        "yomikata": "ウェイトゥリフティング",
+        "meaning": "【名】重量挙"
+    },
+    {
+        "No": "197",
+        "word": "surfing",
+        "pronunciation": "sə́ːrfiŋ",
+        "yomikata": "サーフィング",
+        "meaning": "【名】サーフィン"
+    },
+    {
+        "No": "198",
+        "word": "sailing",
+        "pronunciation": "séiliŋ",
+        "yomikata": "セイリング",
+        "meaning": "【名】セーリング"
+    },
+    {
+        "No": "199",
+        "word": "canoe",
+        "pronunciation": "kənúː",
+        "yomikata": "カヌー",
+        "meaning": "【名】カヌー"
+    },
+    {
+        "No": "200",
+        "word": "archery",
+        "pronunciation": "ɑ́rtʃəri",
+        "yomikata": "アーチェリィ",
+        "meaning": "【名】アーチェリー"
+    },
+    {
+        "No": "201",
+        "word": "climbing",
+        "pronunciation": "cláimiŋ",
+        "yomikata": "クライミング",
+        "meaning": "【名】登山"
+    },
+    {
+        "No": "202",
+        "word": "bat",
+        "pronunciation": "bǽt",
+        "yomikata": "バット",
+        "meaning": "【名】バット"
+    },
+    {
+        "No": "203",
+        "word": "ball",
+        "pronunciation": "bɔːl",
+        "yomikata": "ボール",
+        "meaning": "【名】ボール"
+    },
+    {
+        "No": "204",
+        "word": "racket",
+        "pronunciation": "rǽkət",
+        "yomikata": "ラケット",
+        "meaning": "【名】ラケット"
+    },
+    {
+        "No": "205",
+        "word": "athletics",
+        "pronunciation": "æθlétiks",
+        "yomikata": "アスレティクス",
+        "meaning": "【名】運動競技"
+    },
+    {
+        "No": "206",
+        "word": "camping",
+        "pronunciation": "kǽmpiŋ",
+        "yomikata": "キャンピング",
+        "meaning": "【名】キャンプ"
+    },
+    {
+        "No": "207",
+        "word": "fishing",
+        "pronunciation": "fíʃiŋ",
+        "yomikata": "フィッシング",
+        "meaning": "【名】魚釣り"
+    },
+    {
+        "No": "208",
+        "word": "hiking",
+        "pronunciation": "háikiŋ",
+        "yomikata": "ハイキング",
+        "meaning": "【名】ハイキング"
+    },
+    {
+        "No": "209",
+        "word": "jogging",
+        "pronunciation": "dʒɑ́giŋ",
+        "yomikata": "ジャギング",
+        "meaning": "【名】ジョギング"
+    },
+    {
+        "No": "210",
+        "word": "jump rope",
+        "pronunciation": "dʒʌmp//róup",
+        "yomikata": "ジャンプ ロウプ",
+        "meaning": "【名】なわとび"
+    },
+    {
+        "No": "211",
+        "word": "yo-yo",
+        "pronunciation": "jóujòu",
+        "yomikata": "ヨウヨウ",
+        "meaning": "【名】ヨーヨー"
+    },
+    {
+        "No": "212",
+        "word": "tag",
+        "pronunciation": "tǽg",
+        "yomikata": "タグ",
+        "meaning": "【名】おにごっこ"
+    },
+    {
+        "No": "213",
+        "word": "playing",
+        "pronunciation": "pléiiŋ",
+        "yomikata": "プレイング",
+        "meaning": "【名】遊ぶこと"
+    },
+    {
+        "No": "214",
+        "word": "reading",
+        "pronunciation": "ríːdiŋ",
+        "yomikata": "リーディング",
+        "meaning": "【名】読書"
+    },
+    {
+        "No": "215",
+        "word": "shopping",
+        "pronunciation": "ʃɔ́piŋ",
+        "yomikata": "ショピング",
+        "meaning": "【名】買い物"
+    },
+    {
+        "No": "216",
+        "word": "piano",
+        "pronunciation": "piǽnou",
+        "yomikata": "ピアノゥ",
+        "meaning": "【名】ピアノ"
+    },
+    {
+        "No": "217",
+        "word": "guitar",
+        "pronunciation": "gitɑ́r",
+        "yomikata": "ギター",
+        "meaning": "【名】ギター"
+    },
+    {
+        "No": "218",
+        "word": "violin",
+        "pronunciation": "vàiəlín",
+        "yomikata": "ヴァイオリン",
+        "meaning": "【名】バイオリン"
+    },
+    {
+        "No": "219",
+        "word": "drum",
+        "pronunciation": "drʌ́m",
+        "yomikata": "ドゥラム",
+        "meaning": "【名】ドラム"
+    },
+    {
+        "No": "220",
+        "word": "recorder",
+        "pronunciation": "rikɔ́rdər",
+        "yomikata": "リコーダァ",
+        "meaning": "【名】リコーダー"
+    },
+    {
+        "No": "221",
+        "word": "vacation",
+        "pronunciation": "veikéiʃən",
+        "yomikata": "ヴェイケイション",
+        "meaning": "【名】休暇"
+    },
+    {
+        "No": "222",
+        "word": "animal",
+        "pronunciation": "ǽnəməl",
+        "yomikata": "アニモゥ",
+        "meaning": "【名】動物"
+    },
+    {
+        "No": "223",
+        "word": "cat",
+        "pronunciation": "kǽt",
+        "yomikata": "キャット",
+        "meaning": "【名】猫"
+    },
+    {
+        "No": "224",
+        "word": "dog",
+        "pronunciation": "dɑg",
+        "yomikata": "ダッグ",
+        "meaning": "【名】犬"
+    },
+    {
+        "No": "225",
+        "word": "fish",
+        "pronunciation": "fiʃ",
+        "yomikata": "フィシュ",
+        "meaning": "【名】魚"
+    },
+    {
+        "No": "226",
+        "word": "bear",
+        "pronunciation": "bέər",
+        "yomikata": "ベア",
+        "meaning": "【名】クマ"
+    },
+    {
+        "No": "227",
+        "word": "elephant",
+        "pronunciation": "éləfənt",
+        "yomikata": "エレファント",
+        "meaning": "【名】象"
+    },
+    {
+        "No": "228",
+        "word": "panda",
+        "pronunciation": "pǽndə",
+        "yomikata": "パンダ",
+        "meaning": "【名】パンダ"
+    },
+    {
+        "No": "229",
+        "word": "lion",
+        "pronunciation": "láiən",
+        "yomikata": "ライオン",
+        "meaning": "【名】ライオン"
+    },
+    {
+        "No": "230",
+        "word": "pig",
+        "pronunciation": "píg",
+        "yomikata": "ピッグ",
+        "meaning": "【名】ぶた"
+    },
+    {
+        "No": "231",
+        "word": "monkey",
+        "pronunciation": "mʌ́ŋki",
+        "yomikata": "マンキィ",
+        "meaning": "【名】さる"
+    },
+    {
+        "No": "232",
+        "word": "mouse",
+        "pronunciation": "máus",
+        "yomikata": "マウス",
+        "meaning": "【名】ねずみ"
+    },
+    {
+        "No": "233",
+        "word": "horse",
+        "pronunciation": "hɔ́rs",
+        "yomikata": "ホース",
+        "meaning": "【名】馬"
+    },
+    {
+        "No": "234",
+        "word": "chicken",
+        "pronunciation": "tʃíkin",
+        "yomikata": "チキン",
+        "meaning": "【名】にわとり"
+    },
+    {
+        "No": "235",
+        "word": "gorilla",
+        "pronunciation": "gərílə",
+        "yomikata": "ゴリラ",
+        "meaning": "【名】ゴリラ"
+    },
+    {
+        "No": "236",
+        "word": "sheep",
+        "pronunciation": "ʃíːp",
+        "yomikata": "シープ",
+        "meaning": "【名】ひつじ"
+    },
+    {
+        "No": "237",
+        "word": "tiger",
+        "pronunciation": "táigər",
+        "yomikata": "タイガァ",
+        "meaning": "【名】とら"
+    },
+    {
+        "No": "238",
+        "word": "rabbit",
+        "pronunciation": "rǽbət",
+        "yomikata": "ラビット",
+        "meaning": "【名】うさぎ"
+    },
+    {
+        "No": "239",
+        "word": "koala",
+        "pronunciation": "kouɑ́lə",
+        "yomikata": "コウアラ",
+        "meaning": "【名】コアラ"
+    },
+    {
+        "No": "240",
+        "word": "duck",
+        "pronunciation": "dˈʌk",
+        "yomikata": "ダック",
+        "meaning": "【名】あひる"
+    },
+    {
+        "No": "241",
+        "word": "fox",
+        "pronunciation": "fɑks",
+        "yomikata": "ファクス",
+        "meaning": "【名】きつね"
+    },
+    {
+        "No": "242",
+        "word": "frog",
+        "pronunciation": "frɔg",
+        "yomikata": "フロッグ",
+        "meaning": "【名】かえる"
+    },
+    {
+        "No": "243",
+        "word": "snake",
+        "pronunciation": "sneik",
+        "yomikata": "スネイク",
+        "meaning": "【名】へび"
+    },
+    {
+        "No": "244",
+        "word": "wolf",
+        "pronunciation": "wúlf",
+        "yomikata": "ウォルフ",
+        "meaning": "【名】おおかみ"
+    },
+    {
+        "No": "245",
+        "word": "goat",
+        "pronunciation": "góut",
+        "yomikata": "ゴウト",
+        "meaning": "【名】ヤギ"
+    },
+    {
+        "No": "246",
+        "word": "ant",
+        "pronunciation": "ǽnt",
+        "yomikata": "アント",
+        "meaning": "【名】あり"
+    },
+    {
+        "No": "247",
+        "word": "cow",
+        "pronunciation": "káu",
+        "yomikata": "カゥ",
+        "meaning": "【名】（メスの）牛"
+    },
+    {
+        "No": "248",
+        "word": "ox",
+        "pronunciation": "ɑ́ks",
+        "yomikata": "アックス",
+        "meaning": "【名】（雄の）牛"
+    },
+    {
+        "No": "249",
+        "word": "spider",
+        "pronunciation": "spáidər",
+        "yomikata": "スパイダァ",
+        "meaning": "【名】くも"
+    },
+    {
+        "No": "250",
+        "word": "jaguar",
+        "pronunciation": "dʒǽgwɑr",
+        "yomikata": "ジャグワー",
+        "meaning": "【名】ジャガー、ヒョウ"
+    },
+    {
+        "No": "251",
+        "word": "zebra",
+        "pronunciation": "zíːbrə",
+        "yomikata": "ズィーブラ",
+        "meaning": "【名】しまうま"
+    },
+    {
+        "No": "252",
+        "word": "seal",
+        "pronunciation": "síːl",
+        "yomikata": "スィール",
+        "meaning": "【名】アザラシ、アシカ、オットセイ"
+    },
+    {
+        "No": "253",
+        "word": "yak",
+        "pronunciation": "jǽk",
+        "yomikata": "ヤク",
+        "meaning": "【名】ヤク"
+    },
+    {
+        "No": "254",
+        "word": "iguana",
+        "pronunciation": "igwɑ́nə",
+        "yomikata": "イグワナ",
+        "meaning": "【名】イグアナ"
+    },
+    {
+        "No": "255",
+        "word": "newt",
+        "pronunciation": "njúːt",
+        "yomikata": "ニュート",
+        "meaning": "【名】イモリ"
+    },
+    {
+        "No": "256",
+        "word": "vulture",
+        "pronunciation": "vʌ́ltʃər",
+        "yomikata": "ヴァルチャァ",
+        "meaning": "【名】ハゲワシ、コンドル"
+    },
+    {
+        "No": "257",
+        "word": "quail",
+        "pronunciation": "kwéil",
+        "yomikata": "クウェイル",
+        "meaning": "【名】ウズラ"
+    },
+    {
+        "No": "258",
+        "word": "food",
+        "pronunciation": "fuːd",
+        "yomikata": "フード",
+        "meaning": "【名】食べ物"
+    },
+    {
+        "No": "259",
+        "word": "fruit",
+        "pronunciation": "frúːt",
+        "yomikata": "フルート",
+        "meaning": "【名】果物"
+    },
+    {
+        "No": "260",
+        "word": "apple",
+        "pronunciation": "ǽpl",
+        "yomikata": "アッポゥ",
+        "meaning": "【名】りんご"
+    },
+    {
+        "No": "261",
+        "word": "banana",
+        "pronunciation": "bənǽnə",
+        "yomikata": "バナーナ",
+        "meaning": "【名】バナナ"
+    },
+    {
+        "No": "262",
+        "word": "peach",
+        "pronunciation": "píːtʃ",
+        "yomikata": "ピーチ",
+        "meaning": "【名】もも"
+    },
+    {
+        "No": "263",
+        "word": "strawberry",
+        "pronunciation": "strɔ́ːbəri",
+        "yomikata": "ストゥローベリ",
+        "meaning": "【名】いちご"
+    },
+    {
+        "No": "264",
+        "word": "grape",
+        "pronunciation": "greip",
+        "yomikata": "グレイプ",
+        "meaning": "【名】ぶどう"
+    },
+    {
+        "No": "265",
+        "word": "orange",
+        "pronunciation": "ɔ́rindʒ",
+        "yomikata": "オリンジ",
+        "meaning": "【名】オレンジ"
+    },
+    {
+        "No": "266",
+        "word": "melon",
+        "pronunciation": "mélən",
+        "yomikata": "メロン",
+        "meaning": "【名】メロン"
+    },
+    {
+        "No": "267",
+        "word": "pineapple",
+        "pronunciation": "páinæ̀pl",
+        "yomikata": "パイナプル",
+        "meaning": "【名】パイナップル"
+    },
+    {
+        "No": "268",
+        "word": "cherry",
+        "pronunciation": "tʃéri",
+        "yomikata": "チェリィ",
+        "meaning": "【名】さくらんぼ"
+    },
+    {
+        "No": "269",
+        "word": "lemon",
+        "pronunciation": "lémən",
+        "yomikata": "レマン",
+        "meaning": "【名】レモン"
+    },
+    {
+        "No": "270",
+        "word": "kiwi fruit",
+        "pronunciation": "kíːwiː//frúːt",
+        "yomikata": "キーウィ フルート",
+        "meaning": "【名】キウイフルーツ"
+    },
+    {
+        "No": "271",
+        "word": "watermelon",
+        "pronunciation": "wɔ́tərmèlən",
+        "yomikata": "ウォタァメラン",
+        "meaning": "【名】すいか"
+    },
+    {
+        "No": "272",
+        "word": "vegetable",
+        "pronunciation": "védʒətəbl",
+        "yomikata": "ヴェジタブル",
+        "meaning": "【名】野菜"
+    },
+    {
+        "No": "273",
+        "word": "tomato",
+        "pronunciation": "təméitou",
+        "yomikata": "トメイトウ",
+        "meaning": "【名】トマト"
+    },
+    {
+        "No": "274",
+        "word": "carrot",
+        "pronunciation": "kǽrət",
+        "yomikata": "キャロット",
+        "meaning": "【名】にんじん"
+    },
+    {
+        "No": "275",
+        "word": "onion",
+        "pronunciation": "ʌ́njən",
+        "yomikata": "アニャン",
+        "meaning": "【名】たまねぎ"
+    },
+    {
+        "No": "276",
+        "word": "potato",
+        "pronunciation": "pətéitou",
+        "yomikata": "ポテイトウ",
+        "meaning": "【名】じゃがいも"
+    },
+    {
+        "No": "277",
+        "word": "green pepper",
+        "pronunciation": "griːn//pépər",
+        "yomikata": "グリーン ペッパァ",
+        "meaning": "【名】ピーマン"
+    },
+    {
+        "No": "278",
+        "word": "cucumber",
+        "pronunciation": "kjúkʌ̀mbər",
+        "yomikata": "キューカンバァ",
+        "meaning": "【名】きゅうり"
+    },
+    {
+        "No": "279",
+        "word": "lettuce",
+        "pronunciation": "létəs",
+        "yomikata": "レタス",
+        "meaning": "【名】レタス"
+    },
+    {
+        "No": "280",
+        "word": "cabbage",
+        "pronunciation": "kǽbidʒ",
+        "yomikata": "キャベッジ",
+        "meaning": "【名】キャベツ"
+    },
+    {
+        "No": "281",
+        "word": "corn",
+        "pronunciation": "kɔ́rn",
+        "yomikata": "コーン",
+        "meaning": "【名】とうもろこし"
+    },
+    {
+        "No": "282",
+        "word": "mushroom",
+        "pronunciation": "mʌ́ʃruːm",
+        "yomikata": "マッシュルーム",
+        "meaning": "【名】きのこ"
+    },
+    {
+        "No": "283",
+        "word": "nut",
+        "pronunciation": "nʌ́t",
+        "yomikata": "ナット",
+        "meaning": "【名】木の実、ナッツ"
+    },
+    {
+        "No": "284",
+        "word": "broccoli",
+        "pronunciation": "brɑ́kəli",
+        "yomikata": "ブラッカリ",
+        "meaning": "【名】ブロッコリー"
+    },
+    {
+        "No": "285",
+        "word": "radish",
+        "pronunciation": "rǽdiʃ",
+        "yomikata": "ラディッシュ",
+        "meaning": "【名】はつかだいこん"
+    },
+    {
+        "No": "286",
+        "word": "zucchini",
+        "pronunciation": "zuːkíːni",
+        "yomikata": "ズッキーニィ",
+        "meaning": "【名】ズッキーニ"
+    },
+    {
+        "No": "287",
+        "word": "breakfast",
+        "pronunciation": "brékfəst",
+        "yomikata": "ブレックファースト",
+        "meaning": "【名】朝食"
+    },
+    {
+        "No": "288",
+        "word": "lunch”",
+        "pronunciation": "lʌ́ntʃ",
+        "yomikata": "ランチ",
+        "meaning": "【名】昼食"
+    },
+    {
+        "No": "289",
+        "word": "dinner",
+        "pronunciation": "dínər",
+        "yomikata": "ディナァ",
+        "meaning": "【名】夕食"
+    },
+    {
+        "No": "290",
+        "word": "rice",
+        "pronunciation": "ráis",
+        "yomikata": "ライス",
+        "meaning": "【名】米、ごはん"
+    },
+    {
+        "No": "291",
+        "word": "rice ball",
+        "pronunciation": "ráis//bɔːl",
+        "yomikata": "ライス ボール",
+        "meaning": "【名】おにぎり"
+    },
+    {
+        "No": "292",
+        "word": "miso",
+        "pronunciation": "míːsou",
+        "yomikata": "ミーソウ",
+        "meaning": "【名】みそ"
+    },
+    {
+        "No": "293",
+        "word": "miso soup",
+        "pronunciation": "míːsou//súːp",
+        "yomikata": "ミーソウ スープ",
+        "meaning": "【名】味噌汁"
+    },
+    {
+        "No": "294",
+        "word": "noodle",
+        "pronunciation": "núːdl",
+        "yomikata": "ヌードゥル",
+        "meaning": "【名】めん"
+    },
+    {
+        "No": "295",
+        "word": "bread",
+        "pronunciation": "bréd",
+        "yomikata": "ブレッド",
+        "meaning": "【名】パン"
+    },
+    {
+        "No": "296",
+        "word": "jam",
+        "pronunciation": "dʒǽm",
+        "yomikata": "ジャム",
+        "meaning": "【名】ジャム"
+    },
+    {
+        "No": "297",
+        "word": "egg",
+        "pronunciation": "ég",
+        "yomikata": "エッグ",
+        "meaning": "【名】卵"
+    },
+    {
+        "No": "298",
+        "word": "fish",
+        "pronunciation": "fiʃ",
+        "yomikata": "フィシュ",
+        "meaning": "【名】魚"
+    },
+    {
+        "No": "299",
+        "word": "curry and rice",
+        "pronunciation": "kə́ːri//ən(d)//ráis",
+        "yomikata": "カリィ アンド ライス",
+        "meaning": "【名】カレーライス"
+    },
+    {
+        "No": "300",
+        "word": "ramen",
+        "pronunciation": "rɑ́ːmən",
+        "yomikata": "ラーメン",
+        "meaning": "【名】ラーメン"
+    },
+    {
+        "No": "301",
+        "word": "sandwich",
+        "pronunciation": "sǽnwidʒ",
+        "yomikata": "サンドウィッジ",
+        "meaning": "【名】サンドイッチ"
+    },
+    {
+        "No": "302",
+        "word": "spaghetti",
+        "pronunciation": "spəgéti",
+        "yomikata": "スパゲティ",
+        "meaning": "【名】スパゲッティ"
+    },
+    {
+        "No": "303",
+        "word": "pizza",
+        "pronunciation": "píːtsə",
+        "yomikata": "ピッツァ",
+        "meaning": "【名】ピザ"
+    },
+    {
+        "No": "304",
+        "word": "hamburger",
+        "pronunciation": "hǽmbə̀ːrgər",
+        "yomikata": "ハンバーガァ",
+        "meaning": "【名】ハンバーガー"
+    },
+    {
+        "No": "305",
+        "word": "hot dog",
+        "pronunciation": "hɑ́t//dɔg",
+        "yomikata": "ハット ドッグ",
+        "meaning": "【名】ホットドッグ"
+    },
+    {
+        "No": "306",
+        "word": "salad",
+        "pronunciation": "sǽləd",
+        "yomikata": "サラッド",
+        "meaning": "【名】サラダ"
+    },
+    {
+        "No": "307",
+        "word": "pie",
+        "pronunciation": "pái",
+        "yomikata": "パイ",
+        "meaning": "【名】パイ"
+    },
+    {
+        "No": "308",
+        "word": "fried chicken",
+        "pronunciation": "fráid//tʃíkin",
+        "yomikata": "フライド チキン",
+        "meaning": "【名】フライドチキン"
+    },
+    {
+        "No": "309",
+        "word": "french fries",
+        "pronunciation": "frentʃ//fraiz",
+        "yomikata": "フレンチ フライズ",
+        "meaning": "【名】フライドポテト"
+    },
+    {
+        "No": "310",
+        "word": "soup",
+        "pronunciation": "súːp",
+        "yomikata": "スープ",
+        "meaning": "【名】スープ"
+    },
+    {
+        "No": "311",
+        "word": "corn soup",
+        "pronunciation": "kɔ́rn//súːp",
+        "yomikata": "コーン スープ",
+        "meaning": "【名】コーンスープ"
+    },
+    {
+        "No": "312",
+        "word": "sausage",
+        "pronunciation": "sɔ́sidʒ",
+        "yomikata": "ソスィッジ",
+        "meaning": "【名】ソーセージ"
+    },
+    {
+        "No": "313",
+        "word": "beefsteak",
+        "pronunciation": "bíːfstèik",
+        "yomikata": "ビーフステイク",
+        "meaning": "【名】ビーフステーキ"
+    },
+    {
+        "No": "314",
+        "word": "omelet",
+        "pronunciation": "ɑ́ːmələt",
+        "yomikata": "オムレット",
+        "meaning": "【名】オムレツ"
+    },
+    {
+        "No": "315",
+        "word": "grilled fish",
+        "pronunciation": "grild//fiʃ",
+        "yomikata": "グリルド フィシュ",
+        "meaning": "【名】焼き魚"
+    },
+    {
+        "No": "316",
+        "word": "namul",
+        "pronunciation": "naml",
+        "yomikata": "ナムル",
+        "meaning": "【名】ナムル"
+    },
+    {
+        "No": "317",
+        "word": "dessert",
+        "pronunciation": "dizə́ːrt",
+        "yomikata": "ディザート",
+        "meaning": "【名】デザート"
+    },
+    {
+        "No": "318",
+        "word": "ice cream",
+        "pronunciation": "áis//kríːm",
+        "yomikata": "アイス クリーム",
+        "meaning": "【名】アイスクリーム"
+    },
+    {
+        "No": "319",
+        "word": "cake",
+        "pronunciation": "keik",
+        "yomikata": "ケイク",
+        "meaning": "【名】ケーキ"
+    },
+    {
+        "No": "320",
+        "word": "cup cake",
+        "pronunciation": "kʌp",
+        "yomikata": "/keik",
+        "meaning": "カップ ケイク"
+    },
+    {
+        "No": "321",
+        "word": "chocolate",
+        "pronunciation": "tʃɔ́kəlit",
+        "yomikata": "チョカリット",
+        "meaning": "【名】チョコレート"
+    },
+    {
+        "No": "322",
+        "word": "donut",
+        "pronunciation": "dóunət",
+        "yomikata": "ドウナット",
+        "meaning": "【名】ドーナツ"
+    },
+    {
+        "No": "323",
+        "word": "popcorn",
+        "pronunciation": "pɑ́pkɔ̀rn",
+        "yomikata": "パップコーン",
+        "meaning": "【名】ポップコーン"
+    },
+    {
+        "No": "324",
+        "word": "daifuku",
+        "pronunciation": "daifuku",
+        "yomikata": "ダイフク",
+        "meaning": "【名】大福"
+    },
+    {
+        "No": "325",
+        "word": "pudding",
+        "pronunciation": "6/púdiŋ",
+        "yomikata": "プディング",
+        "meaning": "【名】プリン"
+    },
+    {
+        "No": "326",
+        "word": "parfait",
+        "pronunciation": "pɑrféi",
+        "yomikata": "パーフェイ",
+        "meaning": "【名】パフェ"
+    },
+    {
+        "No": "327",
+        "word": "shaved ice",
+        "pronunciation": "ʃéiv//áis",
+        "yomikata": "シェイヴド アイス",
+        "meaning": "【名】かき氷"
+    },
+    {
+        "No": "328",
+        "word": "gum",
+        "pronunciation": "gʌm",
+        "yomikata": "ガム",
+        "meaning": "【名】ガム"
+    },
+    {
+        "No": "329",
+        "word": "snack",
+        "pronunciation": "snǽk",
+        "yomikata": "スナック",
+        "meaning": "【名】軽食、おやつ"
+    },
+    {
+        "No": "330",
+        "word": "water",
+        "pronunciation": "wɑ́tər",
+        "yomikata": "ワータァ",
+        "meaning": "【名】水"
+    },
+    {
+        "No": "331",
+        "word": "milk",
+        "pronunciation": "mílk",
+        "yomikata": "メウク",
+        "meaning": "【名】牛乳"
+    },
+    {
+        "No": "332",
+        "word": "juice",
+        "pronunciation": "dʒuːs",
+        "yomikata": "ジュース",
+        "meaning": "【名】〔果汁100％の〕ジュース"
+    },
+    {
+        "No": "333",
+        "word": "coffee",
+        "pronunciation": "kɑ́ːfi",
+        "yomikata": "カーフィ",
+        "meaning": "【名】コーヒー"
+    },
+    {
+        "No": "334",
+        "word": "tea",
+        "pronunciation": "tiː",
+        "yomikata": "ティー",
+        "meaning": "【名】紅茶"
+    },
+    {
+        "No": "335",
+        "word": "green tea",
+        "pronunciation": "griːn//tiː",
+        "yomikata": "グリーン ティー",
+        "meaning": "【名】日本茶、緑茶"
+    },
+    {
+        "No": "336",
+        "word": "mineral water",
+        "pronunciation": "mínərəl//wɑ́tər",
+        "yomikata": "ミネロウ ワータァ",
+        "meaning": "【名】ミネラルウォーター"
+    },
+    {
+        "No": "337",
+        "word": "soda pop",
+        "pronunciation": "sóudə//pɑp",
+        "yomikata": "ソウダ パップ",
+        "meaning": "【名】炭酸飲料"
+    },
+    {
+        "No": "338",
+        "word": "country",
+        "pronunciation": "kʌ́ntri",
+        "yomikata": "カントゥリィ",
+        "meaning": "【名】国"
+    },
+    {
+        "No": "339",
+        "word": "Argentina",
+        "pronunciation": "ɑ̀rdʒəntíːnə",
+        "yomikata": "アージェンティーナ",
+        "meaning": "【名】アルゼンチン"
+    },
+    {
+        "No": "340",
+        "word": "Bolivia",
+        "pronunciation": "bəlíviə",
+        "yomikata": "ボリビア",
+        "meaning": "【名】ボリビア"
+    },
+    {
+        "No": "341",
+        "word": "Brazil",
+        "pronunciation": "brəzíl",
+        "yomikata": "ブラズィウ",
+        "meaning": "【名】ブラジル"
+    },
+    {
+        "No": "342",
+        "word": "Britain",
+        "pronunciation": "brítn",
+        "yomikata": "ブリトゥン",
+        "meaning": "【名】イギリス"
+    },
+    {
+        "No": "343",
+        "word": "Canada",
+        "pronunciation": "kǽnədə",
+        "yomikata": "キャナダ",
+        "meaning": "【名】カナダ"
+    },
+    {
+        "No": "344",
+        "word": "China",
+        "pronunciation": "tʃáinə",
+        "yomikata": "チャイナ",
+        "meaning": "【名】中国"
+    },
+    {
+        "No": "345",
+        "word": "Denmark",
+        "pronunciation": "dénmɑrk",
+        "yomikata": "デンマーク",
+        "meaning": "【名】デンマーク"
+    },
+    {
+        "No": "346",
+        "word": "Egypt",
+        "pronunciation": "íːdʒɪpt",
+        "yomikata": "イージプトゥ",
+        "meaning": "【名】エジプト"
+    },
+    {
+        "No": "347",
+        "word": "Finland",
+        "pronunciation": "fínlənd",
+        "yomikata": "フィンランド",
+        "meaning": "【名】フィンランド"
+    },
+    {
+        "No": "348",
+        "word": "France",
+        "pronunciation": "frǽns",
+        "yomikata": "フランス",
+        "meaning": "【名】フランス"
+    },
+    {
+        "No": "349",
+        "word": "Germany",
+        "pronunciation": "dʒə́ːrməni",
+        "yomikata": "ジャーマニィ",
+        "meaning": "【名】ドイツ"
+    },
+    {
+        "No": "350",
+        "word": "Ghana",
+        "pronunciation": "gɑ́nə",
+        "yomikata": "ガーナ",
+        "meaning": "【名】ガーナ"
+    },
+    {
+        "No": "351",
+        "word": "Hungary",
+        "pronunciation": "hʌ́ŋgəri",
+        "yomikata": "ハンガリィ",
+        "meaning": "【名】ハンガリー"
+    },
+    {
+        "No": "352",
+        "word": "India",
+        "pronunciation": "índiə",
+        "yomikata": "インディア",
+        "meaning": "【名】インド"
+    },
+    {
+        "No": "353",
+        "word": "Italy",
+        "pronunciation": "ítəli",
+        "yomikata": "イタリィ",
+        "meaning": "【名】イタリア”/td>"
+    },
+    {
+        "No": "354",
+        "word": "Japan",
+        "pronunciation": "dʒəpǽn",
+        "yomikata": "ジャパン",
+        "meaning": "【名】日本"
+    },
+    {
+        "No": "355",
+        "word": "Kenya",
+        "pronunciation": "kénjə",
+        "yomikata": "ケニャ",
+        "meaning": "【名】ケニア"
+    },
+    {
+        "No": "356",
+        "word": "Laos",
+        "pronunciation": "láus",
+        "yomikata": "ラウス",
+        "meaning": "【名】ラオス"
+    },
+    {
+        "No": "357",
+        "word": "Mongolia",
+        "pronunciation": "mɑŋgóuljə",
+        "yomikata": "マンゴウリア",
+        "meaning": "【名】モンゴル"
+    },
+    {
+        "No": "358",
+        "word": "Norway",
+        "pronunciation": "nɔ́rwei",
+        "yomikata": "ノーウェイ",
+        "meaning": "【名】ノルウェー"
+    },
+    {
+        "No": "359",
+        "word": "Oman",
+        "pronunciation": "əumɑ́ːn",
+        "yomikata": "オウマーン",
+        "meaning": "【名】オマーン"
+    },
+    {
+        "No": "360",
+        "word": "Peru",
+        "pronunciation": "pərúː",
+        "yomikata": "ペルー",
+        "meaning": "【名】ペルー"
+    },
+    {
+        "No": "361",
+        "word": "Qatar",
+        "pronunciation": "kɑ́ːtɑːr",
+        "yomikata": "カーターァ",
+        "meaning": "【名】カタール"
+    },
+    {
+        "No": "362",
+        "word": "Russia",
+        "pronunciation": "rʌ́ʃə",
+        "yomikata": "ラシャ",
+        "meaning": "【名】ロシア"
+    },
+    {
+        "No": "363",
+        "word": "Singapore",
+        "pronunciation": "síŋ(g)əp`ɔr",
+        "yomikata": "スィンガポー",
+        "meaning": "【名】シンガポール"
+    },
+    {
+        "No": "364",
+        "word": "Spain",
+        "pronunciation": "spéin",
+        "yomikata": "スペイン",
+        "meaning": "【名】スペイン"
+    },
+    {
+        "No": "365",
+        "word": "Turkey",
+        "pronunciation": "tə́ːrki",
+        "yomikata": "ターキィ",
+        "meaning": "【名】トルコ"
+    },
+    {
+        "No": "366",
+        "word": "Thailand",
+        "pronunciation": "tάɪlænd",
+        "yomikata": "タイランド",
+        "meaning": "【名】タイ”"
+    },
+    {
+        "No": "367",
+        "word": "United States of America／America",
+        "pronunciation": "junáitəd//steit//əv//əmérikə",
+        "yomikata": "ユナイティド ステイツ オヴ アメリカ",
+        "meaning": "【名】アメリカ合衆国"
+    },
+    {
+        "No": "368",
+        "word": "Vietnam",
+        "pronunciation": "víetnɑ́m",
+        "yomikata": "ヴィトーゥナム",
+        "meaning": "【名】ベトナム"
+    },
+    {
+        "No": "369",
+        "word": "Mexico",
+        "pronunciation": "méksikòu",
+        "yomikata": "メクスィコウ",
+        "meaning": "【名】メキシコ"
+    },
+    {
+        "No": "370",
+        "word": "Yemen",
+        "pronunciation": "jémən",
+        "yomikata": "イェメン",
+        "meaning": "【名】イエメン"
+    },
+    {
+        "No": "371",
+        "word": "Zambia",
+        "pronunciation": "zǽmbiə",
+        "yomikata": "ザンビア",
+        "meaning": "【名】ザンビア"
+    },
+    {
+        "No": "372",
+        "word": "world",
+        "pronunciation": "wʌ́(ːr)ld",
+        "yomikata": "ワールド",
+        "meaning": "【名】世界"
+    },
+    {
+        "No": "373",
+        "word": "job",
+        "pronunciation": "dʒɑb",
+        "yomikata": "ジャブ",
+        "meaning": "【名】仕事"
+    },
+    {
+        "No": "374",
+        "word": "teacher",
+        "pronunciation": "tíːtʃər",
+        "yomikata": "ティーチャァ",
+        "meaning": "【名】教師"
+    },
+    {
+        "No": "375",
+        "word": "doctor",
+        "pronunciation": "dɑ́ktər",
+        "yomikata": "ダクタァ",
+        "meaning": "【名】医者"
+    },
+    {
+        "No": "376",
+        "word": "police officer",
+        "pronunciation": "pəlíːs//ɔ́fisər",
+        "yomikata": "ポリース オフィサァ",
+        "meaning": "【名】警察官"
+    },
+    {
+        "No": "377",
+        "word": "fire fighter",
+        "pronunciation": "fáiər//fáitər",
+        "yomikata": "ファイア ファイタァ",
+        "meaning": "【名】消防士"
+    },
+    {
+        "No": "378",
+        "word": "dentist",
+        "pronunciation": "déntəst",
+        "yomikata": "デンティスト",
+        "meaning": "【名】歯科医師"
+    },
+    {
+        "No": "379",
+        "word": "pilot",
+        "pronunciation": "páilət",
+        "yomikata": "パイロット",
+        "meaning": "【名】パイロット"
+    },
+    {
+        "No": "380",
+        "word": "flight attendant",
+        "pronunciation": "fláit//əténdənt",
+        "yomikata": "フライト アテンダント",
+        "meaning": "【名】客室乗務員"
+    },
+    {
+        "No": "381",
+        "word": "bus driver",
+        "pronunciation": "bʌ́s//dráivər",
+        "yomikata": "バス ドゥライヴァ",
+        "meaning": "【名】バスの運転手"
+    },
+    {
+        "No": "382",
+        "word": "baker",
+        "pronunciation": "béikər",
+        "yomikata": "ベイカァ",
+        "meaning": "【名】パン屋の店主"
+    },
+    {
+        "No": "383",
+        "word": "florist",
+        "pronunciation": "flɔ́rist",
+        "yomikata": "フロリスト",
+        "meaning": "【名】生花店の店主"
+    },
+    {
+        "No": "384",
+        "word": "cook",
+        "pronunciation": "kúk",
+        "yomikata": "クック",
+        "meaning": "【名】料理人、コック"
+    },
+    {
+        "No": "385",
+        "word": "farmer",
+        "pronunciation": "fɑ́rmər",
+        "yomikata": "フーマァ",
+        "meaning": "【名】農場経営者"
+    },
+    {
+        "No": "386",
+        "word": "artist",
+        "pronunciation": "ɑ́rtist",
+        "yomikata": "アーティスト",
+        "meaning": "【名】芸術家"
+    },
+    {
+        "No": "387",
+        "word": "astronaut",
+        "pronunciation": "ǽstrənɔ̀t",
+        "yomikata": "アストゥラノート",
+        "meaning": "【名】宇宙飛行士"
+    },
+    {
+        "No": "388",
+        "word": "vet",
+        "pronunciation": "vét",
+        "yomikata": "ヴェット",
+        "meaning": "【名】獣医師"
+    },
+    {
+        "No": "389",
+        "word": "zookeeper",
+        "pronunciation": "zúːkìːpər",
+        "yomikata": "ズーキーパァ",
+        "meaning": "【名】動物園の飼育員"
+    },
+    {
+        "No": "390",
+        "word": "soccer player",
+        "pronunciation": "sɑ́kər//pléiər",
+        "yomikata": "サッカァ プレイヤァ",
+        "meaning": "【名】サッカー選手"
+    },
+    {
+        "No": "391",
+        "word": "baseball player",
+        "pronunciation": "béisbɔ̀l",
+        "yomikata": "/pléiər",
+        "meaning": "ベイスボール プレイヤァ"
+    },
+    {
+        "No": "392",
+        "word": "figure skater",
+        "pronunciation": "fígjər//skéitər",
+        "yomikata": "フィギュァ スケイータァ",
+        "meaning": "【名】フィギュアスケート選手"
+    },
+    {
+        "No": "393",
+        "word": "singer",
+        "pronunciation": "síŋər",
+        "yomikata": "スィンガァ",
+        "meaning": "【名】歌手"
+    },
+    {
+        "No": "394",
+        "word": "comedian",
+        "pronunciation": "kəmíːdiən",
+        "yomikata": "コミーディアン",
+        "meaning": "【名】コメディアン"
+    },
+    {
+        "No": "395",
+        "word": "hero",
+        "pronunciation": "híːərou",
+        "yomikata": "ヒーロゥ",
+        "meaning": "【名】英雄"
+    },
+    {
+        "No": "396",
+        "word": "king",
+        "pronunciation": "kiŋ",
+        "yomikata": "キング",
+        "meaning": "【名】王様"
+    },
+    {
+        "No": "397",
+        "word": "queen",
+        "pronunciation": "kwíːn",
+        "yomikata": "クウィーン",
+        "meaning": "【名】女王"
+    },
+    {
+        "No": "398",
+        "word": "house",
+        "pronunciation": "háus",
+        "yomikata": "ハウス",
+        "meaning": "【名】家"
+    },
+    {
+        "No": "399",
+        "word": "hospital",
+        "pronunciation": "hɑ́spìtl",
+        "yomikata": "ハスピトゥル",
+        "meaning": "【名】病院"
+    },
+    {
+        "No": "400",
+        "word": "police station",
+        "pronunciation": "pəlíːs//stéiʃən",
+        "yomikata": "ポリース ステイション",
+        "meaning": "【名】警察署"
+    },
+    {
+        "No": "401",
+        "word": "fire station",
+        "pronunciation": "fáiər//stéiʃən",
+        "yomikata": "ファイア ステイション",
+        "meaning": "【名】消防署"
+    },
+    {
+        "No": "402",
+        "word": "post office",
+        "pronunciation": "póust//ɔ́fis",
+        "yomikata": "ポウスト アフィス",
+        "meaning": "【名】郵便局"
+    },
+    {
+        "No": "403",
+        "word": "post",
+        "pronunciation": "póust",
+        "yomikata": "ポウスト",
+        "meaning": "【名】ポスト"
+    },
+    {
+        "No": "404",
+        "word": "station",
+        "pronunciation": "stéiʃən",
+        "yomikata": "ステイション",
+        "meaning": "【名】駅"
+    },
+    {
+        "No": "405",
+        "word": "park",
+        "pronunciation": "pɑ́rk",
+        "yomikata": "パーク",
+        "meaning": "【名】公園"
+    },
+    {
+        "No": "406",
+        "word": "street",
+        "pronunciation": "stríːt",
+        "yomikata": "ストゥリート",
+        "meaning": "【名】通り、道"
+    },
+    {
+        "No": "407",
+        "word": "library",
+        "pronunciation": "láibrèri",
+        "yomikata": "ライブラリィ",
+        "meaning": "【名】図書館、図書室"
+    },
+    {
+        "No": "408",
+        "word": "museum",
+        "pronunciation": "mjuːzíəm",
+        "yomikata": "ミューズィアム",
+        "meaning": "【名】博物館、美術館"
+    },
+    {
+        "No": "409",
+        "word": "zoo",
+        "pronunciation": "zúː",
+        "yomikata": "ズー",
+        "meaning": "【名】動物園"
+    },
+    {
+        "No": "410",
+        "word": "aquarium",
+        "pronunciation": "əkwέəriəm",
+        "yomikata": "アクウェイリアム",
+        "meaning": "【名】水族館"
+    },
+    {
+        "No": "411",
+        "word": "amusement park",
+        "pronunciation": "əmjúːzmənt//pɑ́rk",
+        "yomikata": "アミューズメント パーク",
+        "meaning": "【名】遊園地"
+    },
+    {
+        "No": "412",
+        "word": "convenience store",
+        "pronunciation": "kənvíːniəns//stɔr",
+        "yomikata": "コンヴィーニエンス ストァ",
+        "meaning": "【名】コンビニ"
+    },
+    {
+        "No": "413",
+        "word": "supermarket",
+        "pronunciation": "súpərmɑ̀rkit",
+        "yomikata": "スーパーマーキット",
+        "meaning": "【名】スーパーマーケット"
+    },
+    {
+        "No": "414",
+        "word": "department store",
+        "pronunciation": "dipɑ́rtmənt//stɔr",
+        "yomikata": "ディパートゥメント ストァ",
+        "meaning": "【名】デパート"
+    },
+    {
+        "No": "415",
+        "word": "restaurant",
+        "pronunciation": "réstərɑːnt",
+        "yomikata": "レスタラント",
+        "meaning": "【名】レストラン"
+    },
+    {
+        "No": "416",
+        "word": "bookstore",
+        "pronunciation": "búkstɔ̀r",
+        "yomikata": "ブックストァ",
+        "meaning": "【名】書店"
+    },
+    {
+        "No": "417",
+        "word": "flower shop",
+        "pronunciation": "fláuər//ʃɑp",
+        "yomikata": "フラウア シャップ",
+        "meaning": "【名】生花店"
+    },
+    {
+        "No": "418",
+        "word": "gas station",
+        "pronunciation": "gǽs//stéiʃən",
+        "yomikata": "ギャス ステイション",
+        "meaning": "【名】ガソリンスタンド"
+    },
+    {
+        "No": "419",
+        "word": "shrine",
+        "pronunciation": "ʃráin",
+        "yomikata": "シュライン",
+        "meaning": "【名】神社"
+    },
+    {
+        "No": "420",
+        "word": "temple",
+        "pronunciation": "témpl",
+        "yomikata": "テンポウ",
+        "meaning": "【名】寺"
+    },
+    {
+        "No": "421",
+        "word": "castle",
+        "pronunciation": "kǽsl",
+        "yomikata": "キャッスル",
+        "meaning": "【名】城"
+    },
+    {
+        "No": "422",
+        "word": "sun",
+        "pronunciation": "sʌ́n",
+        "yomikata": "サン",
+        "meaning": "【名】太陽"
+    },
+    {
+        "No": "423",
+        "word": "river",
+        "pronunciation": "rívər",
+        "yomikata": "リヴァ",
+        "meaning": "【名】川"
+    },
+    {
+        "No": "424",
+        "word": "sea",
+        "pronunciation": "síː",
+        "yomikata": "スィー",
+        "meaning": "【名】海"
+    },
+    {
+        "No": "425",
+        "word": "beach",
+        "pronunciation": "bíːtʃ",
+        "yomikata": "ビーチ",
+        "meaning": "【名】浜辺"
+    },
+    {
+        "No": "426",
+        "word": "lake",
+        "pronunciation": "léik",
+        "yomikata": "レイク",
+        "meaning": "【名】湖"
+    },
+    {
+        "No": "427",
+        "word": "mountain",
+        "pronunciation": "máuntn",
+        "yomikata": "マウンテン",
+        "meaning": "【名】山"
+    },
+    {
+        "No": "428",
+        "word": "tree",
+        "pronunciation": "tríː",
+        "yomikata": "トゥリー",
+        "meaning": "【名】木"
+    },
+    {
+        "No": "429",
+        "word": "flower",
+        "pronunciation": "fláuər",
+        "yomikata": "フラウア",
+        "meaning": "【名】花"
+    },
+    {
+        "No": "430",
+        "word": "rainbow",
+        "pronunciation": "réinbòu",
+        "yomikata": "レインボゥ",
+        "meaning": "【名】にじ"
+    },
+    {
+        "No": "431",
+        "word": "birthday",
+        "pronunciation": "bə́ːrθdèi",
+        "yomikata": "バースディ",
+        "meaning": "【名】誕生日"
+    },
+    {
+        "No": "432",
+        "word": "New Year’s Day",
+        "pronunciation": "njúː//jíər//déi",
+        "yomikata": "ニュー イヤァーズ デイ",
+        "meaning": "【名】元日"
+    },
+    {
+        "No": "433",
+        "word": "New Year’s Eve",
+        "pronunciation": "njúː//jíər//íːv",
+        "yomikata": "ニュー イヤァーズ イーヴ",
+        "meaning": "【名】大みそか"
+    },
+    {
+        "No": "434",
+        "word": "festival",
+        "pronunciation": "féstəvəl",
+        "yomikata": "フェスティヴォウ",
+        "meaning": "【名】祭り"
+    },
+    {
+        "No": "435",
+        "word": "Snow Festival",
+        "pronunciation": "snou//féstəvəl",
+        "yomikata": "スノウ フェスティヴォウ",
+        "meaning": "【名】雪まつり"
+    },
+    {
+        "No": "436",
+        "word": "Star Festival",
+        "pronunciation": "stɑ́r//féstəvəl",
+        "yomikata": "スター フェスティヴォウ",
+        "meaning": "【名】七夕"
+    },
+    {
+        "No": "437",
+        "word": "Children’s Day",
+        "pronunciation": "tʃíldrən//déi",
+        "yomikata": "チルドゥレンズ デイ",
+        "meaning": "【名】子供の日"
+    },
+    {
+        "No": "438",
+        "word": "Doll’s Festival",
+        "pronunciation": "8/dɑl//féstəvəl",
+        "yomikata": "ダールズ フェスティヴォウ",
+        "meaning": "【名】ひな祭り"
+    },
+    {
+        "No": "439",
+        "word": "bus",
+        "pronunciation": "bʌ́s",
+        "yomikata": "バス",
+        "meaning": "【名】バス"
+    },
+    {
+        "No": "440",
+        "word": "jet",
+        "pronunciation": "dʒét",
+        "yomikata": "ジェット",
+        "meaning": "【名】ジェット機"
+    },
+    {
+        "No": "441",
+        "word": "taxi",
+        "pronunciation": "tǽksi",
+        "yomikata": "タクスィ",
+        "meaning": "【名】タクシー"
+    },
+    {
+        "No": "442",
+        "word": "bicycle",
+        "pronunciation": "báisikl",
+        "yomikata": "バイスィコウ",
+        "meaning": "【名】自転車"
+    },
+    {
+        "No": "443",
+        "word": "unicycle",
+        "pronunciation": "júnesàikəl",
+        "yomikata": "ユニサイクル",
+        "meaning": "【名】一輪車"
+    },
+    {
+        "No": "444",
+        "word": "wheelchair",
+        "pronunciation": "hwíːltʃὲər",
+        "yomikata": "ウィールチェア",
+        "meaning": "【名】車椅子"
+    },
+    {
+        "No": "445",
+        "word": "desk",
+        "pronunciation": "désk",
+        "yomikata": "デスク",
+        "meaning": "【名】机"
+    },
+    {
+        "No": "446",
+        "word": "table",
+        "pronunciation": "téibl",
+        "yomikata": "テイブル",
+        "meaning": "【名】テーブル"
+    },
+    {
+        "No": "447",
+        "word": "chair",
+        "pronunciation": "tʃέər",
+        "yomikata": "チェア",
+        "meaning": "【名】椅子"
+    },
+    {
+        "No": "448",
+        "word": "bed",
+        "pronunciation": "béd",
+        "yomikata": "ベッド",
+        "meaning": "【名】ベッド"
+    },
+    {
+        "No": "449",
+        "word": "TV",
+        "pronunciation": "tíːvíː",
+        "yomikata": "ティーヴィー",
+        "meaning": "【名】テレビ"
+    },
+    {
+        "No": "450",
+        "word": "bath",
+        "pronunciation": "bæθ",
+        "yomikata": "バス",
+        "meaning": "【名】風呂"
+    },
+    {
+        "No": "451",
+        "word": "cap",
+        "pronunciation": "kǽp",
+        "yomikata": "キャプ",
+        "meaning": "【名】（ふちのない）帽子"
+    },
+    {
+        "No": "452",
+        "word": "hat",
+        "pronunciation": "hæt",
+        "yomikata": "ハット",
+        "meaning": "【名】（ふちのある）帽子"
+    },
+    {
+        "No": "453",
+        "word": "gloves",
+        "pronunciation": "glʌ́v",
+        "yomikata": "グラヴズ",
+        "meaning": "【名】手袋"
+    },
+    {
+        "No": "454",
+        "word": "shirt",
+        "pronunciation": "ʃə́ːrt",
+        "yomikata": "シャート",
+        "meaning": "【名】シャツ"
+    },
+    {
+        "No": "455",
+        "word": "T-shirt",
+        "pronunciation": "tíː//ʃə́ːrt",
+        "yomikata": "ティー シャート",
+        "meaning": "【名】Ｔシャツ"
+    },
+    {
+        "No": "456",
+        "word": "sweater",
+        "pronunciation": "swétər",
+        "yomikata": "スウェタァ",
+        "meaning": "【名】セーター"
+    },
+    {
+        "No": "457",
+        "word": "vest",
+        "pronunciation": "vést",
+        "yomikata": "ヴェスト",
+        "meaning": "【名】ベスト"
+    },
+    {
+        "No": "458",
+        "word": "pants",
+        "pronunciation": "pǽn(t)s",
+        "yomikata": "パンツ",
+        "meaning": "【名】ズボン"
+    },
+    {
+        "No": "459",
+        "word": "shorts",
+        "pronunciation": "ʃˈɔrts",
+        "yomikata": "ショーツ",
+        "meaning": "【名】半ズボン"
+    },
+    {
+        "No": "460",
+        "word": "boots",
+        "pronunciation": "búːts",
+        "yomikata": "ブーツ",
+        "meaning": "【名】ブーツ"
+    },
+    {
+        "No": "461",
+        "word": "box",
+        "pronunciation": "bɑks",
+        "yomikata": "バックス",
+        "meaning": "【名】箱"
+    },
+    {
+        "No": "462",
+        "word": "book",
+        "pronunciation": "búk",
+        "yomikata": "ブック",
+        "meaning": "【名】本"
+    },
+    {
+        "No": "463",
+        "word": "bag",
+        "pronunciation": "bǽg",
+        "yomikata": "バッグ",
+        "meaning": "【名】かばん"
+    },
+    {
+        "No": "464",
+        "word": "umbrella",
+        "pronunciation": "ʌmbrélə",
+        "yomikata": "アンブレラ",
+        "meaning": "【名】かさ"
+    },
+    {
+        "No": "465",
+        "word": "clock",
+        "pronunciation": "klɑk",
+        "yomikata": "クラック",
+        "meaning": "【名】時計"
+    },
+    {
+        "No": "466",
+        "word": "watch",
+        "pronunciation": "wɑtʃ",
+        "yomikata": "ワッチ",
+        "meaning": "【名】腕時計"
+    },
+    {
+        "No": "467",
+        "word": "telephone",
+        "pronunciation": "téləfòun",
+        "yomikata": "テレフォウン",
+        "meaning": "【名】電話"
+    },
+    {
+        "No": "468",
+        "word": "computer",
+        "pronunciation": "kəmpjútər",
+        "yomikata": "コンピュータァ",
+        "meaning": "【名】コンピューター"
+    },
+    {
+        "No": "469",
+        "word": "cup",
+        "pronunciation": "kʌp",
+        "yomikata": "カップ",
+        "meaning": "【名】茶わん、カップ"
+    },
+    {
+        "No": "470",
+        "word": "dish",
+        "pronunciation": "díʃ",
+        "yomikata": "ディッシュ",
+        "meaning": "【名】皿"
+    },
+    {
+        "No": "471",
+        "word": "lunch box",
+        "pronunciation": "lʌ́ntʃ//bɑks",
+        "yomikata": "ランチ バックス",
+        "meaning": "【名】お弁当箱"
+    },
+    {
+        "No": "472",
+        "word": "calendar",
+        "pronunciation": "kǽləndər",
+        "yomikata": "キャレンダァ",
+        "meaning": "【名】カレンダー"
+    },
+    {
+        "No": "473",
+        "word": "fan",
+        "pronunciation": "fǽn",
+        "yomikata": "ファン",
+        "meaning": "【名】うちわ"
+    },
+    {
+        "No": "474",
+        "word": "newspaper",
+        "pronunciation": "núːzpèipər",
+        "yomikata": "ニューズペイパァ",
+        "meaning": "【名】新聞"
+    },
+    {
+        "No": "475",
+        "word": "garbage",
+        "pronunciation": "gɑ́rbidʒ",
+        "yomikata": "ガーベッジ",
+        "meaning": "【名】ゴミ"
+    },
+    {
+        "No": "476",
+        "word": "card",
+        "pronunciation": "kɑ́rd",
+        "yomikata": "カード",
+        "meaning": "【名】カード"
+    },
+    {
+        "No": "477",
+        "word": "fireworks",
+        "pronunciation": "fáiərwə̀ːrk",
+        "yomikata": "ファイアワークス",
+        "meaning": "【名】花火"
+    },
+    {
+        "No": "478",
+        "word": "net",
+        "pronunciation": "nét",
+        "yomikata": "ネット",
+        "meaning": "【名】ネット"
+    },
+    {
+        "No": "479",
+        "word": "treasure",
+        "pronunciation": "tréʒər",
+        "yomikata": "トゥレジャー",
+        "meaning": "【名】宝物"
+    },
+    {
+        "No": "480",
+        "word": "homework",
+        "pronunciation": "hóumwə̀ːrk",
+        "yomikata": "ホームワーク",
+        "meaning": "【名】宿題"
+    },
+    {
+        "No": "481",
+        "word": "TV program",
+        "pronunciation": "tíːvíː//próugræm",
+        "yomikata": "ティーヴィー プログラム",
+        "meaning": "【名】テレビ番組"
+    },
+    {
+        "No": "482",
+        "word": "morning",
+        "pronunciation": "mɔ́rniŋ",
+        "yomikata": "モーニング",
+        "meaning": "【名】朝、午前"
+    },
+    {
+        "No": "483",
+        "word": "afternoon",
+        "pronunciation": "æ̀ftərnúːn",
+        "yomikata": "アーフタヌーン",
+        "meaning": "【名】午後"
+    },
+    {
+        "No": "484",
+        "word": "night",
+        "pronunciation": "nait",
+        "yomikata": "ナイト",
+        "meaning": "【名】夜"
+    },
+    {
+        "No": "485",
+        "word": "today/td>",
+        "pronunciation": "tədéi",
+        "yomikata": "トゥデイ",
+        "meaning": "【名】今日"
+    },
+    {
+        "No": "486",
+        "word": "tomorrow",
+        "pronunciation": "təmɑ́rou",
+        "yomikata": "トゥモロウ",
+        "meaning": "【名】明日"
+    },
+    {
+        "No": "487",
+        "word": "right",
+        "pronunciation": "ráit",
+        "yomikata": "ライト",
+        "meaning": "【名】右"
+    },
+    {
+        "No": "488",
+        "word": "left",
+        "pronunciation": "léft",
+        "yomikata": "レフト",
+        "meaning": "【名】左"
+    },
+    {
+        "No": "489",
+        "word": "is",
+        "pronunciation": "iz",
+        "yomikata": "イズ",
+        "meaning": "【動】～です"
+    },
+    {
+        "No": "490",
+        "word": "am",
+        "pronunciation": "əm",
+        "yomikata": "アム",
+        "meaning": "【動】～です"
+    },
+    {
+        "No": "491",
+        "word": "are",
+        "pronunciation": "ɑːr",
+        "yomikata": "アー",
+        "meaning": "【動】～です"
+    },
+    {
+        "No": "492",
+        "word": "do",
+        "pronunciation": "du",
+        "yomikata": "ドゥ",
+        "meaning": "【動】～する"
+    },
+    {
+        "No": "493",
+        "word": "does",
+        "pronunciation": "dəz",
+        "yomikata": "ダズ",
+        "meaning": "【動】～する"
+    },
+    {
+        "No": "494",
+        "word": "speak",
+        "pronunciation": "spiːk",
+        "yomikata": "スピーク",
+        "meaning": "【動】話す"
+    },
+    {
+        "No": "495",
+        "word": "read",
+        "pronunciation": "ríːd",
+        "yomikata": "リード",
+        "meaning": "【動】読む"
+    },
+    {
+        "No": "496",
+        "word": "study",
+        "pronunciation": "stʌ́di",
+        "yomikata": "スタディ",
+        "meaning": "【動】勉強する"
+    },
+    {
+        "No": "497",
+        "word": "like",
+        "pronunciation": "láik",
+        "yomikata": "ライク",
+        "meaning": "【動】好きだ"
+    },
+    {
+        "No": "498",
+        "word": "want",
+        "pronunciation": "wɑnt",
+        "yomikata": "ウァント",
+        "meaning": "【動】ほしい"
+    },
+    {
+        "No": "499",
+        "word": "look",
+        "pronunciation": "lúk",
+        "yomikata": "ルック",
+        "meaning": "【動】見る"
+    },
+    {
+        "No": "500",
+        "word": "walk",
+        "pronunciation": "wɔːk",
+        "yomikata": "ウォーク",
+        "meaning": "【動】歩く・散歩させる"
+    },
+    {
+        "No": "501",
+        "word": "run",
+        "pronunciation": "rʌ́n",
+        "yomikata": "ラン",
+        "meaning": "【動】走る"
+    },
+    {
+        "No": "502",
+        "word": "eat",
+        "pronunciation": "íːt",
+        "yomikata": "イート",
+        "meaning": "【動】食べる"
+    },
+    {
+        "No": "503",
+        "word": "drink",
+        "pronunciation": "dríŋk",
+        "yomikata": "ドゥリンク",
+        "meaning": "【動】飲む"
+    },
+    {
+        "No": "504",
+        "word": "sing",
+        "pronunciation": "siŋ",
+        "yomikata": "スィング",
+        "meaning": "【動】歌う"
+    },
+    {
+        "No": "505",
+        "word": "jump",
+        "pronunciation": "dʒʌmp",
+        "yomikata": "ジャンプ",
+        "meaning": "【動】ジャンプする"
+    },
+    {
+        "No": "506",
+        "word": "dance",
+        "pronunciation": "dæns",
+        "yomikata": "ダンス",
+        "meaning": "【動】おどる"
+    },
+    {
+        "No": "507",
+        "word": "stop",
+        "pronunciation": "stɑ́p",
+        "yomikata": "スタップ",
+        "meaning": "【動】止まる"
+    },
+    {
+        "No": "508",
+        "word": "buy",
+        "pronunciation": "bái",
+        "yomikata": "バイ",
+        "meaning": "【動】買う"
+    },
+    {
+        "No": "509",
+        "word": "see",
+        "pronunciation": "síː",
+        "yomikata": "スィー",
+        "meaning": "【動】見える、（人に）会う"
+    },
+    {
+        "No": "510",
+        "word": "cook",
+        "pronunciation": "kúk",
+        "yomikata": "クック",
+        "meaning": "【動】料理する"
+    },
+    {
+        "No": "511",
+        "word": "watch",
+        "pronunciation": "wɑtʃ",
+        "yomikata": "ワッチ",
+        "meaning": "【動】（じっと）見る"
+    },
+    {
+        "No": "512",
+        "word": "teach",
+        "pronunciation": "tíːtʃ",
+        "yomikata": "ティーチ",
+        "meaning": "【動】教える"
+    },
+    {
+        "No": "513",
+        "word": "meet",
+        "pronunciation": "míːt",
+        "yomikata": "ミート",
+        "meaning": "【動】会う"
+    },
+    {
+        "No": "514",
+        "word": "play",
+        "pronunciation": "pléi",
+        "yomikata": "プレイ",
+        "meaning": "【動】（スポーツを）する、演奏する"
+    },
+    {
+        "No": "515",
+        "word": "get",
+        "pronunciation": "get",
+        "yomikata": "ゲット",
+        "meaning": "【動】手に入れる"
+    },
+    {
+        "No": "516",
+        "word": "make",
+        "pronunciation": "méik",
+        "yomikata": "メイク",
+        "meaning": "【動】作る"
+    },
+    {
+        "No": "517",
+        "word": "put",
+        "pronunciation": "pút",
+        "yomikata": "プット",
+        "meaning": "【動】置く"
+    },
+    {
+        "No": "518",
+        "word": "sound",
+        "pronunciation": "sáund",
+        "yomikata": "サウンド",
+        "meaning": "【動】～に聞こえる"
+    },
+    {
+        "No": "519",
+        "word": "clean",
+        "pronunciation": "kliːn",
+        "yomikata": "クリーン",
+        "meaning": "【動】そうじする"
+    },
+    {
+        "No": "520",
+        "word": "wash",
+        "pronunciation": "wɔʃ",
+        "yomikata": "ウォシュ",
+        "meaning": "【動】洗う"
+    },
+    {
+        "No": "521",
+        "word": "leave",
+        "pronunciation": "líːv",
+        "yomikata": "リーヴ",
+        "meaning": "【動】去る、出発する"
+    },
+    {
+        "No": "522",
+        "word": "ride",
+        "pronunciation": "ráid",
+        "yomikata": "ライド",
+        "meaning": "【動】乗る"
+    },
+    {
+        "No": "523",
+        "word": "turn",
+        "pronunciation": "tə́ːrn",
+        "yomikata": "ターン",
+        "meaning": "【動】曲がる"
+    },
+    {
+        "No": "524",
+        "word": "check",
+        "pronunciation": "tʃék",
+        "yomikata": "チェック",
+        "meaning": "【動】確認する"
+    },
+    {
+        "No": "525",
+        "word": "brush",
+        "pronunciation": "brʌ́ʃ",
+        "yomikata": "ブラッシュ",
+        "meaning": "【動】みがく"
+    },
+    {
+        "No": "526",
+        "word": "practice",
+        "pronunciation": "prǽktis",
+        "yomikata": "プラクティス",
+        "meaning": "【動】練習する"
+    },
+    {
+        "No": "527",
+        "word": "swim",
+        "pronunciation": "swim",
+        "yomikata": "スウィム",
+        "meaning": "【動】泳ぐ"
+    },
+    {
+        "No": "528",
+        "word": "ski",
+        "pronunciation": "skíː",
+        "yomikata": "スキー",
+        "meaning": "【動】スキーをする"
+    },
+    {
+        "No": "529",
+        "word": "skate",
+        "pronunciation": "skéit",
+        "yomikata": "スケイト",
+        "meaning": "【動】スケートをする"
+    },
+    {
+        "No": "530",
+        "word": "good",
+        "pronunciation": "gúd",
+        "yomikata": "グッド",
+        "meaning": "【形】よい、上手な"
+    },
+    {
+        "No": "531",
+        "word": "fine",
+        "pronunciation": "fáin",
+        "yomikata": "ファイン",
+        "meaning": "【形】けっこうな、元気な"
+    },
+    {
+        "No": "532",
+        "word": "nice",
+        "pronunciation": "náis",
+        "yomikata": "ナイス",
+        "meaning": "【形】すてきな"
+    },
+    {
+        "No": "533",
+        "word": "great",
+        "pronunciation": "gréit",
+        "yomikata": "グレイト",
+        "meaning": "【形】すばらしい"
+    },
+    {
+        "No": "534",
+        "word": "wonderful",
+        "pronunciation": "wʌ́ndərfl",
+        "yomikata": "ワンダフォウ",
+        "meaning": "【形】すばらしい"
+    },
+    {
+        "No": "535",
+        "word": "fantastic",
+        "pronunciation": "fæntǽstik",
+        "yomikata": "ファンタスティク",
+        "meaning": "【形】すばらしい"
+    },
+    {
+        "No": "536",
+        "word": "big",
+        "pronunciation": "bíg",
+        "yomikata": "ビッグ",
+        "meaning": "【形】大きい"
+    },
+    {
+        "No": "537",
+        "word": "small",
+        "pronunciation": "smɔl",
+        "yomikata": "スモール",
+        "meaning": "【形】小さい"
+    },
+    {
+        "No": "538",
+        "word": "long",
+        "pronunciation": "lɑ́ːŋ",
+        "yomikata": "ロング",
+        "meaning": "【形】長い"
+    },
+    {
+        "No": "539",
+        "word": "short",
+        "pronunciation": "ʃɔrt",
+        "yomikata": "ショート",
+        "meaning": "【形】短い"
+    },
+    {
+        "No": "540",
+        "word": "high",
+        "pronunciation": "hái",
+        "yomikata": "ハイ",
+        "meaning": "【形】高い"
+    },
+    {
+        "No": "541",
+        "word": "hard",
+        "pronunciation": "hɑ́rd",
+        "yomikata": "ハード",
+        "meaning": "【形】難しい"
+    },
+    {
+        "No": "542",
+        "word": "soft",
+        "pronunciation": "sɔft",
+        "yomikata": "ソフト",
+        "meaning": "【形】やわらかい"
+    },
+    {
+        "No": "543",
+        "word": "new",
+        "pronunciation": "njúː",
+        "yomikata": "ニュー",
+        "meaning": "【形】新しい"
+    },
+    {
+        "No": "544",
+        "word": "old",
+        "pronunciation": "óuld",
+        "yomikata": "オウルド",
+        "meaning": "【形】古い"
+    },
+    {
+        "No": "545",
+        "word": "many",
+        "pronunciation": "méni",
+        "yomikata": "メニィ",
+        "meaning": "【形】たくさんの"
+    },
+    {
+        "No": "546",
+        "word": "much",
+        "pronunciation": "mʌ́tʃ",
+        "yomikata": "マッチ",
+        "meaning": "【形】たくさんの"
+    },
+    {
+        "No": "547",
+        "word": "special",
+        "pronunciation": "spéʃəl",
+        "yomikata": "スペシャル",
+        "meaning": "【形】特別な"
+    },
+    {
+        "No": "548",
+        "word": "beautiful",
+        "pronunciation": "bjúːtəfl",
+        "yomikata": "ビューティフル",
+        "meaning": "【形】美しい"
+    },
+    {
+        "No": "549",
+        "word": "exciting",
+        "pronunciation": "iksáitiŋ",
+        "yomikata": "イクサイティング",
+        "meaning": "【形】わくわくさせる"
+    },
+    {
+        "No": "550",
+        "word": "fun",
+        "pronunciation": "fʌ́n",
+        "yomikata": "ファン",
+        "meaning": "【形】たのしい、おもしろい"
+    },
+    {
+        "No": "551",
+        "word": "hot",
+        "pronunciation": "hɑ́t",
+        "yomikata": "ハット",
+        "meaning": "【形】暑い、熱い、からい"
+    },
+    {
+        "No": "552",
+        "word": "cold",
+        "pronunciation": "kould",
+        "yomikata": "カウルド",
+        "meaning": "【形】寒い、冷たい"
+    },
+    {
+        "No": "553",
+        "word": "cool",
+        "pronunciation": "kúːl",
+        "yomikata": "クール",
+        "meaning": "【形】すずしい"
+    },
+    {
+        "No": "554",
+        "word": "happy",
+        "pronunciation": "hǽpi",
+        "yomikata": "ハッピィ",
+        "meaning": "【形】幸せな"
+    },
+    {
+        "No": "555",
+        "word": "sorry",
+        "pronunciation": "sɔ́ri",
+        "yomikata": "ソリィ",
+        "meaning": "【形】すまないと思って"
+    },
+    {
+        "No": "556",
+        "word": "sad",
+        "pronunciation": "sǽd",
+        "yomikata": "サッド",
+        "meaning": "【形】悲しい"
+    },
+    {
+        "No": "557",
+        "word": "sleepy",
+        "pronunciation": "slíːpi",
+        "yomikata": "スリーピィ",
+        "meaning": "【形】ねむい"
+    },
+    {
+        "No": "558",
+        "word": "tired",
+        "pronunciation": "táiərd",
+        "yomikata": "タイアド",
+        "meaning": "【形】つかれた"
+    },
+    {
+        "No": "559",
+        "word": "hungry",
+        "pronunciation": "hʌ́ŋgri",
+        "yomikata": "ハングリィ",
+        "meaning": "【形】空腹の"
+    },
+    {
+        "No": "560",
+        "word": "busy",
+        "pronunciation": "bízi",
+        "yomikata": "ビィズィー",
+        "meaning": "【形】いそがしい"
+    },
+    {
+        "No": "561",
+        "word": "kind",
+        "pronunciation": "káind",
+        "yomikata": "カインド",
+        "meaning": "【形】親切な"
+    },
+    {
+        "No": "562",
+        "word": "friendly",
+        "pronunciation": "fréndli",
+        "yomikata": "フレンドゥリィ",
+        "meaning": "【形】友好的な"
+    },
+    {
+        "No": "563",
+        "word": "gentle",
+        "pronunciation": "dʒéntl",
+        "yomikata": "ジェントゥル",
+        "meaning": "【形】やさしい"
+    },
+    {
+        "No": "564",
+        "word": "active",
+        "pronunciation": "ǽktiv",
+        "yomikata": "アクティヴ",
+        "meaning": "【形】活動的な"
+    },
+    {
+        "No": "565",
+        "word": "brave",
+        "pronunciation": "bréiv",
+        "yomikata": "ヴレイブ",
+        "meaning": "【形】勇かんな"
+    },
+    {
+        "No": "566",
+        "word": "delicious",
+        "pronunciation": "dilíʃəs",
+        "yomikata": "ディリシャス",
+        "meaning": "【形】とてもおいしい"
+    },
+    {
+        "No": "567",
+        "word": "sweet",
+        "pronunciation": "swiːt",
+        "yomikata": "スウィート",
+        "meaning": "【形】あまい"
+    },
+    {
+        "No": "568",
+        "word": "salty",
+        "pronunciation": "sɔ́lti",
+        "yomikata": "ソルティ",
+        "meaning": "【形】塩からい"
+    },
+    {
+        "No": "569",
+        "word": "sour",
+        "pronunciation": "saur",
+        "yomikata": "サウア",
+        "meaning": "【形】すっぱい"
+    },
+    {
+        "No": "570",
+        "word": "bitter",
+        "pronunciation": "bítər",
+        "yomikata": "ビタァ",
+        "meaning": "【形】苦い"
+    },
+    {
+        "No": "571",
+        "word": "yummy",
+        "pronunciation": "jʌ́mi",
+        "yomikata": "ヤミィ",
+        "meaning": "【形】おいしい、すばらしい"
+    },
+    {
+        "No": "572",
+        "word": "cloudy",
+        "pronunciation": "kláudi",
+        "yomikata": "クラウディ",
+        "meaning": "【形】くもりの"
+    },
+    {
+        "No": "573",
+        "word": "rainy",
+        "pronunciation": "réini",
+        "yomikata": "レイニィ",
+        "meaning": "【形】雨降りの"
+    },
+    {
+        "No": "574",
+        "word": "snowy",
+        "pronunciation": "snóui",
+        "yomikata": "スノウイ",
+        "meaning": "【形】雪降りの"
+    },
+    {
+        "No": "575",
+        "word": "sunny",
+        "pronunciation": "sʌ́ni",
+        "yomikata": "サニィ",
+        "meaning": "【形】晴れた"
+    },
+    {
+        "No": "576",
+        "word": "not",
+        "pronunciation": "nɑt",
+        "yomikata": "ナット",
+        "meaning": "【副】～でない"
+    },
+    {
+        "No": "577",
+        "word": "up",
+        "pronunciation": "ʌ́p",
+        "yomikata": "アップ",
+        "meaning": "【副】上へ"
+    },
+    {
+        "No": "578",
+        "word": "down",
+        "pronunciation": "dáun",
+        "yomikata": "ダウン",
+        "meaning": "【副】下へ"
+    },
+    {
+        "No": "579",
+        "word": "right",
+        "pronunciation": "ráit",
+        "yomikata": "ライト",
+        "meaning": "【副】右へ"
+    },
+    {
+        "No": "580",
+        "word": "left",
+        "pronunciation": "léft",
+        "yomikata": "レフト",
+        "meaning": "【副】左へ"
+    },
+    {
+        "No": "581",
+        "word": "here",
+        "pronunciation": "híər",
+        "yomikata": "ヒヤ",
+        "meaning": "【副】ここで"
+    },
+    {
+        "No": "582",
+        "word": "outside",
+        "pronunciation": "àutsáid",
+        "yomikata": "アウトサイド",
+        "meaning": "【副】外で"
+    },
+    {
+        "No": "583",
+        "word": "straight",
+        "pronunciation": "stréit",
+        "yomikata": "ストレイト",
+        "meaning": "【副】まっすぐに"
+    },
+    {
+        "No": "584",
+        "word": "very",
+        "pronunciation": "véri",
+        "yomikata": "ヴェリィ",
+        "meaning": "【副】とても"
+    },
+    {
+        "No": "585",
+        "word": "well",
+        "pronunciation": "wél",
+        "yomikata": "ウェル",
+        "meaning": "【副】上手に、よく"
+    },
+    {
+        "No": "586",
+        "word": "so",
+        "pronunciation": "sóu",
+        "yomikata": "ソゥ",
+        "meaning": "【副】そのように、とても"
+    },
+    {
+        "No": "587",
+        "word": "always",
+        "pronunciation": "ɔ́lweiz",
+        "yomikata": "オルウェイズ",
+        "meaning": "【副】いつも"
+    },
+    {
+        "No": "588",
+        "word": "usually",
+        "pronunciation": "júːʒuəli",
+        "yomikata": "ユージュアリィ",
+        "meaning": "【副】ふつうは、たいていは"
+    },
+    {
+        "No": "589",
+        "word": "sometimes",
+        "pronunciation": "sʌ́mtàimz",
+        "yomikata": "サムタイムズ",
+        "meaning": "【副】ときどき"
+    },
+    {
+        "No": "590",
+        "word": "never",
+        "pronunciation": "névər",
+        "yomikata": "ネヴァ",
+        "meaning": "【副】決して～ない"
+    },
+    {
+        "No": "591",
+        "word": "together",
+        "pronunciation": "təgéðər",
+        "yomikata": "トゥゲザァ",
+        "meaning": "【副】一緒に"
+    },
+    {
+        "No": "592",
+        "word": "when",
+        "pronunciation": "hwén",
+        "yomikata": "ホウェン",
+        "meaning": "【副詞】いつ"
+    },
+    {
+        "No": "593",
+        "word": "where",
+        "pronunciation": "hwέər",
+        "yomikata": "ホウェア",
+        "meaning": "【副詞】どこに"
+    },
+    {
+        "No": "594",
+        "word": "how",
+        "pronunciation": "háu",
+        "yomikata": "ハウ",
+        "meaning": "【副詞】どのようにして"
+    },
+    {
+        "No": "595",
+        "word": "why",
+        "pronunciation": "hwái",
+        "yomikata": "ホワイ",
+        "meaning": "【副詞】なぜ"
+    },
+    {
+        "No": "596",
+        "word": "then",
+        "pronunciation": "ðén",
+        "yomikata": "ゼン",
+        "meaning": "【副詞】その時、それなら"
+    },
+    {
+        "No": "597",
+        "word": "for",
+        "pronunciation": "fɔ́r",
+        "yomikata": "フォァ",
+        "meaning": "【前】～のために"
+    },
+    {
+        "No": "598",
+        "word": "from",
+        "pronunciation": "frəm",
+        "yomikata": "フロム",
+        "meaning": "【前】～から"
+    },
+    {
+        "No": "599",
+        "word": "in",
+        "pronunciation": "in",
+        "yomikata": "イン",
+        "meaning": "【前】～の中に"
+    },
+    {
+        "No": "600",
+        "word": "on",
+        "pronunciation": "ɔn",
+        "yomikata": "オン",
+        "meaning": "【前】～の上に"
+    },
+    {
+        "No": "601",
+        "word": "under",
+        "pronunciation": "ʌ́ndər",
+        "yomikata": "アンダァ",
+        "meaning": "【前】～の下に"
+    },
+    {
+        "No": "602",
+        "word": "about",
+        "pronunciation": "əbáut",
+        "yomikata": "アバウト",
+        "meaning": "【前】～について"
+    },
+    {
+        "No": "603",
+        "word": "by",
+        "pronunciation": "bái",
+        "yomikata": "バイ",
+        "meaning": "【前】～によって、～のそばに"
+    },
+    {
+        "No": "604",
+        "word": "I",
+        "pronunciation": "ái",
+        "yomikata": "アイ",
+        "meaning": "【代名詞】私"
+    },
+    {
+        "No": "605",
+        "word": "my",
+        "pronunciation": "mái",
+        "yomikata": "マイ",
+        "meaning": "【代名詞】私の"
+    },
+    {
+        "No": "606",
+        "word": "me",
+        "pronunciation": "míː",
+        "yomikata": "ミー",
+        "meaning": "【代名詞】私を"
+    },
+    {
+        "No": "607",
+        "word": "you",
+        "pronunciation": "júː",
+        "yomikata": "ユー",
+        "meaning": "【代名詞】あなた"
+    },
+    {
+        "No": "608",
+        "word": "your",
+        "pronunciation": "júər",
+        "yomikata": "ユア",
+        "meaning": "【代名詞】あなたの"
+    },
+    {
+        "No": "609",
+        "word": "you",
+        "pronunciation": "júː",
+        "yomikata": "ユー",
+        "meaning": "【代名詞】あなたを"
+    },
+    {
+        "No": "610",
+        "word": "we",
+        "pronunciation": "wíː",
+        "yomikata": "ウィー",
+        "meaning": "【代名詞】私たち"
+    },
+    {
+        "No": "611",
+        "word": "our",
+        "pronunciation": "áuər",
+        "yomikata": "アワー",
+        "meaning": "【代名詞】私たちの"
+    },
+    {
+        "No": "612",
+        "word": "us",
+        "pronunciation": "ʌ́s",
+        "yomikata": "アス",
+        "meaning": "【代名詞】私たちを"
+    },
+    {
+        "No": "613",
+        "word": "he",
+        "pronunciation": "híː",
+        "yomikata": "ヒー",
+        "meaning": "【代名詞】彼"
+    },
+    {
+        "No": "614",
+        "word": "his",
+        "pronunciation": "híz",
+        "yomikata": "ヒズ",
+        "meaning": "【代名詞】彼の"
+    },
+    {
+        "No": "615",
+        "word": "him",
+        "pronunciation": "hím",
+        "yomikata": "ヒム",
+        "meaning": "【代名詞】彼を"
+    },
+    {
+        "No": "616",
+        "word": "she",
+        "pronunciation": "ʃíː",
+        "yomikata": "シー",
+        "meaning": "【代名詞】彼女"
+    },
+    {
+        "No": "617",
+        "word": "her",
+        "pronunciation": "hə́ːr",
+        "yomikata": "ハー",
+        "meaning": "【代名詞】彼女の"
+    },
+    {
+        "No": "618",
+        "word": "her",
+        "pronunciation": "hə́ːr",
+        "yomikata": "ハー",
+        "meaning": "【代名詞】彼女を"
+    },
+    {
+        "No": "619",
+        "word": "they",
+        "pronunciation": "ðéi",
+        "yomikata": "ゼイ",
+        "meaning": "【代名詞】彼ら"
+    },
+    {
+        "No": "620",
+        "word": "their",
+        "pronunciation": "ðέər",
+        "yomikata": "ゼア",
+        "meaning": "【代名詞】彼らの"
+    },
+    {
+        "No": "621",
+        "word": "them",
+        "pronunciation": "ðém",
+        "yomikata": "ゼム",
+        "meaning": "【代名詞】彼らを"
+    },
+    {
+        "No": "622",
+        "word": "it",
+        "pronunciation": "ít",
+        "yomikata": "イット",
+        "meaning": "【代名詞】それ"
+    },
+    {
+        "No": "623",
+        "word": "this",
+        "pronunciation": "ðís",
+        "yomikata": "ジス",
+        "meaning": "【代名詞】これ"
+    },
+    {
+        "No": "624",
+        "word": "that",
+        "pronunciation": "ðǽt",
+        "yomikata": "ザット",
+        "meaning": "【代名詞】あれ"
+    },
+    {
+        "No": "625",
+        "word": "what",
+        "pronunciation": "hwʌ́t",
+        "yomikata": "ホワット",
+        "meaning": "【代名詞】何"
+    },
+    {
+        "No": "626",
+        "word": "who",
+        "pronunciation": "húː",
+        "yomikata": "フー",
+        "meaning": "【代名詞】誰"
+    },
+    {
+        "No": "627",
+        "word": "hi",
+        "pronunciation": "hái",
+        "yomikata": "ハイ",
+        "meaning": "【間投詞】やあ"
+    },
+    {
+        "No": "628",
+        "word": "hello",
+        "pronunciation": "helóu",
+        "yomikata": "ヘロゥ",
+        "meaning": "【間投詞】こんにちは"
+    },
+    {
+        "No": "629",
+        "word": "yes",
+        "pronunciation": "jes",
+        "yomikata": "イェス",
+        "meaning": "【間投詞】そうです"
+    },
+    {
+        "No": "630",
+        "word": "no",
+        "pronunciation": "nóu",
+        "yomikata": "ノゥ",
+        "meaning": "【間投詞】いいえ"
+    },
+    {
+        "No": "631",
+        "word": "oh",
+        "pronunciation": "óu",
+        "yomikata": "オゥ",
+        "meaning": "【間投詞】おや"
+    },
+    {
+        "No": "632",
+        "word": "wow",
+        "pronunciation": "wáu",
+        "yomikata": "わあ！",
+        "meaning": "【間投詞】ええと"
+    },
+    {
+        "No": "633",
+        "word": "well",
+        "pronunciation": "wél",
+        "yomikata": "ウエル",
+        "meaning": "【間投詞】ええと"
+    },
+    {
+        "No": "634",
+        "word": "OK",
+        "pronunciation": "òukéi",
+        "yomikata": "オウケイ",
+        "meaning": "【間投詞】いいよ"
+    },
+    {
+        "No": "635",
+        "word": "bye",
+        "pronunciation": "bái",
+        "yomikata": "バイ",
+        "meaning": "【間投詞】さようなら"
+    },
+    {
+        "No": "636",
+        "word": "goodbye",
+        "pronunciation": "gùdbái",
+        "yomikata": "グッドバイ",
+        "meaning": "【間投詞】さようなら"
+    },
+    {
+        "No": "637",
+        "word": "let’s",
+        "pronunciation": "léts",
+        "yomikata": "レッツ",
+        "meaning": "【省略形】= let us ～しよう"
+    },
+    {
+        "No": "638",
+        "word": "and",
+        "pronunciation": "ən(d)",
+        "yomikata": "アンド",
+        "meaning": "【接続詞】～と…"
+    },
+    {
+        "No": "639",
+        "word": "but",
+        "pronunciation": "bət",
+        "yomikata": "バット",
+        "meaning": "【接続詞】しかし"
+    },
+    {
+        "No": "640",
+        "word": "can",
+        "pronunciation": "kæn",
+        "yomikata": "キャン",
+        "meaning": "【助動詞】～できる"
+    }
+]

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>中学接続詞英語テスト</title>
+    <style>
+        :root { --primary-color: #1a73e8; --bg-color: #f0f4f8; }
+        body { font-family: 'Helvetica Neue', Arial, sans-serif; display: flex; justify-content: center; padding: 20px; background: var(--bg-color); margin: 0; }
+        .container { background: white; padding: 25px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); width: 100%; max-width: 500px; }
+        
+        /* 진행바 */
+        .progress-container { width: 100%; background-color: #eee; border-radius: 10px; margin-bottom: 25px; }
+        .progress-bar { width: 0%; height: 10px; background-color: #4caf50; border-radius: 10px; transition: width 0.3s; }
+
+        /* 문제 화면 */
+        .quiz-box { text-align: center; }
+        .word-display { font-size: 42px; font-weight: bold; color: var(--primary-color); margin-bottom: 10px; }
+        .info-display { color: #888; font-size: 15px; margin-bottom: 30px; }
+        
+        .options-list { display: flex; flex-direction: column; gap: 12px; }
+        .option-btn { 
+            padding: 18px 25px; background: #fff; border: 2px solid #dee2e6; border-radius: 12px; 
+            cursor: pointer; font-size: 17px; text-align: left; font-weight: 500; transition: 0.2s; 
+        }
+        .option-btn:hover { background: #f0f7ff; border-color: var(--primary-color); }
+
+        /* 결과 테이블 */
+        .review-table { width: 100%; border-collapse: collapse; margin-top: 25px; font-size: 14px; }
+        .review-table th, .review-table td { padding: 12px 8px; border-bottom: 1px solid #eee; text-align: left; }
+        .status-ok { color: #28a745; font-weight: bold; }
+        .status-ng { color: #dc3545; font-weight: bold; }
+
+        /* 하단 버튼 */
+        .action-buttons { display: flex; flex-direction: column; gap: 12px; margin-top: 30px; }
+        .btn { 
+            padding: 16px; border: none; border-radius: 12px; font-size: 18px; font-weight: bold; 
+            cursor: pointer; transition: 0.2s; display: flex; align-items: center; justify-content: center; text-decoration: none;
+        }
+        .btn-restart { background: var(--primary-color); color: white; }
+        .btn-home { background: #6c757d; color: white; }
+        .btn:active { transform: scale(0.98); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div id="quiz-app">
+        <div class="progress-container"><div id="progress-bar" class="progress-bar"></div></div>
+        <div id="content">
+            <p style="text-align: center;">データを読み込み中...</p>
+        </div>
+    </div>
+</div>
+
+<script>
+    let allWords = [], quizSet = [], userAnswers = [], currentIdx = 0, score = 0;
+
+    // JSON 데이터 로드
+    fetch('../data/data2-8.json')
+        .then(res => res.json())
+        .then(data => {
+            allWords = data;
+            initQuiz();
+        })
+        .catch(() => { document.getElementById('content').innerHTML = "データを読み込みできませんでした"; });
+
+    function initQuiz() {
+        quizSet = [...allWords].sort(() => 0.5 - Math.random()).slice(0, 10);
+        userAnswers = []; currentIdx = 0; score = 0;
+        showQuestion();
+    }
+
+    function showQuestion() {
+        const item = quizSet[currentIdx];
+        document.getElementById('progress-bar').style.width = (currentIdx / 10) * 100 + "%";
+
+        let distractors = allWords
+            .filter(w => w.word !== item.word)
+            .sort(() => 0.5 - Math.random())
+            .slice(0, 3).map(w => w.meaning);
+
+        let options = [item.meaning, ...distractors].sort(() => 0.5 - Math.random());
+
+        document.getElementById('content').innerHTML = `
+            <div class="quiz-box">
+                <div class="word-display">${item.word}</div>
+                <div class="options-list">
+                    ${options.map((opt, i) => `
+                        <button class="option-btn" onclick="nextStep('${opt.replace(/'/g, "\\'")}','${item.meaning.replace(/'/g, "\\")}')">
+                            ${i + 1}. ${opt}
+                        </button>
+                    `).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    function nextStep(selected, correct) {
+        userAnswers.push({ word: quizSet[currentIdx].word, selected, correct, isCorrect: selected === correct });
+        if (selected === correct) score++;
+        if (++currentIdx < 10) showQuestion(); else showFinalResult();
+    }
+
+    function showFinalResult() {
+        document.getElementById('progress-bar').style.width = "100%";
+        const finalScore = score * 10;
+        const profileId = localStorage.getItem('current_profile_id');
+
+        // 점수 저장
+        if(profileId) {
+            const history = JSON.parse(localStorage.getItem('quiz_history') || '[]');
+            history.push({ profileId, title: "中学接続詞", score: finalScore, date: new Date().toLocaleString() });
+            localStorage.setItem('quiz_history', JSON.stringify(history));
+        }
+
+        let rows = userAnswers.map(ans => `
+            <tr>
+                <td>${ans.word}</td>
+                <td class="${ans.isCorrect ? 'status-ok' : 'status-ng'}">${ans.isCorrect ? '○' : '×'}</td>
+                <td>${ans.selected}${!ans.isCorrect ? '<br><small style="color:#1a73e8;">正解: '+ans.correct+'</small>' : ''}</td>
+            </tr>
+        `).join('');
+
+        document.getElementById('content').innerHTML = `
+            <div style="text-align:center;">
+                <h2 style="font-size:40px; color:var(--primary-color); margin: 10px 0;">${finalScore}点</h2>
+                <p>10問中 ${score}問 正解しました！</p>
+                <table class="review-table">
+                    <thead><tr><th>単語</th><th>判定</th><th>回答</th></tr></thead>
+                    <tbody>${rows}</tbody>
+                </table>
+                <div class="action-buttons">
+                    <button class="btn btn-restart" onclick="initQuiz()">🔄 もう一度解く</button>
+                    <button class="btn btn-home" onclick="location.href='../index.html'">🏠 ホームに戻る</button>
+                </div>
+            </div>
+        `;
+    }
+</script>
+
+</body>
+</html>

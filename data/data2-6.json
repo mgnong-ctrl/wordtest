@@ -1,0 +1,742 @@
+[
+    {
+        "No": "1",
+        "word": "a.m",
+        "meaning": "午前 〔6:45a.m.のように、時刻の後に付ける〕"
+    },
+    {
+        "No": "2",
+        "word": "about",
+        "meaning": "【副】約～、およそ～、だいたい、ほぼ"
+    },
+    {
+        "No": "3",
+        "word": "abroad",
+        "meaning": "【副】外国に［へ、で］"
+    },
+    {
+        "No": "4",
+        "word": "across",
+        "meaning": "【副】横切って、横断して、向こう側に"
+    },
+    {
+        "No": "5",
+        "word": "actually",
+        "meaning": "【副】実際に(は)"
+    },
+    {
+        "No": "6",
+        "word": "again",
+        "meaning": "【副】ふたたび、もう一度、また、≪否定文で≫二度と"
+    },
+    {
+        "No": "7",
+        "word": "ago",
+        "meaning": "【副】（今から） ～前（に）"
+    },
+    {
+        "No": "8",
+        "word": "ahead",
+        "meaning": "【副】～の前方に"
+    },
+    {
+        "No": "9",
+        "word": "all",
+        "meaning": "【副】1. 〔all over～ の形で〕　～の至る所で、～一面に 2. 〔all right の形で〕だいじょうぶな 3. 〔All right の形で〕 よろしい。わかった。了解した。 4. まったく、すっかり、すべて   〔all alone の形で〕 １人ぼっちの 5. [all about～の形で] ～次第"
+    },
+    {
+        "No": "10",
+        "word": "all right",
+        "meaning": "【副】よろしい、わかった、了解した"
+    },
+    {
+        "No": "11",
+        "word": "almost",
+        "meaning": "【副】ほとんど"
+    },
+    {
+        "No": "12",
+        "word": "alone",
+        "meaning": "【副】1人で"
+    },
+    {
+        "No": "13",
+        "word": "already",
+        "meaning": "【副】〔ふつうは肯定文で〕すでに、もう"
+    },
+    {
+        "No": "14",
+        "word": "also",
+        "meaning": "【副】〔ふつうは一般動詞の直前、be動詞・助動詞のあとに用いて〕 ～も（また）"
+    },
+    {
+        "No": "15",
+        "word": "always",
+        "meaning": "【副】いつも、常に"
+    },
+    {
+        "No": "16",
+        "word": "any",
+        "meaning": "【副】[not ～ any moreの形で]　もう～ない"
+    },
+    {
+        "No": "17",
+        "word": "anymore",
+        "meaning": "【副】〔否定文・疑問文で〕今（で）はもう・・・（でない）"
+    },
+    {
+        "No": "18",
+        "word": "anytime",
+        "meaning": "【副】いつでも"
+    },
+    {
+        "No": "19",
+        "word": "anyway",
+        "meaning": "【副】とにかく"
+    },
+    {
+        "No": "20",
+        "word": "anywhere",
+        "meaning": "【副】どこでも"
+    },
+    {
+        "No": "21",
+        "word": "around",
+        "meaning": "【副】1. ひとまわりして、巡って 、〔たとえば pass around ～の形で〕　～を順々に回す 2. 近くに、あたりに 3. あちこち、ぐるりと 〔たとえば run around の形で〕 走り回る 4. およそ、約～、～ごろ、～くらい"
+    },
+    {
+        "No": "22",
+        "word": "as",
+        "meaning": "【副】《比較を表して》 〔 as A as B の形で、あとの as が接続詞 〕　Ｂと同じくらいＡな［で］"
+    },
+    {
+        "No": "23",
+        "word": "away",
+        "meaning": "【副】離れて、去って、向こうへ"
+    },
+    {
+        "No": "24",
+        "word": "back",
+        "meaning": "【副】戻って、もとの所に、戻して、かえって"
+    },
+    {
+        "No": "25",
+        "word": "before",
+        "meaning": "【副】以前に、前に、すでに"
+    },
+    {
+        "No": "26",
+        "word": "below",
+        "meaning": "【副】下の（に、を）　〔below zeroで〕氷点下"
+    },
+    {
+        "No": "27",
+        "word": "best",
+        "meaning": "【副】〔wellの最上級〕最も上手に、最もよく"
+    },
+    {
+        "No": "28",
+        "word": "better",
+        "meaning": "【副】〔well の比較級〕よりよく、より上手に"
+    },
+    {
+        "No": "29",
+        "word": "both",
+        "meaning": "【副】〔both A and B の形で〕 ＡもＢも両方とも"
+    },
+    {
+        "No": "30",
+        "word": "calmly",
+        "meaning": "【副】静かに"
+    },
+    {
+        "No": "31",
+        "word": "carefully",
+        "meaning": "【副】注意深く"
+    },
+    {
+        "No": "32",
+        "word": "certainly",
+        "meaning": "【副】確かに、きっと"
+    },
+    {
+        "No": "33",
+        "word": "certainly",
+        "meaning": "【副】もちろん、承知しました"
+    },
+    {
+        "No": "34",
+        "word": "cheerfully",
+        "meaning": "【副】元気よく、楽しそうに"
+    },
+    {
+        "No": "35",
+        "word": "clearly",
+        "meaning": "【副】はっきり（と）"
+    },
+    {
+        "No": "36",
+        "word": "close",
+        "meaning": "【副】すぐ近くで、接近して、ぴったりと"
+    },
+    {
+        "No": "37",
+        "word": "closely",
+        "meaning": "【副】じっと、一心に"
+    },
+    {
+        "No": "38",
+        "word": "deeply",
+        "meaning": "【副】深く"
+    },
+    {
+        "No": "39",
+        "word": "differently",
+        "meaning": "【副】（～と）異なって"
+    },
+    {
+        "No": "40",
+        "word": "down",
+        "meaning": "【副】1. 下へ［に］、下の方へ［に］ 2. 落ち着いて"
+    },
+    {
+        "No": "41",
+        "word": "downstairs",
+        "meaning": "【副】階下へ（に、で）"
+    },
+    {
+        "No": "42",
+        "word": "early",
+        "meaning": "【副】(時間や時期が) 早く"
+    },
+    {
+        "No": "43",
+        "word": "easily",
+        "meaning": "【副】容易に、簡単に、たやすく、楽々、わけなく"
+    },
+    {
+        "No": "44",
+        "word": "either",
+        "meaning": "【副】1. 〔否定文の後で〕 ～もまた（…ない） 2. （either ～ or … の形で） ～か…のどちらか"
+    },
+    {
+        "No": "45",
+        "word": "else",
+        "meaning": "【副】（その）ほかに［の］ 　 〔たとえば something else の形で〕 何かほかのもの"
+    },
+    {
+        "No": "46",
+        "word": "enough",
+        "meaning": "【副】(必要なだけ） 十分に、ちょうどよく"
+    },
+    {
+        "No": "47",
+        "word": "especially",
+        "meaning": "【副】特に、とりわけ"
+    },
+    {
+        "No": "48",
+        "word": "even",
+        "meaning": "【副】～さえ、～でも"
+    },
+    {
+        "No": "49",
+        "word": "ever",
+        "meaning": "【副】〔疑問文・否定文で〕これまでに、いつか、かつて"
+    },
+    {
+        "No": "50",
+        "word": "everywhere",
+        "meaning": "【副】いたるところに、どこでも、どこにも"
+    },
+    {
+        "No": "51",
+        "word": "exactly",
+        "meaning": "【副】（あいづちとして）そうです、全くそのとおりです"
+    },
+    {
+        "No": "52",
+        "word": "far",
+        "meaning": "【副】遠く、遠くに　〔far awayの形で〕 遠く離れて"
+    },
+    {
+        "No": "53",
+        "word": "fast",
+        "meaning": "【副】速く"
+    },
+    {
+        "No": "54",
+        "word": "finally",
+        "meaning": "【副】最後に、ついに"
+    },
+    {
+        "No": "55",
+        "word": "first",
+        "meaning": "【副】最初に、第一に"
+    },
+    {
+        "No": "56",
+        "word": "forever",
+        "meaning": "【副】永久に"
+    },
+    {
+        "No": "57",
+        "word": "forward",
+        "meaning": "【副】前へ、前方へ  〔look forward to ～ing の形で〕～するのを楽しみにする。"
+    },
+    {
+        "No": "58",
+        "word": "hard",
+        "meaning": "【副】1. 熱心に、一生懸命に 2. 激しく、強く"
+    },
+    {
+        "No": "59",
+        "word": "here",
+        "meaning": "【副】1. ここで［に］ 2. 〔Here is ［are］ ～の形で〕ここに～があります 3. 〔Here's ～ の形で〕 《物を渡して》 はい、～をどうぞ　〔Here you are. の形で〕 《物を渡して》 はい、どうぞ 4. 〔Here we are. の形で〕 さあ、着きました"
+    },
+    {
+        "No": "60",
+        "word": "high",
+        "meaning": "【副】高く"
+    },
+    {
+        "No": "61",
+        "word": "home",
+        "meaning": "【副】家庭（故郷）へ［に］"
+    },
+    {
+        "No": "62",
+        "word": "how",
+        "meaning": "【副】1. 《状態などをたずねて》どんな状態で、どのように 2. 《数量・程度などをたずねて》どれくらい、どれほど 3. 《方法・手段などをたずねて》どうやって、どのように、どんなふうに 4. 《あとに形容詞や副詞がきて》なんと"
+    },
+    {
+        "No": "63",
+        "word": "however",
+        "meaning": "【副】≪接続詞的に≫しかしながら、けれども"
+    },
+    {
+        "No": "64",
+        "word": "in",
+        "meaning": "【副】中へ［に］"
+    },
+    {
+        "No": "65",
+        "word": "incredibly",
+        "meaning": "【副】信じられないほど、すごく"
+    },
+    {
+        "No": "66",
+        "word": "indoors",
+        "meaning": "【副】屋内に(で)、家の中に（で）"
+    },
+    {
+        "No": "67",
+        "word": "instead",
+        "meaning": "【副】（その）かわりに"
+    },
+    {
+        "No": "68",
+        "word": "just",
+        "meaning": "【副】1. ちょっと、ほんの、ただ～だけ 2. 〔過去形や現在完了形とともに用いて〕 たった今、ちょうど（～たばかりだ） 3. ちょうど、まさに"
+    },
+    {
+        "No": "69",
+        "word": "last",
+        "meaning": "【副】最後に、一番あとに、この前"
+    },
+    {
+        "No": "70",
+        "word": "late",
+        "meaning": "【副】遅く、遅れて"
+    },
+    {
+        "No": "71",
+        "word": "later",
+        "meaning": "【副】〔late の比較級のひとつ〕あとで、～後"
+    },
+    {
+        "No": "72",
+        "word": "left",
+        "meaning": "【副】左に、左の方に"
+    },
+    {
+        "No": "73",
+        "word": "less",
+        "meaning": "【副】littleの比較級、もっと少なく"
+    },
+    {
+        "No": "74",
+        "word": "little",
+        "meaning": "【副】〔a littleの形で〕 (量・程度が)少しは、ちょっとは"
+    },
+    {
+        "No": "75",
+        "word": "long",
+        "meaning": "【副】(時間・長さ・距離が)長く"
+    },
+    {
+        "No": "76",
+        "word": "maybe",
+        "meaning": "【副】たぶん"
+    },
+    {
+        "No": "77",
+        "word": "more",
+        "meaning": "【副】もっと〔much の比較級、つづりの長い語の比較級に使う〕"
+    },
+    {
+        "No": "78",
+        "word": "most",
+        "meaning": "【副】最も〔much の最上級、つづりの長い語の最上級に使う〕"
+    },
+    {
+        "No": "79",
+        "word": "much",
+        "meaning": "【副】1. 〔very muchの形で〕とても、たいへん、すごく 2. 〔比較級を強めて〕ずっと、はるかに"
+    },
+    {
+        "No": "80",
+        "word": "neither",
+        "meaning": "【副】(否定文のあとで）～もまた…（し）ない"
+    },
+    {
+        "No": "81",
+        "word": "never",
+        "meaning": "【副】決して～ない、今まで（一度も）～ない"
+    },
+    {
+        "No": "82",
+        "word": "next",
+        "meaning": "【副】1. 次に 2. 〔next to ～ の形で〕～のとなりに"
+    },
+    {
+        "No": "83",
+        "word": "no",
+        "meaning": "【副】いいえ、ちがいます、まさか"
+    },
+    {
+        "No": "84",
+        "word": "north",
+        "meaning": "【副】北へ、北に"
+    },
+    {
+        "No": "85",
+        "word": "not",
+        "meaning": "【副】～でない、～（し）ない"
+    },
+    {
+        "No": "86",
+        "word": "now",
+        "meaning": "【副】1. 今、現在 2. さて、ところで 3. 今すぐ 4. そのとき、今や　*右記例文のnowは「現在」の意味。"
+    },
+    {
+        "No": "87",
+        "word": "o'clock",
+        "meaning": "【副】～時"
+    },
+    {
+        "No": "88",
+        "word": "off",
+        "meaning": "【副】《くっついた状態からはなれた状態への変化を表して》はなれて、外れて"
+    },
+    {
+        "No": "89",
+        "word": "often",
+        "meaning": "【副】よく､しばしば"
+    },
+    {
+        "No": "90",
+        "word": "OK",
+        "meaning": "【副】1.《提案・依頼などに対する返事として》よろしい、いいよ、わかった 2. 問題ない、大丈夫"
+    },
+    {
+        "No": "91",
+        "word": "on",
+        "meaning": "【副】1.《付着を表して》離れず、しっかり　〔たとえばのHold on.形で〕（何かに）つかまって、（電話を）切らないでそのまま待って 2.《所持･着用を表して》～を身につけて 3.《継続を表して》先へ、進んで、続けて　〔たとえば go on の形で〕 先を進む、続ける"
+    },
+    {
+        "No": "92",
+        "word": "once",
+        "meaning": "【副】1. １度、１回 2. かつて、以前に"
+    },
+    {
+        "No": "93",
+        "word": "only",
+        "meaning": "【副】ただ～だけ､ほんの～にすぎない"
+    },
+    {
+        "No": "94",
+        "word": "originally",
+        "meaning": "【副】元々は、本来は"
+    },
+    {
+        "No": "95",
+        "word": "out",
+        "meaning": "【副】1. なくなって 2. 外出して､外に［へ］ 3. 最後まで、徹底的に"
+    },
+    {
+        "No": "96",
+        "word": "outside",
+        "meaning": "【副】外で、屋外で"
+    },
+    {
+        "No": "97",
+        "word": "over",
+        "meaning": "【副】1. 上方に 2. 向こう側へ、超えて 3. 終わって 4. 倒れて、ひっくり返して 〔たとえば Turn over the page. の形で〕 ページをめくりなさい"
+    },
+    {
+        "No": "98",
+        "word": "overseas",
+        "meaning": "【副】海外へ、外国に"
+    },
+    {
+        "No": "99",
+        "word": "p.m",
+        "meaning": "午後 〔2:30 p.m.のように、時刻の後に付ける〕"
+    },
+    {
+        "No": "100",
+        "word": "past",
+        "meaning": "【副】すれ違って、通り過ぎて"
+    },
+    {
+        "No": "101",
+        "word": "perfectly",
+        "meaning": "【副】完全に、申し分なく"
+    },
+    {
+        "No": "102",
+        "word": "perhaps",
+        "meaning": "【副】たぶん"
+    },
+    {
+        "No": "103",
+        "word": "please",
+        "meaning": "【副】《人に何かを頼む時に》 ～お願いします、どうぞ～してください"
+    },
+    {
+        "No": "104",
+        "word": "precisely",
+        "meaning": "【副】正確に"
+    },
+    {
+        "No": "105",
+        "word": "quickly",
+        "meaning": "【副】急いで､速く、すぐに"
+    },
+    {
+        "No": "106",
+        "word": "quietly",
+        "meaning": "【副】静かに、黙って"
+    },
+    {
+        "No": "107",
+        "word": "quite",
+        "meaning": "【副】とても、たいへん"
+    },
+    {
+        "No": "108",
+        "word": "really",
+        "meaning": "【副】1. 非常に、実に､本当に、とても 2.へぇ"
+    },
+    {
+        "No": "109",
+        "word": "right",
+        "meaning": "【副】まさに、ちょうど"
+    },
+    {
+        "No": "110",
+        "word": "right",
+        "meaning": "【副】右に、右側に"
+    },
+    {
+        "No": "111",
+        "word": "safely",
+        "meaning": "【副】安全に"
+    },
+    {
+        "No": "112",
+        "word": "second",
+        "meaning": "【副】第２に、２番目に"
+    },
+    {
+        "No": "113",
+        "word": "short",
+        "meaning": "【副】急に､突然　　〔cut shortで〕～を急に終わらせる"
+    },
+    {
+        "No": "114",
+        "word": "sincerely",
+        "meaning": "【副】《正式な手紙の結びのことばとして》 敬具"
+    },
+    {
+        "No": "115",
+        "word": "slowly",
+        "meaning": "【副】ゆっくりと"
+    },
+    {
+        "No": "116",
+        "word": "so",
+        "meaning": "【副】1. とても、非常に 2. そんなに、それほど 3. そう、そのように 4. 〔～ and so on の形で〕 ～など"
+    },
+    {
+        "No": "117",
+        "word": "some",
+        "meaning": "【副】〔数詞の前で〕およそ～、約～"
+    },
+    {
+        "No": "118",
+        "word": "sometimes",
+        "meaning": "【副】ときどき、ときには"
+    },
+    {
+        "No": "119",
+        "word": "somewhere",
+        "meaning": "【副】どこかに、どこかで、どこかへ"
+    },
+    {
+        "No": "120",
+        "word": "soon",
+        "meaning": "【副】まもなく、すぐに"
+    },
+    {
+        "No": "121",
+        "word": "still",
+        "meaning": "【副】今でも、まだ"
+    },
+    {
+        "No": "122",
+        "word": "still",
+        "meaning": "【副】それでも"
+    },
+    {
+        "No": "123",
+        "word": "straight",
+        "meaning": "【副】まっすぐに"
+    },
+    {
+        "No": "124",
+        "word": "strongly",
+        "meaning": "【副】強く"
+    },
+    {
+        "No": "125",
+        "word": "suddenly",
+        "meaning": "【副】突然、急に、不意に"
+    },
+    {
+        "No": "126",
+        "word": "sure",
+        "meaning": "【副】《返事に用いて》 いいとも、もちろん"
+    },
+    {
+        "No": "127",
+        "word": "that",
+        "meaning": "【副】そんなに、それほど"
+    },
+    {
+        "No": "128",
+        "word": "then",
+        "meaning": "【副】1. そのあとで、それから､次に 2. そうすれば 3. それでは 4. そのとき"
+    },
+    {
+        "No": "129",
+        "word": "there",
+        "meaning": "【副】1. 〔There is ［are］ ～ の形で〕 ～がある、いる 2. そこに[で、へ]"
+    },
+    {
+        "No": "130",
+        "word": "third",
+        "meaning": "【副】３番めに、第３に"
+    },
+    {
+        "No": "131",
+        "word": "tightly",
+        "meaning": "【副】しっかりと"
+    },
+    {
+        "No": "132",
+        "word": "today",
+        "meaning": "【副】今日（は）、このごろは"
+    },
+    {
+        "No": "133",
+        "word": "together",
+        "meaning": "【副】いっしょに"
+    },
+    {
+        "No": "134",
+        "word": "tomorrow",
+        "meaning": "【副】明日（は）"
+    },
+    {
+        "No": "135",
+        "word": "tonight",
+        "meaning": "【副】今夜（は）"
+    },
+    {
+        "No": "136",
+        "word": "too",
+        "meaning": "【副】1. ～もまた、同様に 2.あまりにも、～すぎる"
+    },
+    {
+        "No": "137",
+        "word": "truly",
+        "meaning": "【副】本当に、実に"
+    },
+    {
+        "No": "138",
+        "word": "twice",
+        "meaning": "【副】2回、2度"
+    },
+    {
+        "No": "139",
+        "word": "up",
+        "meaning": "【副】1. 上へ、上の方へ 2. 立って、起きて、目覚めて 3. すっかり、つきて　〔たとえば Time is up.の形で〕 もう時間です［時間切れです］"
+    },
+    {
+        "No": "140",
+        "word": "usually",
+        "meaning": "【副】たいていは、ふつうは"
+    },
+    {
+        "No": "141",
+        "word": "very",
+        "meaning": "【副】とても、非常に、たいへん"
+    },
+    {
+        "No": "142",
+        "word": "well",
+        "meaning": "【副】1. 上手に、うまく 2. 正しく、りっぱに"
+    },
+    {
+        "No": "143",
+        "word": "when",
+        "meaning": "【副】いつ"
+    },
+    {
+        "No": "144",
+        "word": "where",
+        "meaning": "【副】どこに［で、へ］"
+    },
+    {
+        "No": "145",
+        "word": "why",
+        "meaning": "【副】なぜ、どうして"
+    },
+    {
+        "No": "146",
+        "word": "yes",
+        "meaning": "【副】1. はい、そうです 2. そうです、そのとおりです 3. 《呼びかけなどを受けて》はい"
+    },
+    {
+        "No": "147",
+        "word": "yesterday",
+        "meaning": "【副】昨日（は）"
+    },
+    {
+        "No": "148",
+        "word": "yet",
+        "meaning": "【副】1.〔疑問文で〕もう 2.〔否定文で〕 まだ（～しない）"
+    }
+]
