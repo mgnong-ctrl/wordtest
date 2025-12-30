@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>学習記録</title>
+    <style>
+        body { font-family: sans-serif; background: #f0f4f8; display: flex; justify-content: center; padding: 20px; }
+        .container { background: white; padding: 25px; border-radius: 15px; width: 100%; max-width: 500px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); }
+        .history-item { display: flex; justify-content: space-between; padding: 15px; border-bottom: 1px solid #eee; }
+        .score { font-size: 20px; font-weight: bold; color: #1a73e8; }
+        .btn { display: block; width: 100%; padding: 12px; background: #6c757d; color: white; text-align: center; border-radius: 8px; text-decoration: none; margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2 id="user-title">学習記録</h2>
+    <div id="history-list"></div>
+    <a href="index.html" class="btn">戻る</a>
+</div>
+<script>
+    const currentId = localStorage.getItem('current_profile_id');
+    const profiles = JSON.parse(localStorage.getItem('quiz_profiles') || '[]');
+    const user = profiles.find(p => p.id == currentId);
+    if(user) document.getElementById('user-title').textContent = `${user.name}さんの記録`;
+
+    const history = JSON.parse(localStorage.getItem('quiz_history') || '[]').filter(h => h.profileId == currentId);
+    document.getElementById('history-list').innerHTML = history.length ? 
+        history.reverse().map(h => `<div class="history-item"><div><b>${h.title}</b><br><small>${h.date}</small></div><div class="score">${h.score}点</div></div>`).join('') : 
+        "<p style='text-align:center;'>記録がありません。</p>";
+</script>
+</body>
+</html>
