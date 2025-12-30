@@ -1,0 +1,15 @@
+{
+  "name": "英語単語テスト",
+  "short_name": "英単語",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f0f4f8",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/190/190614.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+1	number	nʌ́mbər	ナンバー	【名】数
+2	zero	zíərou	ズィロゥ	【名】０
+3	one	wʌ́n	ワン	【名】1 【形】1の
+4	two	túː	トゥー	【名】2 【形】2の
+5	three	θríː	スリー	【名】3 【形】3の
+6	four	fɔr	フォァ	【名】4 【形】4の
+7	five	fáiv	ファイヴ	【名】5 【形】5の
+8	six	síks	スィックス	【名】6 【形】6の
+9	seven	sévn	セヴン	【名】7 【形】7の
+10	eight	éit	エイト	【名】8 【形】8の
+11	nine	náin	ナイン	【名】9 【形】9の
+12	ten	tén	テン	【名】10 【形】10の
+13	eleven	ilévn	イレヴン	【名】11 【形】11の
+14	twelve	twélv	トゥウェルヴ	【名】12 【形】12の
+15	thirteen	θə̀ːrtíːn	サーティーン	【名】13 【形】13の
+16	fourteen	fɔ̀rtíːn	フォーティーン	【名】14 【形】14の
+17	fifteen	fìftíːn	フィフティーン	【名】15 【形】15の
+18	sixteen	síkstíːn	スィックスティーン	【名】16 【形】16の
+19	seventeen	sèvntíːn	セヴンティーン	【名】17 【形】17の
+20	eighteen	èitíːn	エイティーン	【名】18 【形】18の
+21	nineteen	nàintíːn	ナインティーン	【名】19 【形】19の
+22	twenty	twénti	トゥウェンティ	【名】20 【形】20の
+23	thirty	θə́ːrti	サーティ	【名】30 【形】30の
+24	forty	fɔ́rti	フォーティ	【名】40 【形】40の
+25	fifty	fífti	フィフティ	【名】50 【形】50の
+26	sixty	síksti	スィックスティ	【名】60 【形】60の
+27	seventy	sévnti	セヴンティ	【名】70 【形】70の
+28	eighty	éiti	エイティ	【名】80 【形】80の
+29	ninety	náinti	ナインティ	【名】90 【形】90の
+30	hundred	hʌ́ndrəd	ハンドゥレド	【名】100 【形】100の
+31	first	fə́ːrst	ファースト	【名】1番目 【形】1番目の
+32	second	sékənd	セカンド	【名】2番目 【形】2番目の
+33	third	θə́ːrd	サード	【名】3番目 【形】3番目の
+34	fourth	fɔ́rθ	フォース	【名】4番目 【形】4番目の
+35	fifth	fífθ	フィフス	【名】5番目 【形】5番目の
+36	sixth	síksθ	スィックスス	【名】6番目 【形】6番目の
+37	seventh	sévnθ	セヴンス	【名】7番目 【形】7番目の
+38	eighth	éitθ	エイス	【名】8番目 【形】8番目の
+39	ninth	náinθ	ナインス	【名】9番目 【形】9番目の
+40	tenth	ténθ	テンス	【名】10番目 【形】10番目の
+41	eleventh	ilévnθ	イレヴンス	【名】11番目 【形】11番目の
+42	twelfth	twélfθ	トゥウェルフス	【名】12番目 【形】12番目の
+43	thirteenth	θə̀ːrtíːnθ	サーティーンス	【名】13番目 【形】13番目の
+44	fourteenth	fɔ́rtínθ	フォーティーンス	【名】14番目 【形】14番目の
+45	fifteenth	fìftíːnθ	フィフティーンス	【名】15番目 【形】15番目の
+46	sixteenth	síkstíːnθ	スィックスティーンス	【名】16番目 【形】16番目の
+47	seventeenth	sèvntíːnθ	セヴンテーンス	【名】17番目 【形】17番目の
+48	eighteenth	èitíːnθ	エイテーンス	【名】18番目 【形】18番目の
+49	nineteenth	nàintíːnθ	ナインティーンス	【名】19番目 【形】19番目の
+50	twentieth	twéntiəθ	トゥウェンティエス	【名】20番目 【形】20番目の
+51	thirtieth	θə́ːrtiəθ	サーティエス	【名】30番目 【形】30番目の
+52	minute	mínət	ミニット	【名】分
+53	time	táim	タイム	【名】時間
+54	day	déi	デイ	【名】日
+55	week	wíːk	ウイーク	【名】週
+56	month	mʌ́nθ	マンス	【名】月
+57	year	jíər	イヤァ	【名】年
+58	Monday	mʌ́ndei	マンデイ	【名】月曜日
+59	Tuesday	tjúzdei	チューズデイ	【名】火曜日
+60	Wednesday	wénzdei	ウェンズデイ	【名】水曜日
+61	Thursday	θə́ːrzdei	サーズデイ	【名】木曜日
+62	Friday	fráidei	フライデイ	【名】金曜日
+63	Saturday	sǽtərdèi	サタデイ	【名】土曜日
+64	Sunday	sʌ́ndei	サンデイ	【名】日曜日
+65	January	dʒǽnjuèri	ジャニュエリィ	【名】1月
+66	February	fébjuèri	フェビュエリィ	【名】2月
+67	March	mɑ́rtʃ	マーチ	【名】3月
+68	April	éiprəl	エイプリル	【名】4月
+69	May	méi	メイ	【名】5月
+70	June	dʒúːn	ジューン	【名】6月
+71	July	dʒu(ː)lái	ジュ（ー）ライ	【名】7月
+72	August	ɔːgʌ́st	オーガスト	【名】8月
+73	September	septémbər	セプテンバァ	【名】9月
+74	October	ɑktóubər	アクトウバァ	【名】10月
+75	November	nouvémbər	ノウベンバァ	【名】11月
+76	December	disémbər	ディセンバァ	【名】12月
+77	spring	spriŋ	スプリング	【名】春
+78	summer	sʌ́mər	サマァ	【名】夏
+79	autumn/fall	ɔ́təm	オータム ／ /fɔːl	フォール 【名】秋
+80	winter	wíntər	ウインタァ	【名】冬
+81	east	íːst	イースト	【名】東
+82	west	wést	ウェスト	【名】西
+83	south	sáuθ	サウス	【名】南
+84	north	nɔ́rθ	ノース	【名】北
+85	color	kʌ́lər	カラァ	【名】色
+86	white	hwáit	ホワイト	【名】白 【形】白い
+87	black	blǽk	ブラック	【名】黒 【形】黒い
+88	red	red	レッド	【名】赤 【形】赤い
+89	blue	blúː	ブルー	【名】青 【形】青い
+90	yellow	jélou	イェロゥ	【名】黄色 【形】黄色の
+91	green	griːn	グリーン	【名】緑色 【形】緑色の
+92	orange	ɔ́rindʒ	オリンジ	【名】オレンジ色の
+93	pink	píŋk	ピンク	【名】ピンク色 【形】ピンク色の
+94	brown	bráun	ブラウン	【名】茶色 【形】茶色の
+95	purple	pə́ːrpl	パーポウ	【名】紫色 【形】紫色の
+96	shape	ʃeip	シェイプ	【名】形
+97	circle	sə́ːrkl	サーコゥ	【名】円
+98	triangle	tráiæ̀ŋgl	トゥライアングル	【名】三角形
+99	square	skwέər	スクウェア	【名】正方形
+100	rectangle	réktæ̀ŋgl	レクタングル	【名】長方形
+101	diamond	dáimənd	ダイアモンド	【名】ひし形
+102	heart	hɑrt	ハート	【名】ハート形
+103	star	stɑ́r	スター	【名】星形、星
+104	cross	krɔs	クロス	【名】十字形
+105	man	mǽn	マン	【名】人、男の人
+106	woman	wúmən	ウーマン	【名】女の人
+107	boy	bɔi	ボーイ	【名】男の子
+108	girl	gə́ːrl	ガール	【名】女の子
+109	father	fɑ́ːðə	ファーザァ	【名】父
+110	mother	mʌ́ðər	マザァ	【名】母
+111	brother	brʌ́ðər	ブラザァ	【名】兄、弟
+112	sister	sístər	スィスタァ	【名】姉、妹
+113	grandfather	grǽndfɑ̀ðər	グランドファザァ	【名】祖父
+114	grandmother	grǽnmʌ̀ðər	グランドマザァ	【名】祖母
+115	friend	frénd	フレンド	【名】友達
+116	eye	ái	アイ	【名】目
+117	ear	íər	イア	【名】耳
+118	nose	nóuz	ノウズ	【名】鼻
+119	mouth	máuθ	マウス	【名】口
+120	teeth	tíːθ	ティース	【名】歯（※ tooth の複数形）
+121	face	féis	フェイス	【名】顔
+122	head	héd	ヘッド	【名】頭
+123	hand	hǽnd	ハンド	【名】手（手首から先）
+124	shoulder	ʃóuldər	ショルダー	【名】肩
+125	knee	níː	ニー	【名】ひざ
+126	leg	lég	レッグ	【名】あし（足首から上）
+127	toe	tóu	トゥ	【名】つま先
+128	school	skúːl	スクール	【名】学校
+129	elementary school	èləméntəri//skúːl	エレメンタリィ スクール	【名】小学校
+130	junior high school	dʒúːnjər//hái//skúːl	ジュニア ハイ スクール	【名】中学校
+131	(senior) high shool	síːnjər//hái//skúːl	シニア ハイ スクール	【名】高等学校
+132	class	klǽs	クラス	【名】授業、組
+133	arts and crafts	ɑ́rt//ən(d)//krɔs	アーツ アンド クラフツ	【名】図画工作
+134	calligraphy	kəlígrəfi	カリグラフィー	【名】習字
+135	English	íŋgliʃ	イングリシュ	【名】英語
+136	home economics	hóum//èkənɑ́miks	ホウム エコノミクス	【名】家庭科
+137	Japanese	dʒ`æpəníːz	ジャパニーズ	【名】国語、日本語
+138	math	mǽθ	マス	【名】算数
+139	music	mjúːzik	ミュージック	【名】音楽
+140	moral education	mɔ́rəl//èdʒukéiʃən	モラル エジュケイション	【名】道徳
+141	P.E.	píː//íː	ピーイー	【名】体育
+142	science	sáiəns	サイエンス	【名】理科、化学
+143	social studies	sóuʃəl//stʌ́di	ソウシャル スタディーズ	【名】社会科
+144	homeroom activities	hóumrùːm//æktívəti	ホウムルーム アクティヴィティーズ	【名】学級活動
+145	classroom	klǽsrùːm	クラスルーム	【名】教室
+146	computer room	kəmpjútər//rúːm	コムピュータァ ルーム	【名】コンピュータールーム
+147	cooking room	kúkiŋ//rúːm	クッキング ルーム	【名】家庭科室
+148	entrance	entrǽns	エントゥランス	【名】昇降口、入り口
+149	gym	dʒím	ジム	【名】体育館〔英5〕
+150	library	láibrèri	ライブラリィ	【名】図書室、図書館
+151	playground	pléigràund	プレイグラウンド	【名】校庭
+152	restroom	réstrùːm	レストゥルーム	【名】トイレ
+153	school principal’s office	skúːl//prínsəpəl//ɔ́fis	スクール プリンスィプルズ オフィス	【名】校長室
+154	school nurse’s office	skúːl//nə́ːrs//ɔ́fis	スクール ナースィズ オフィス	【名】保健室
+155	crayon	kréiən	クレイヤン	【名】クレヨン
+156	eraser	iréisər	イレイサァ	【名】消しゴム
+157	glue stick	gluː//stík	グルー スティク	【名】スティックのり
+158	ink	íŋk	インク	【名】インク
+159	magnet	mǽgnit	マグネット	【名】じしゃく
+160	marker	mɑ́rkər	マーカァ	【名】マーカー
+161	notebook	nóutbùk	ノウトゥブック	【名】ノート
+162	pen	pén	ペン	【名】ペン
+163	pencil	pénsəl	ペンソル	【名】鉛筆
+164	pencil case	pénsəl//kéis	ペンソル ケイス	【名】筆箱
+165	pencil sharpener	pénsəl//ʃɑ́ːrpənər	ペンソル シャアープナァ	【名】鉛筆削り
+166	ruler	rúːlər	ルーラァ	【名】定規
+167	scissors	sízərz	スィザーズ	【名】はさみ
+168	stapler	stéiplər	ステープラァ	【名】ホッチキス
+169	drama festival	drɑ́mə//féstəvəl	ドゥラマ フェスティヴァル	【名】学芸会
+170	entrance ceremony	entrǽns//sérəmòuni	エントゥランス セレモニィ	【名】入学式
+171	field trip	fíːld//trip	フィールド トゥリップ	【名】遠足
+172	graduation ceremony	græ̀dʒuéiʃən//sérəmòuni	グラジュエイション セレモニィ	【名】卒業式
+173	music fesival	mjúːzik//féstəvəl	ミューズィック フェスティヴァル	【名】音楽界
+174	school trip	skúːl//trip	スクール トゥリップ	【名】修学旅行
+175	sports festival	spɔrt//féstəvəl	スポーツ フェスティヴァル	【名】運動会
+176	swimming meet	swímiŋ//míːt	スウィミング ミート	【名】水泳大会
+177	volunteer day	vɑ̀ləntír//déi	ヴァランティァ デイ	【名】ボランティアデー
+178	sport	spɔrt	スポート	【名】スポーツ
+179	soccer	sɑ́kər	サッカァ	【名】サッカー
+180	baseball	béisbɔ̀l	ベイスボール	【名】野球
+181	basketball	bǽskitbɔ̀l	バスケットゥボール	【名】バスケットボール
+182	volleyball	vɑ́libɔ̀l	ヴァリボール	【名】バレーボール
+183	dodgeball	dɔ́dʒbɔ̀ːl	ドッジボール	【名】ドッジボール
+184	swimming	swímiŋ	スウィミング	【名】水泳
+185	table tennis	téibl//ténəs	テイブル テニス	【名】卓球
+186	badminton	bǽdmintən	バドゥミントン	【名】バドミントン
+187	tennis	ténəs	クロス	【名】テニス
+188	marathon	mǽrəθɑ̀n	マラサン	【名】マラソン
+189	gymnastics	dʒimnǽstiks	ジムナスティクス	【名】体操
+190	track and field	trǽk//ən(d)//fíːld	トゥラック アンド フィールド	【名】陸上競技
+191	cycling	sáikliŋ	サイクリング	【名】サイクリング
+192	rugby	rʌ́gbi	ラグビィ	【名】ラグビー
+193	football	fútbɔ̀l	フットゥボール	【名】フットボール
+194	boxing	bɑ́ksiŋ	ボクシング	【名】ボクシング
+195	wrestling	résliŋ	レスリング	【名】レスリング
+196	weightlifting	wéitlìftiŋ	ウェイトゥリフティング	【名】重量挙
+197	surfing	sə́ːrfiŋ	サーフィング	【名】サーフィン
+198	sailing	séiliŋ	セイリング	【名】セーリング
+199	canoe	kənúː	カヌー	【名】カヌー
+200	archery	ɑ́rtʃəri	アーチェリィ	【名】アーチェリー
+201	climbing	cláimiŋ	クライミング	【名】登山
+202	bat	bǽt	バット	【名】バット
+203	ball	bɔːl	ボール	【名】ボール
+204	racket	rǽkət	ラケット	【名】ラケット
+205	athletics	æθlétiks	アスレティクス	【名】運動競技
+206	camping	kǽmpiŋ	キャンピング	【名】キャンプ
+207	fishing	fíʃiŋ	フィッシング	【名】魚釣り
+208	hiking	háikiŋ	ハイキング	【名】ハイキング
+209	jogging	dʒɑ́giŋ	ジャギング	【名】ジョギング
+210	jump rope	dʒʌmp//róup	ジャンプ ロウプ	【名】なわとび
+211	yo-yo	jóujòu	ヨウヨウ	【名】ヨーヨー
+212	tag	tǽg	タグ	【名】おにごっこ
+213	playing	pléiiŋ	プレイング	【名】遊ぶこと
+214	reading	ríːdiŋ	リーディング	【名】読書
+215	shopping	ʃɔ́piŋ	ショピング	【名】買い物
+216	piano	piǽnou	ピアノゥ	【名】ピアノ
+217	guitar	gitɑ́r	ギター	【名】ギター
+218	violin	vàiəlín	ヴァイオリン	【名】バイオリン
+219	drum	drʌ́m	ドゥラム	【名】ドラム
+220	recorder	rikɔ́rdər	リコーダァ	【名】リコーダー
+221	vacation	veikéiʃən	ヴェイケイション	【名】休暇
+222	animal	ǽnəməl	アニモゥ	【名】動物
+223	cat	kǽt	キャット	【名】猫
+224	dog	dɑg	ダッグ	【名】犬
+225	fish	fiʃ	フィシュ	【名】魚
+226	bear	bέər	ベア	【名】クマ
+227	elephant	éləfənt	エレファント	【名】象
+228	panda	pǽndə	パンダ	【名】パンダ
+229	lion	láiən	ライオン	【名】ライオン
+230	pig	píg	ピッグ	【名】ぶた
+231	monkey	mʌ́ŋki	マンキィ	【名】さる
+232	mouse	máus	マウス	【名】ねずみ
+233	horse	hɔ́rs	ホース	【名】馬
+234	chicken	tʃíkin	チキン	【名】にわとり
+235	gorilla	gərílə	ゴリラ	【名】ゴリラ
+236	sheep	ʃíːp	シープ	【名】ひつじ
+237	tiger	táigər	タイガァ	【名】とら
+238	rabbit	rǽbət	ラビット	【名】うさぎ
+239	koala	kouɑ́lə	コウアラ	【名】コアラ
+240	duck	dˈʌk	ダック	【名】あひる
+241	fox	fɑks	ファクス	【名】きつね
+242	frog	frɔg	フロッグ	【名】かえる
+243	snake	sneik	スネイク	【名】へび
+244	wolf	wúlf	ウォルフ	【名】おおかみ
+245	goat	góut	ゴウト	【名】ヤギ
+246	ant	ǽnt	アント	【名】あり
+247	cow	káu	カゥ	【名】（メスの）牛
+248	ox	ɑ́ks	アックス	【名】（雄の）牛
+249	spider	spáidər	スパイダァ	【名】くも
+250	jaguar	dʒǽgwɑr	ジャグワー	【名】ジャガー、ヒョウ
+251	zebra	zíːbrə	ズィーブラ	【名】しまうま
+252	seal	síːl	スィール	【名】アザラシ、アシカ、オットセイ
+253	yak	jǽk	ヤク	【名】ヤク
+254	iguana	igwɑ́nə	イグワナ	【名】イグアナ
+255	newt	njúːt	ニュート	【名】イモリ
+256	vulture	vʌ́ltʃər	ヴァルチャァ	【名】ハゲワシ、コンドル
+257	quail	kwéil	クウェイル	【名】ウズラ
+258	food	fuːd	フード	【名】食べ物
+259	fruit	frúːt	フルート	【名】果物
+260	apple	ǽpl	アッポゥ	【名】りんご
+261	banana	bənǽnə	バナーナ	【名】バナナ
+262	peach	píːtʃ	ピーチ	【名】もも
+263	strawberry	strɔ́ːbəri	ストゥローベリ	【名】いちご
+264	grape	greip	グレイプ	【名】ぶどう
+265	orange	ɔ́rindʒ	オリンジ	【名】オレンジ
+266	melon	mélən	メロン	【名】メロン
+267	pineapple	páinæ̀pl	パイナプル	【名】パイナップル
+268	cherry	tʃéri	チェリィ	【名】さくらんぼ
+269	lemon	lémən	レマン	【名】レモン
+270	kiwi fruit	kíːwiː//frúːt	キーウィ フルート	【名】キウイフルーツ
+271	watermelon	wɔ́tərmèlən	ウォタァメラン	【名】すいか
+272	vegetable	védʒətəbl	ヴェジタブル	【名】野菜
+273	tomato	təméitou	トメイトウ	【名】トマト
+274	carrot	kǽrət	キャロット	【名】にんじん
+275	onion	ʌ́njən	アニャン	【名】たまねぎ
+276	potato	pətéitou	ポテイトウ	【名】じゃがいも
+277	green pepper	griːn//pépər	グリーン ペッパァ	【名】ピーマン
+278	cucumber	kjúkʌ̀mbər	キューカンバァ	【名】きゅうり
+279	lettuce	létəs	レタス	【名】レタス
+280	cabbage	kǽbidʒ	キャベッジ	【名】キャベツ
+281	corn	kɔ́rn	コーン	【名】とうもろこし
+282	mushroom	mʌ́ʃruːm	マッシュルーム	【名】きのこ
+283	nut	nʌ́t	ナット	【名】木の実、ナッツ
+284	broccoli	brɑ́kəli	ブラッカリ	【名】ブロッコリー
+285	radish	rǽdiʃ	ラディッシュ	【名】はつかだいこん
+286	zucchini	zuːkíːni	ズッキーニィ	【名】ズッキーニ
+287	breakfast	brékfəst	ブレックファースト	【名】朝食
+288	lunch”	lʌ́ntʃ	ランチ	【名】昼食
+289	dinner	dínər	ディナァ	【名】夕食
+290	rice	ráis	ライス	【名】米、ごはん
+291	rice ball	ráis//bɔːl	ライス ボール	【名】おにぎり
+292	miso	míːsou	ミーソウ	【名】みそ
+293	miso soup	míːsou//súːp	ミーソウ スープ	【名】味噌汁
+294	noodle	núːdl	ヌードゥル	【名】めん
+295	bread	bréd	ブレッド	【名】パン
+296	jam	dʒǽm	ジャム	【名】ジャム
+297	egg	ég	エッグ	【名】卵
+298	fish	fiʃ	フィシュ	【名】魚
+299	curry and rice	kə́ːri//ən(d)//ráis	カリィ アンド ライス	【名】カレーライス
+300	ramen	rɑ́ːmən	ラーメン	【名】ラーメン
+301	sandwich	sǽnwidʒ	サンドウィッジ	【名】サンドイッチ
+302	spaghetti	spəgéti	スパゲティ	【名】スパゲッティ
+303	pizza	píːtsə	ピッツァ	【名】ピザ
+304	hamburger	hǽmbə̀ːrgər	ハンバーガァ	【名】ハンバーガー
+305	hot dog	hɑ́t//dɔg	ハット ドッグ	【名】ホットドッグ
+306	salad	sǽləd	サラッド	【名】サラダ
+307	pie	pái	パイ	【名】パイ
+308	fried chicken	fráid//tʃíkin	フライド チキン	【名】フライドチキン
+309	french fries	frentʃ//fraiz	フレンチ フライズ	【名】フライドポテト
+310	soup	súːp	スープ	【名】スープ
+311	corn soup	kɔ́rn//súːp	コーン スープ	【名】コーンスープ
+312	sausage	sɔ́sidʒ	ソスィッジ	【名】ソーセージ
+313	beefsteak	bíːfstèik	ビーフステイク	【名】ビーフステーキ
+314	omelet	ɑ́ːmələt	オムレット	【名】オムレツ
+315	grilled fish	grild//fiʃ	グリルド フィシュ	【名】焼き魚
+316	namul	naml	ナムル	【名】ナムル
+317	dessert	dizə́ːrt	ディザート	【名】デザート
+318	ice cream	áis//kríːm	アイス クリーム	【名】アイスクリーム
+319	cake	keik	ケイク	【名】ケーキ
+320	cup cake	kʌp	/keik	カップ ケイク
+321	chocolate	tʃɔ́kəlit	チョカリット	【名】チョコレート
+322	donut	dóunət	ドウナット	【名】ドーナツ
+323	popcorn	pɑ́pkɔ̀rn	パップコーン	【名】ポップコーン
+324	daifuku	daifuku	ダイフク	【名】大福
+325	pudding	6/púdiŋ	プディング	【名】プリン
+326	parfait	pɑrféi	パーフェイ	【名】パフェ
+327	shaved ice	ʃéiv//áis	シェイヴド アイス	【名】かき氷
+328	gum	gʌm	ガム	【名】ガム
+329	snack	snǽk	スナック	【名】軽食、おやつ
+330	water	wɑ́tər	ワータァ	【名】水
+331	milk	mílk	メウク	【名】牛乳
+332	juice	dʒuːs	ジュース	【名】〔果汁100％の〕ジュース
+333	coffee	kɑ́ːfi	カーフィ	【名】コーヒー
+334	tea	tiː	ティー	【名】紅茶
+335	green tea	griːn//tiː	グリーン ティー	【名】日本茶、緑茶
+336	mineral water	mínərəl//wɑ́tər	ミネロウ ワータァ	【名】ミネラルウォーター
+337	soda pop	sóudə//pɑp	ソウダ パップ	【名】炭酸飲料
+338	country	kʌ́ntri	カントゥリィ	【名】国
+339	Argentina	ɑ̀rdʒəntíːnə	アージェンティーナ	【名】アルゼンチン
+340	Bolivia	bəlíviə	ボリビア	【名】ボリビア
+341	Brazil	brəzíl	ブラズィウ	【名】ブラジル
+342	Britain	brítn	ブリトゥン	【名】イギリス
+343	Canada	kǽnədə	キャナダ	【名】カナダ
+344	China	tʃáinə	チャイナ	【名】中国
+345	Denmark	dénmɑrk	デンマーク	【名】デンマーク
+346	Egypt	íːdʒɪpt	イージプトゥ	【名】エジプト
+347	Finland	fínlənd	フィンランド	【名】フィンランド
+348	France	frǽns	フランス	【名】フランス
+349	Germany	dʒə́ːrməni	ジャーマニィ	【名】ドイツ
+350	Ghana	gɑ́nə	ガーナ	【名】ガーナ
+351	Hungary	hʌ́ŋgəri	ハンガリィ	【名】ハンガリー
+352	India	índiə	インディア	【名】インド
+353	Italy	ítəli	イタリィ	【名】イタリア”/td>
+354	Japan	dʒəpǽn	ジャパン	【名】日本
+355	Kenya	kénjə	ケニャ	【名】ケニア
+356	Laos	láus	ラウス	【名】ラオス
+357	Mongolia	mɑŋgóuljə	マンゴウリア	【名】モンゴル
+358	Norway	nɔ́rwei	ノーウェイ	【名】ノルウェー
+359	Oman	əumɑ́ːn	オウマーン	【名】オマーン
+360	Peru	pərúː	ペルー	【名】ペルー
+361	Qatar	kɑ́ːtɑːr	カーターァ	【名】カタール
+362	Russia	rʌ́ʃə	ラシャ	【名】ロシア
+363	Singapore	síŋ(g)əp`ɔr	スィンガポー	【名】シンガポール
+364	Spain	spéin	スペイン	【名】スペイン
+365	Turkey	tə́ːrki	ターキィ	【名】トルコ
+366	Thailand	tάɪlænd	タイランド	【名】タイ”
+367	United States of America／America	junáitəd//steit//əv//əmérikə	ユナイティド ステイツ オヴ アメリカ	【名】アメリカ合衆国
+368	Vietnam	víetnɑ́m	ヴィトーゥナム	【名】ベトナム
+369	Mexico	méksikòu	メクスィコウ	【名】メキシコ
+370	Yemen	jémən	イェメン	【名】イエメン
+371	Zambia	zǽmbiə	ザンビア	【名】ザンビア
+372	world	wʌ́(ːr)ld	ワールド	【名】世界
+373	job	dʒɑb	ジャブ	【名】仕事
+374	teacher	tíːtʃər	ティーチャァ	【名】教師
+375	doctor	dɑ́ktər	ダクタァ	【名】医者
+376	police officer	pəlíːs//ɔ́fisər	ポリース オフィサァ	【名】警察官
+377	fire fighter	fáiər//fáitər	ファイア ファイタァ	【名】消防士
+378	dentist	déntəst	デンティスト	【名】歯科医師
+379	pilot	páilət	パイロット	【名】パイロット
+380	flight attendant	fláit//əténdənt	フライト アテンダント	【名】客室乗務員
+381	bus driver	bʌ́s//dráivər	バス ドゥライヴァ	【名】バスの運転手
+382	baker	béikər	ベイカァ	【名】パン屋の店主
+383	florist	flɔ́rist	フロリスト	【名】生花店の店主
+384	cook	kúk	クック	【名】料理人、コック
+385	farmer	fɑ́rmər	フーマァ	【名】農場経営者
+386	artist	ɑ́rtist	アーティスト	【名】芸術家
+387	astronaut	ǽstrənɔ̀t	アストゥラノート	【名】宇宙飛行士
+388	vet	vét	ヴェット	【名】獣医師
+389	zookeeper	zúːkìːpər	ズーキーパァ	【名】動物園の飼育員
+390	soccer player	sɑ́kər//pléiər	サッカァ プレイヤァ	【名】サッカー選手
+391	baseball player	béisbɔ̀l	/pléiər	ベイスボール プレイヤァ
+392	figure skater	fígjər//skéitər	フィギュァ スケイータァ	【名】フィギュアスケート選手
+393	singer	síŋər	スィンガァ	【名】歌手
+394	comedian	kəmíːdiən	コミーディアン	【名】コメディアン
+395	hero	híːərou	ヒーロゥ	【名】英雄
+396	king	kiŋ	キング	【名】王様
+397	queen	kwíːn	クウィーン	【名】女王
+398	house	háus	ハウス	【名】家
+399	hospital	hɑ́spìtl	ハスピトゥル	【名】病院
+400	police station	pəlíːs//stéiʃən	ポリース ステイション	【名】警察署
+401	fire station	fáiər//stéiʃən	ファイア ステイション	【名】消防署
+402	post office	póust//ɔ́fis	ポウスト アフィス	【名】郵便局
+403	post	póust	ポウスト	【名】ポスト
+404	station	stéiʃən	ステイション	【名】駅
+405	park	pɑ́rk	パーク	【名】公園
+406	street	stríːt	ストゥリート	【名】通り、道
+407	library	láibrèri	ライブラリィ	【名】図書館、図書室
+408	museum	mjuːzíəm	ミューズィアム	【名】博物館、美術館
+409	zoo	zúː	ズー	【名】動物園
+410	aquarium	əkwέəriəm	アクウェイリアム	【名】水族館
+411	amusement park	əmjúːzmənt//pɑ́rk	アミューズメント パーク	【名】遊園地
+412	convenience store	kənvíːniəns//stɔr	コンヴィーニエンス ストァ	【名】コンビニ
+413	supermarket	súpərmɑ̀rkit	スーパーマーキット	【名】スーパーマーケット
+414	department store	dipɑ́rtmənt//stɔr	ディパートゥメント ストァ	【名】デパート
+415	restaurant	réstərɑːnt	レスタラント	【名】レストラン
+416	bookstore	búkstɔ̀r	ブックストァ	【名】書店
+417	flower shop	fláuər//ʃɑp	フラウア シャップ	【名】生花店
+418	gas station	gǽs//stéiʃən	ギャス ステイション	【名】ガソリンスタンド
+419	shrine	ʃráin	シュライン	【名】神社
+420	temple	témpl	テンポウ	【名】寺
+421	castle	kǽsl	キャッスル	【名】城
+422	sun	sʌ́n	サン	【名】太陽
+423	river	rívər	リヴァ	【名】川
+424	sea	síː	スィー	【名】海
+425	beach	bíːtʃ	ビーチ	【名】浜辺
+426	lake	léik	レイク	【名】湖
+427	mountain	máuntn	マウンテン	【名】山
+428	tree	tríː	トゥリー	【名】木
+429	flower	fláuər	フラウア	【名】花
+430	rainbow	réinbòu	レインボゥ	【名】にじ
+431	birthday	bə́ːrθdèi	バースディ	【名】誕生日
+432	New Year’s Day	njúː//jíər//déi	ニュー イヤァーズ デイ	【名】元日
+433	New Year’s Eve	njúː//jíər//íːv	ニュー イヤァーズ イーヴ	【名】大みそか
+434	festival	féstəvəl	フェスティヴォウ	【名】祭り
+435	Snow Festival	snou//féstəvəl	スノウ フェスティヴォウ	【名】雪まつり
+436	Star Festival	stɑ́r//féstəvəl	スター フェスティヴォウ	【名】七夕
+437	Children’s Day	tʃíldrən//déi	チルドゥレンズ デイ	【名】子供の日
+438	Doll’s Festival	8/dɑl//féstəvəl	ダールズ フェスティヴォウ	【名】ひな祭り
+439	bus	bʌ́s	バス	【名】バス
+440	jet	dʒét	ジェット	【名】ジェット機
+441	taxi	tǽksi	タクスィ	【名】タクシー
+442	bicycle	báisikl	バイスィコウ	【名】自転車
+443	unicycle	júnesàikəl	ユニサイクル	【名】一輪車
+444	wheelchair	hwíːltʃὲər	ウィールチェア	【名】車椅子
+445	desk	désk	デスク	【名】机
+446	table	téibl	テイブル	【名】テーブル
+447	chair	tʃέər	チェア	【名】椅子
+448	bed	béd	ベッド	【名】ベッド
+449	TV	tíːvíː	ティーヴィー	【名】テレビ
+450	bath	bæθ	バス	【名】風呂
+451	cap	kǽp	キャプ	【名】（ふちのない）帽子
+452	hat	hæt	ハット	【名】（ふちのある）帽子
+453	gloves	glʌ́v	グラヴズ	【名】手袋
+454	shirt	ʃə́ːrt	シャート	【名】シャツ
+455	T-shirt	tíː//ʃə́ːrt	ティー シャート	【名】Ｔシャツ
+456	sweater	swétər	スウェタァ	【名】セーター
+457	vest	vést	ヴェスト	【名】ベスト
+458	pants	pǽn(t)s	パンツ	【名】ズボン
+459	shorts	ʃˈɔrts	ショーツ	【名】半ズボン
+460	boots	búːts	ブーツ	【名】ブーツ
+461	box	bɑks	バックス	【名】箱
+462	book	búk	ブック	【名】本
+463	bag	bǽg	バッグ	【名】かばん
+464	umbrella	ʌmbrélə	アンブレラ	【名】かさ
+465	clock	klɑk	クラック	【名】時計
+466	watch	wɑtʃ	ワッチ	【名】腕時計
+467	telephone	téləfòun	テレフォウン	【名】電話
+468	computer	kəmpjútər	コンピュータァ	【名】コンピューター
+469	cup	kʌp	カップ	【名】茶わん、カップ
+470	dish	díʃ	ディッシュ	【名】皿
+471	lunch box	lʌ́ntʃ//bɑks	ランチ バックス	【名】お弁当箱
+472	calendar	kǽləndər	キャレンダァ	【名】カレンダー
+473	fan	fǽn	ファン	【名】うちわ
+474	newspaper	núːzpèipər	ニューズペイパァ	【名】新聞
+475	garbage	gɑ́rbidʒ	ガーベッジ	【名】ゴミ
+476	card	kɑ́rd	カード	【名】カード
+477	fireworks	fáiərwə̀ːrk	ファイアワークス	【名】花火
+478	net	nét	ネット	【名】ネット
+479	treasure	tréʒər	トゥレジャー	【名】宝物
+480	homework	hóumwə̀ːrk	ホームワーク	【名】宿題
+481	TV program	tíːvíː//próugræm	ティーヴィー プログラム	【名】テレビ番組
+482	morning	mɔ́rniŋ	モーニング	【名】朝、午前
+483	afternoon	æ̀ftərnúːn	アーフタヌーン	【名】午後
+484	night	nait	ナイト	【名】夜
+485	today/td>	tədéi	トゥデイ	【名】今日
+486	tomorrow	təmɑ́rou	トゥモロウ	【名】明日
+487	right	ráit	ライト	【名】右
+488	left	léft	レフト	【名】左
+489	is	iz	イズ	【動】～です
+490	am	əm	アム	【動】～です
+491	are	ɑːr	アー	【動】～です
+492	do	du	ドゥ	【動】～する
+493	does	dəz	ダズ	【動】～する
+494	speak	spiːk	スピーク	【動】話す
+495	read	ríːd	リード	【動】読む
+496	study	stʌ́di	スタディ	【動】勉強する
+497	like	láik	ライク	【動】好きだ
+498	want	wɑnt	ウァント	【動】ほしい
+499	look	lúk	ルック	【動】見る
+500	walk	wɔːk	ウォーク	【動】歩く・散歩させる
+501	run	rʌ́n	ラン	【動】走る
+502	eat	íːt	イート	【動】食べる
+503	drink	dríŋk	ドゥリンク	【動】飲む
+504	sing	siŋ	スィング	【動】歌う
+505	jump	dʒʌmp	ジャンプ	【動】ジャンプする
+506	dance	dæns	ダンス	【動】おどる
+507	stop	stɑ́p	スタップ	【動】止まる
+508	buy	bái	バイ	【動】買う
+509	see	síː	スィー	【動】見える、（人に）会う
+510	cook	kúk	クック	【動】料理する
+511	watch	wɑtʃ	ワッチ	【動】（じっと）見る
+512	teach	tíːtʃ	ティーチ	【動】教える
+513	meet	míːt	ミート	【動】会う
+514	play	pléi	プレイ	【動】（スポーツを）する、演奏する
+515	get	get	ゲット	【動】手に入れる
+516	make	méik	メイク	【動】作る
+517	put	pút	プット	【動】置く
+518	sound	sáund	サウンド	【動】～に聞こえる
+519	clean	kliːn	クリーン	【動】そうじする
+520	wash	wɔʃ	ウォシュ	【動】洗う
+521	leave	líːv	リーヴ	【動】去る、出発する
+522	ride	ráid	ライド	【動】乗る
+523	turn	tə́ːrn	ターン	【動】曲がる
+524	check	tʃék	チェック	【動】確認する
+525	brush	brʌ́ʃ	ブラッシュ	【動】みがく
+526	practice	prǽktis	プラクティス	【動】練習する
+527	swim	swim	スウィム	【動】泳ぐ
+528	ski	skíː	スキー	【動】スキーをする
+529	skate	skéit	スケイト	【動】スケートをする
+530	good	gúd	グッド	【形】よい、上手な
+531	fine	fáin	ファイン	【形】けっこうな、元気な
+532	nice	náis	ナイス	【形】すてきな
+533	great	gréit	グレイト	【形】すばらしい
+534	wonderful	wʌ́ndərfl	ワンダフォウ	【形】すばらしい
+535	fantastic	fæntǽstik	ファンタスティク	【形】すばらしい
+536	big	bíg	ビッグ	【形】大きい
+537	small	smɔl	スモール	【形】小さい
+538	long	lɑ́ːŋ	ロング	【形】長い
+539	short	ʃɔrt	ショート	【形】短い
+540	high	hái	ハイ	【形】高い
+541	hard	hɑ́rd	ハード	【形】難しい
+542	soft	sɔft	ソフト	【形】やわらかい
+543	new	njúː	ニュー	【形】新しい
+544	old	óuld	オウルド	【形】古い
+545	many	méni	メニィ	【形】たくさんの
+546	much	mʌ́tʃ	マッチ	【形】たくさんの
+547	special	spéʃəl	スペシャル	【形】特別な
+548	beautiful	bjúːtəfl	ビューティフル	【形】美しい
+549	exciting	iksáitiŋ	イクサイティング	【形】わくわくさせる
+550	fun	fʌ́n	ファン	【形】たのしい、おもしろい
+551	hot	hɑ́t	ハット	【形】暑い、熱い、からい
+552	cold	kould	カウルド	【形】寒い、冷たい
+553	cool	kúːl	クール	【形】すずしい
+554	happy	hǽpi	ハッピィ	【形】幸せな
+555	sorry	sɔ́ri	ソリィ	【形】すまないと思って
+556	sad	sǽd	サッド	【形】悲しい
+557	sleepy	slíːpi	スリーピィ	【形】ねむい
+558	tired	táiərd	タイアド	【形】つかれた
+559	hungry	hʌ́ŋgri	ハングリィ	【形】空腹の
+560	busy	bízi	ビィズィー	【形】いそがしい
+561	kind	káind	カインド	【形】親切な
+562	friendly	fréndli	フレンドゥリィ	【形】友好的な
+563	gentle	dʒéntl	ジェントゥル	【形】やさしい
+564	active	ǽktiv	アクティヴ	【形】活動的な
+565	brave	bréiv	ヴレイブ	【形】勇かんな
+566	delicious	dilíʃəs	ディリシャス	【形】とてもおいしい
+567	sweet	swiːt	スウィート	【形】あまい
+568	salty	sɔ́lti	ソルティ	【形】塩からい
+569	sour	saur	サウア	【形】すっぱい
+570	bitter	bítər	ビタァ	【形】苦い
+571	yummy	jʌ́mi	ヤミィ	【形】おいしい、すばらしい
+572	cloudy	kláudi	クラウディ	【形】くもりの
+573	rainy	réini	レイニィ	【形】雨降りの
+574	snowy	snóui	スノウイ	【形】雪降りの
+575	sunny	sʌ́ni	サニィ	【形】晴れた
+576	not	nɑt	ナット	【副】～でない
+577	up	ʌ́p	アップ	【副】上へ
+578	down	dáun	ダウン	【副】下へ
+579	right	ráit	ライト	【副】右へ
+580	left	léft	レフト	【副】左へ
+581	here	híər	ヒヤ	【副】ここで
+582	outside	àutsáid	アウトサイド	【副】外で
+583	straight	stréit	ストレイト	【副】まっすぐに
+584	very	véri	ヴェリィ	【副】とても
+585	well	wél	ウェル	【副】上手に、よく
+586	so	sóu	ソゥ	【副】そのように、とても
+587	always	ɔ́lweiz	オルウェイズ	【副】いつも
+588	usually	júːʒuəli	ユージュアリィ	【副】ふつうは、たいていは
+589	sometimes	sʌ́mtàimz	サムタイムズ	【副】ときどき
+590	never	névər	ネヴァ	【副】決して～ない
+591	together	təgéðər	トゥゲザァ	【副】一緒に
+592	when	hwén	ホウェン	【副詞】いつ
+593	where	hwέər	ホウェア	【副詞】どこに
+594	how	háu	ハウ	【副詞】どのようにして
+595	why	hwái	ホワイ	【副詞】なぜ
+596	then	ðén	ゼン	【副詞】その時、それなら
+597	for	fɔ́r	フォァ	【前】～のために
+598	from	frəm	フロム	【前】～から
+599	in	in	イン	【前】～の中に
+600	on	ɔn	オン	【前】～の上に
+601	under	ʌ́ndər	アンダァ	【前】～の下に
+602	about	əbáut	アバウト	【前】～について
+603	by	bái	バイ	【前】～によって、～のそばに
+604	I	ái	アイ	【代名詞】私
+605	my	mái	マイ	【代名詞】私の
+606	me	míː	ミー	【代名詞】私を
+607	you	júː	ユー	【代名詞】あなた
+608	your	júər	ユア	【代名詞】あなたの
+609	you	júː	ユー	【代名詞】あなたを
+610	we	wíː	ウィー	【代名詞】私たち
+611	our	áuər	アワー	【代名詞】私たちの
+612	us	ʌ́s	アス	【代名詞】私たちを
+613	he	híː	ヒー	【代名詞】彼
+614	his	híz	ヒズ	【代名詞】彼の
+615	him	hím	ヒム	【代名詞】彼を
+616	she	ʃíː	シー	【代名詞】彼女
+617	her	hə́ːr	ハー	【代名詞】彼女の
+618	her	hə́ːr	ハー	【代名詞】彼女を
+619	they	ðéi	ゼイ	【代名詞】彼ら
+620	their	ðέər	ゼア	【代名詞】彼らの
+621	them	ðém	ゼム	【代名詞】彼らを
+622	it	ít	イット	【代名詞】それ
+623	this	ðís	ジス	【代名詞】これ
+624	that	ðǽt	ザット	【代名詞】あれ
+625	what	hwʌ́t	ホワット	【代名詞】何
+626	who	húː	フー	【代名詞】誰
+627	hi	hái	ハイ	【間投詞】やあ
+628	hello	helóu	ヘロゥ	【間投詞】こんにちは
+629	yes	jes	イェス	【間投詞】そうです
+630	no	nóu	ノゥ	【間投詞】いいえ
+631	oh	óu	オゥ	【間投詞】おや
+632	wow	wáu	わあ！	【間投詞】ええと
+633	well	wél	ウエル	【間投詞】ええと
+634	OK	òukéi	オウケイ	【間投詞】いいよ
+635	bye	bái	バイ	【間投詞】さようなら
+636	goodbye	gùdbái	グッドバイ	【間投詞】さようなら
+637	let’s	léts	レッツ	【省略形】= let us ～しよう
+638	and	ən(d)	アンド	【接続詞】～と…
+639	but	bət	バット	【接続詞】しかし
+640	can	kæn	キャン	【助動詞】～できる

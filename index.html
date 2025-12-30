@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英単語学習アプリ</title>
+    <link rel="manifest" href="manifest.json">
+    <style>
+        :root {
+            --primary-color: #1a73e8;
+            --bg-color: #f8f9fa;
+            --card-bg: #ffffff;
+        }
+        body {
+            font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+        .container {
+            width: 100%;
+            max-width: 500px;
+            padding: 40px 20px;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        h1 {
+            font-size: 26px;
+            color: #333;
+            margin: 0;
+        }
+        p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        /* 카드 리스트 스타일 */
+        .menu-list {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .menu-item {
+            background: var(--card-bg);
+            padding: 20px;
+            border-radius: 12px;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border-left: 5px solid var(--primary-color);
+        }
+        .menu-item:active {
+            transform: scale(0.98);
+            box-shadow: none;
+        }
+        .menu-text {
+            display: flex;
+            flex-direction: column;
+        }
+        .level-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+        .level-desc {
+            font-size: 12px;
+            color: #888;
+            margin-top: 4px;
+        }
+        .arrow {
+            color: #ccc;
+            font-size: 20px;
+        }
+
+        /* 학년별 포인트 색상 (선택 사항) */
+        .syo { border-left-color: #4caf50; }
+        .chu { border-left-color: #ff9800; }
+        .ko  { border-left-color: #e91e63; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>英単語学習</h1>
+        <p>テストするレベルを選択してください</p>
+    </header>
+
+    <div class="menu-list">
+        <a href="test/syo.html" class="menu-item syo">
+            <div class="menu-text">
+                <span class="level-title">小学校</span>
+                <span class="level-desc">基本の英単語</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+
+        <a href="test/chu1.html" class="menu-item chu">
+            <div class="menu-text">
+                <span class="level-title">中学1年生</span>
+                <span class="level-desc">Standard Level 1</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+        <a href="test/chu2.html" class="menu-item chu">
+            <div class="menu-text">
+                <span class="level-title">中学2年生</span>
+                <span class="level-desc">Standard Level 2</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+        <a href="test/chu3.html" class="menu-item chu">
+            <div class="menu-text">
+                <span class="level-title">中学3年生</span>
+                <span class="level-desc">Standard Level 3</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+
+        <a href="test/ko1.html" class="menu-item ko">
+            <div class="menu-text">
+                <span class="level-title">高校1年生</span>
+                <span class="level-desc">Advanced Level 1</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+        <a href="test/ko2.html" class="menu-item ko">
+            <div class="menu-text">
+                <span class="level-title">高校2年生</span>
+                <span class="level-desc">Advanced Level 2</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+        <a href="test.html" class="menu-item ko">
+            <div class="menu-text">
+                <span class="level-title">高校3年生</span>
+                <span class="level-desc">University Entrance</span>
+            </div>
+            <span class="arrow">❯</span>
+        </a>
+    </div>
+</div>
+
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js');
+    }
+</script>
+
+</body>
+</html>

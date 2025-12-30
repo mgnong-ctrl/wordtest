@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小学校英語単語テスト</title>
+    <link rel="manifest" href="../manifest.json">
+    <style>
+        body { font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif; display: flex; justify-content: center; padding: 20px; background: #f0f4f8; margin: 0; }
+        .container { background: white; padding: 20px; border-radius: 15px; box-shadow: 0 10px 25px rgba(0,0,0,0.1); width: 100%; max-width: 600px; }
+        h2 { color: #333; text-align: center; margin-bottom: 20px; font-size: 20px; }
+        .progress-container { width: 100%; background-color: #e0e0e0; border-radius: 10px; margin-bottom: 20px; }
+        .progress-bar { width: 0%; height: 8px; background-color: #4caf50; border-radius: 10px; transition: width 0.3s; }
+        .quiz-box { text-align: center; min-height: 200px; }
+        .word-display { font-size: 36px; font-weight: bold; color: #1a73e8; margin-bottom: 5px; }
+        .info-display { color: #888; font-size: 14px; margin-bottom: 20px; }
+        .options-list { display: flex; flex-direction: column; gap: 10px; }
+        .option-btn { padding: 15px 20px; background: #fff; border: 2px solid #dee2e6; border-radius: 10px; cursor: pointer; font-size: 16px; text-align: left; width: 100%; box-sizing: border-box; }
+        .option-btn:hover { background: #e7f0ff; }
+        .review-table { width: 100%; border-collapse: collapse; margin-top: 20px; font-size: 13px; }
+        .review-table th, .review-table td { padding: 10px 5px; border-bottom: 1px solid #eee; text-align: left; }
+        .status-ok { color: #28a745; font-weight: bold; }
+        .status-ng { color: #dc3545; font-weight: bold; }
+        .correct-ans { font-size: 11px; color: #1a73e8; display: block; }
+        .restart-btn, .home-btn { margin-top: 10px; padding: 12px; border: none; border-radius: 8px; cursor: pointer; width: 100%; font-weight: bold; font-size: 16px; }
+        .restart-btn { background: #1a73e8; color: white; }
+        .home-btn { background: #6c757d; color: white; text-decoration: none; display: inline-block; text-align: center; box-sizing: border-box; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div id="quiz-app">
+        <h2 id="title">小学校英語単語テスト</h2>
+        <div class="progress-container"><div id="progress-bar" class="progress-bar"></div></div>
+        <div id="content"><p style="text-align: center;">読み込み中...</p></div>
+    </div>
+</div>
+
+<script>
+    let allWords = [];
+    let quizSet = [];
+    let userAnswers = [];
+    let currentIdx = 0;
+    let score = 0;
+
+    // 경로 수정: 상위 폴더의 data 폴더 안의 JSON 읽기
+    fetch('../data/Elementary English Vocabulary-sheet2api.com.json')
+        .then(res => res.json())
+        .then(data => {
+            allWords = data;
+            initQuiz();
+        })
+        .catch(() => { document.getElementById('content').innerHTML = "데이터를 불러올 수 없습니다 (JSON 경로 확인)"; });
+
+    function initQuiz() {
+        quizSet = [...allWords].sort(() => 0.5 - Math.random()).slice(0, 10);
+        userAnswers = [];
+        currentIdx = 0;
+        score = 0;
+        showQuestion();
+    }
+
+    function showQuestion() {
+        const item = quizSet[currentIdx];
+        document.getElementById('progress-bar').style.width = (currentIdx / 10) * 100 + "%";
+        let distractors = allWords.filter(w => w.word !== item.word).sort(() => 0.5 - Math.random()).slice(0, 3).map(w => w.meaning);
+        let options = [item.meaning, ...distractors].sort(() => 0.5 - Math.random());
+
+        document.getElementById('content').innerHTML = `
+            <div class="quiz-box">
+                <div class="word-display">${item.word}</div>
+                <div class="info-display">発音: ${item.pronunciation} [${item.yomikata}]</div>
+                <div class="options-list">
+                    ${options.map((opt, i) => `<button class="option-btn" onclick="nextStep('${opt.replace(/'/g, "\\'")}','${item.meaning.replace(/'/g, "\\")}')">${i+1}. ${opt}</button>`).join('')}
+                </div>
+            </div>
+        `;
+    }
+
+    function nextStep(selected, correct) {
+        userAnswers.push({ word: quizSet[currentIdx].word, selected, correct, isCorrect: selected === correct });
+        if (selected === correct) score++;
+        currentIdx++;
+        if (currentIdx < 10) showQuestion(); else showFinalResult();
+    }
+
+    function showFinalResult() {
+        document.getElementById('progress-bar').style.width = "100%";
+        let tableRows = userAnswers.map(ans => `
+            <tr>
+                <td>${ans.word}</td>
+                <td class="${ans.isCorrect ? 'status-ok' : 'status-ng'}">${ans.isCorrect ? '○' : '×'}</td>
+                <td>${ans.selected}${!ans.isCorrect ? `<span class="correct-ans">正解: ${ans.correct}</span>` : ''}</td>
+            </tr>
+        `).join('');
+
+        document.getElementById('content').innerHTML = `
+            <div style="text-align:center;">
+                <div style="font-size:40px; font-weight:bold; color:#1a73e8;">${score * 10}点</div>
+                <table class="review-table">
+                    <thead><tr><th>単語</th><th>判定</th><th>回答 / 正解</th></tr></thead>
+                    <tbody>${tableRows}</tbody>
+                </table>
+                <button class="restart-btn" onclick="initQuiz()">もう一度解く</button>
+                <a href="../index.html" class="home-btn">メニューに戻る</a>
+            </div>
+        `;
+    }
+</script>
+</body>
+</html>
